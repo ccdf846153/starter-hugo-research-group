@@ -26,6 +26,6 @@ main:
     url: publication
     weight: 70
   - name: 科研实习
-    url: event
+    url: internship
     weight: 80
 
