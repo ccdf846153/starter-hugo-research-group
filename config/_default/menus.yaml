@@ -10,16 +10,22 @@ main:
   - name: 新闻
     url: post
     weight: 20
-  - name: 科研团队
-    url: people
+  - name: 科研成果
+    url: post
     weight: 30
-  - name: 学生风采
-    url: event
-    weight: 40
   - name: 论文
     url: publication
+    weight: 40
+  - name: 科研团队
+    url: people
     weight: 50
+  - name: 学生风采
+    url: event
+    weight: 60
+  - name: 论文
+    url: publication
+    weight: 70
   - name: 科研实习
     url: event
-    weight: 40
+    weight: 80
 
