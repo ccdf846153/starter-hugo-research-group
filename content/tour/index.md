@@ -52,21 +52,35 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
   - block: collection
+    id: posts
     content:
-      title: Latest News
-      subtitle:
-      text:
+      title: Recent Posts
+      subtitle: ''
+      text: 'Check out my recent blog posts below!'
+      # Choose how many pages you would like to display (0 = all pages)
       count: 5
+      # Filter on criteria
       filters:
-        author: ''
-        category: ''
+        # The folders to display content from
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
         exclude_featured: false
-        publication_type: ''
-        tag: ''
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
       offset: 0
-      order: desc
-      page_type: post
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
     design:
-      view: card
+      # Choose a listing view
+      view: compact
+      # Choose single or dual column layout
       columns: '1'
 ---
