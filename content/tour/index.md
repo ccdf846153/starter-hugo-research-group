@@ -43,6 +43,24 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
+    - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
