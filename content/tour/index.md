@@ -82,5 +82,5 @@ sections:
       # Choose a listing view
       view: Card 
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
 ---
