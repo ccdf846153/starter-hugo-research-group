@@ -54,7 +54,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: 新闻
       subtitle: ''
       text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
@@ -82,5 +82,5 @@ sections:
       # Choose a listing view
       view: compact
       # Choose single or dual column layout
-      columns: '3'
+      columns: '2'
 ---
