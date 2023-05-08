@@ -82,5 +82,5 @@ sections:
       # Choose a listing view
       view: compact
       # Choose single or dual column layout
-      columns: '1'
+      columns: '3'
 ---
