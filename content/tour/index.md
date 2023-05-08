@@ -80,7 +80,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: compact
+      view: Card 
       # Choose single or dual column layout
-      columns: '2'
+      columns: '1'
 ---
