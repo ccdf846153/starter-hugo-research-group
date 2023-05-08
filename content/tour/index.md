@@ -43,7 +43,7 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
-    - block: collection
+  - block: collection
     content:
       title: Latest News
       subtitle:
