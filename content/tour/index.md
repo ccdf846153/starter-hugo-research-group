@@ -60,9 +60,8 @@ sections:
     # Order that this section appears on the page.
     weight: 20
 
-    title: '新闻'
-    subtitle: 'abcde
-  '
+    title: 新闻
+
 
     content:
       # Page type to display. E.g. project.
