@@ -86,7 +86,6 @@ sections:
     id: posts
     content:
       title: 新闻
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
         # Folders to display content from
         folders:
@@ -118,4 +117,5 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+      spacing: {padding: [0, 0, 0, 0]}
 ---
