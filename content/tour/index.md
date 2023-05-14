@@ -125,5 +125,6 @@ sections:
       view: Masonry 
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+      spacing: {padding: [0, 0, 0, 0]}
 ---
 
