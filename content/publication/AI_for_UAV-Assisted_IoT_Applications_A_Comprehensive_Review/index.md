@@ -1,5 +1,5 @@
 ---
-title: 'AI for UAV-Assisted IoT Applications A Comprehensive_Review'
+title: 'AI for UAV-Assisted IoT Applications A Comprehensive Review'
 authors:
   - Nan Cheng
   - Shen Wu
