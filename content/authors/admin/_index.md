@@ -10,7 +10,7 @@ last_name: 楠
 superuser: true
 
 # Role/position
-role: Professor 
+role: 教授
 
 # Organizations/Affiliations
 organizations:
@@ -48,7 +48,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=Cxm51twAAAAJ
-  - icon: fa-house-user
+  - icon: house
     icon_pack: fas
     link: https://web.xidian.edu.cn/nancheng/
 # Link to a PDF of your resume/CV from the About widget.
