@@ -4,7 +4,7 @@ type: landing
 
 sections:
   - block: collection
-    id: posts
+    id: posts2
     content:
       title: Recent Posts
       subtitle: ''
