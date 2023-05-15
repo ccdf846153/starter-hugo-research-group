@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 空天地一体化网络
-        content:  <ul><li>面向服务的空天地一体化异构异质网络资源调度策略</li>  <br> <li>基于数字孪生的天地一体化网络管理架构</li> <br> <li>知识驱动的多场景按需服务支持技术</li></ul>
+        content:  <li>面向服务的空天地一体化异构异质网络资源调度策略</li>  <br> <li>基于数字孪生的天地一体化网络管理架构</li> <br> <li>知识驱动的多场景按需服务支持技术</li>
 
 
                 
@@ -21,7 +21,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: 车联网
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
