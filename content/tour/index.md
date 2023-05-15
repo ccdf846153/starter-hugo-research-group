@@ -8,8 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 空天地一体化网络
+        content: ·服务功能链（SFC）
+        ·基于知识的
+        ·方向2
+
+                
         align: center
         background:
           image:
