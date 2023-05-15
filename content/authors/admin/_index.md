@@ -48,8 +48,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=Cxm51twAAAAJ
-  - icon: fa-house
-    icon_pack: fab
+  - icon: fa-house-user
+    icon_pack: fas
     link: https://web.xidian.edu.cn/nancheng/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
