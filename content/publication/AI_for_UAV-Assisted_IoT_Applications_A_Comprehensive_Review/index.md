@@ -30,12 +30,11 @@ abstract: With the rapid development of the Internet of Things (IoT), there are 
 summary:  With the rapid development of the Internet of Things (IoT), there are a dramatically increasing number of devices, leading to the fact that only using terrestrial infrastructure can hardly provide high-quality services to all devices. 
 
 tags:
-  - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: "IEEE Xplore"
+ url: "https://ieeexplore.ieee.org/document/10113154"
 url_pdf: 
 url_code: ''
 url_dataset: ''
