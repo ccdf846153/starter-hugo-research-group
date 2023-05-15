@@ -48,7 +48,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=Cxm51twAAAAJ
-  - icon: f015
+  - icon: <i class="fa-solid fa-house"></i>
     icon_pack: fab
     link: https://web.xidian.edu.cn/nancheng/
 # Link to a PDF of your resume/CV from the About widget.
