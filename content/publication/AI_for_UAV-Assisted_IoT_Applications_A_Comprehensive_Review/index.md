@@ -1,5 +1,5 @@
 ---
-title: 'AI_for_UAV-Assisted_IoT_Applications_A_Comprehensive_Review'
+title: 'AI for UAV-Assisted IoT Applications A Comprehensive_Review'
 authors:
   - Nan Cheng
   - Shen Wu
@@ -32,9 +32,6 @@ summary:  With the rapid development of the Internet of Things (IoT), there are 
 tags:
 featured: false
 
-links:
-- name: "IEEE Xplore"
- url: "https://ieeexplore.ieee.org/document/10113154"
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -47,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 
   focal_point: ''
   preview_only: false
 
