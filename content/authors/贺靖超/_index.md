@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 承楠
+title: 贺靖超
 
 # Full Name (for SEO)
-first_name: 承
-last_name: 楠
+first_name: 贺
+last_name: 靖超
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 教授
+role: 博士研究生
 
 # Organizations/Affiliations
 organizations:
@@ -66,5 +66,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Teacher
+  - PHD Student
 ---
