@@ -31,7 +31,7 @@ summary:
 tags:
 featured: false
 
-url_pdf: './AI for UAV-Assisted IoT Applications A Comprehensive Review.pdf'
+url_pdf: './AI_for_UAV-Assisted_IoT_Applications_A_Comprehensive_Review.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
