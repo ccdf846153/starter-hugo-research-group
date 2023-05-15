@@ -7,7 +7,7 @@ first_name: 赵
 last_name: 茁乔
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: 校友（比亚迪股份有限公司）
