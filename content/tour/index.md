@@ -9,9 +9,8 @@ sections:
     content:
       slides:
       - title: 空天地一体化网络
-        content: ·服务功能链（SFC）
-        ·基于知识的
-        ·方向2
+        content: '服务功能链（SFC）'
+
 
                 
         align: center
