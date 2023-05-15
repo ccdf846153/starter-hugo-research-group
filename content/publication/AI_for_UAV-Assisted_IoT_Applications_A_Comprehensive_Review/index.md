@@ -30,7 +30,9 @@ abstract: With the rapid development of the Internet of Things (IoT), there are 
 summary:  
 tags:
 featured: false
-
+links:
+  - name: IEEE Link
+    url: https://ieeexplore.ieee.org/document/10113154
 url_pdf: './AI_for_UAV-Assisted_IoT_Applications_A_Comprehensive_Review.pdf'
 url_code: ''
 url_dataset: ''
