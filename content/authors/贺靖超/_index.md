@@ -7,7 +7,7 @@ first_name: 贺
 last_name: 靖超
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: 博士研究生
