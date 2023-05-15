@@ -22,7 +22,7 @@ sections:
           position: right
           color: '#666'
       - title: 车联网
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content:  面向自动驾驶任务的网络资源调度<br> 基于信息价值的多维资源协同调度<br> 车联网中视频流的自适应配置传输
         align: left
         background:
           image:
@@ -31,9 +31,9 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
+      - title: 智能网络
+        content: 分布式大模型训练与推理<br> 分布式韧性智能图计算<br> 可信高效联邦学习框架<br> 数字孪生辅助的快速强化学习
+        align: left
         background:
           image:
             filename: ai.png
