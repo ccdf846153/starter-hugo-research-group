@@ -1,15 +1,15 @@
 ---
 # 姓名
-title: 傅连浩
+title: 王葳
 
 # 姓名
-first_name: 傅
-last_name: 连浩
+first_name: 王
+last_name: 葳
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 硕士研究生
+role: 博士研究生
 
 
 organizations:
@@ -25,7 +25,16 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lhfu@stu.xidian.edu.cn'
+    link: 'mailto:weiwang_2042@stu.xidian.edu.cn'
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.ca/citations?user=Cxm51twAAAAJ
+  # - icon: house
+  #   icon_pack: fas
+  #   link: https://web.xidian.edu.cn/nancheng/
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: files/cv.pdf
 
 email: ''
 highlight_name: false
@@ -36,5 +45,5 @@ highlight_name: false
 #       - Undergraduate Student
 #       - Alumni
 user_groups:
-  - Master Student
+  - PHD Student
 ---
