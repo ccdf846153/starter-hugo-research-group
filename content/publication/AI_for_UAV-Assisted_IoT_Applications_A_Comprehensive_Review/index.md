@@ -27,12 +27,11 @@ publication_short: ''
 abstract: With the rapid development of the Internet of Things (IoT), there are a dramatically increasing number of devices, leading to the fact that only using terrestrial infrastructure can hardly provide high-quality services to all devices. Due to their flexibility, maneuverability, and economy, unmanned aerial vehicles (UAVs) are widely used to improve the performance of IoT networks. UAVs can not only provide wireless access to IoT devices in the absence of a terrestrial network but can also perform rich IoT services and applications such as video surveillance, cargo transportation, pesticide spraying, and so forth. However, due to the high complexity, dynamics, and heterogeneity of the UAV-assisted IoT networks, growing attention has focused on using artificial intelligence (AI)-based methods to optimize, schedule, and orchestrate UAV-assisted IoT networks. In this article, we comprehensively analyze the impact of applying advanced AI architectures, models, and methods to different aspects of UAV-assisted IoT networks, including key IoT technologies, tasks, and applications. In addition, this article also explores challenges and discusses potential research directions of AI-enabled UAV-assisted IoT networks.
 
 # Summary. An optional shortened abstract.
-summary:  With the rapid development of the Internet of Things (IoT), there are a dramatically increasing number of devices, leading to the fact that only using terrestrial infrastructure can hardly provide high-quality services to all devices. 
-
+summary:  
 tags:
 featured: false
 
-url_pdf: 
+url_pdf: './AI for UAV-Assisted IoT Applications A Comprehensive Review.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,9 +61,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
