@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 空天地一体化网络
-        content:  面向服务的空天地一体化异构异质网络资源调度策略 <br> 基于数字孪生的天地一体化网络管理架构
+        content:  <div style="font-size:12pt;">面向服务的空天地一体化异构异质网络资源调度策略 <br> 基于数字孪生的天地一体化网络管理架构</div>
 
 
                 
