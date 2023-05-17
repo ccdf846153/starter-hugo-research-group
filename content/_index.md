@@ -88,6 +88,7 @@ sections:
         tags: [paper, internship, forum, contest]
         kinds:
           - page
+      sort_by: 'date'
 
     design:
       columns: '1'
