@@ -71,7 +71,7 @@ sections:
     weight: 20
 
     content:
-      title: <div style="margin-bottom:1em; margin-top:0.5em;">学术消息</div>
+      title: <div style="margin-bottom:1em; margin-top:-0.5em;">学术消息</div>
       # Page type to display. E.g. project.
       # page_type: post
 
@@ -99,7 +99,7 @@ sections:
   - block: collection
 
     content:
-      title: <div style="margin-bottom:1em; margin-top:0.5em;">科研成果</div>
+      title: <div style="margin-bottom:1em; margin-top:-0.5em;">科研成果</div>
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
       # Filter on criteria
