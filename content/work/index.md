@@ -13,7 +13,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - post
+          - work
         author: ""
         category: ""
         tag: ""
