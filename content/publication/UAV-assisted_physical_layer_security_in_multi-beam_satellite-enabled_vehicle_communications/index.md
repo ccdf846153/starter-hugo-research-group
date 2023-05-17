@@ -1,9 +1,7 @@
 ---
 # 请注意 任何参数（如摘要）值内出现的任何双引号（“）或反斜杠（如LaTeX\times）都应使用反斜杠（\）进行转义。例如，符号“和LaTeX text\times分别变为\”和\\times。有关详细信息，请参阅YAML或TOML文档。
 #title：论文标题可以使用空格注意引号
-title: 'UAV-Assisted Physical Layer Security in
-Multi-Beam Satellite-Enabled Vehicle
-Communications'
+title: 'UAV-Assisted Physical Layer Security in Multi-Beam Satellite-Enabled Vehicle Communications'
 #按照实际情况填写
 authors:
   - Zhisheng Yin
@@ -31,7 +29,7 @@ publication: 'IEEE Transactions on Intelligent Transportation Systems'
 # 留空
 publication_short: ''
 # 文章摘要
-In this paper, we investigate unmanned aerial vehicle (UAV) assisted physical layer security in multi-beam satellite enabled vehicle communications. Particularly, the UAV is exploited as a relay to improve the secure satellite-to-vehicle link, and simultaneously serves as a jammer by deliberately generating artificial noise (AN) to confuse Eve. The satellite beamforming (BF) and UAV power allocation (PA) are jointly optimized to maximize the secrecy rate of the legitimate user within a target beam while guaranteeing the quality of service (QoS) of users within other beams. Since the problem is nonconvex, we first convert it into an equivalent two-stage problem. Then, the outer-stage problem is solved by using one-dimensional search, and the inner-stage problem is transformed to a bi-convex problem by using the semi-definite relaxation (SDR) and Charnes Cooper transformation. To solve the inner-stage bi-convex problem, we propose an iterative alternating optimization algorithm, where the optimal BF is obtained by semi-definite programming (SDP), and the optimal UAV PA is subsequently obtained by solving the reformulated fractional programming problem with an iterative Dinkelbach method. The tightness of SDR and the complexity of our proposed approach are analyzed, and extensive simulations are carried out to evaluate the effectiveness of our proposed approach.
+abstract: In this paper, we investigate unmanned aerial vehicle (UAV) assisted physical layer security in multi-beam satellite enabled vehicle communications. Particularly, the UAV is exploited as a relay to improve the secure satellite-to-vehicle link, and simultaneously serves as a jammer by deliberately generating artificial noise (AN) to confuse Eve. The satellite beamforming (BF) and UAV power allocation (PA) are jointly optimized to maximize the secrecy rate of the legitimate user within a target beam while guaranteeing the quality of service (QoS) of users within other beams. Since the problem is nonconvex, we first convert it into an equivalent two-stage problem. Then, the outer-stage problem is solved by using one-dimensional search, and the inner-stage problem is transformed to a bi-convex problem by using the semi-definite relaxation (SDR) and Charnes Cooper transformation. To solve the inner-stage bi-convex problem, we propose an iterative alternating optimization algorithm, where the optimal BF is obtained by semi-definite programming (SDP), and the optimal UAV PA is subsequently obtained by solving the reformulated fractional programming problem with an iterative Dinkelbach method. The tightness of SDR and the complexity of our proposed approach are analyzed, and extensive simulations are carried out to evaluate the effectiveness of our proposed approach.
 
 # 这些都留空 不要删除
 summary:  
