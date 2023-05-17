@@ -80,7 +80,7 @@ sections:
       page_type: post
 
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      # filter_default: 0
+      filter_default: 0
       filters:
         tags: [paper, internship, forum, contest]
 
