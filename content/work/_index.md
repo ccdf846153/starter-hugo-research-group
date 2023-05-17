@@ -1,5 +1,5 @@
 ---
-title: <div style="margin-bottom:0.5em;">科研成果<div>
+title: 科研成果
 type: landing
 
 sections:
@@ -7,7 +7,7 @@ sections:
 
     content:
       # Choose how many pages you would like to display (0 = all pages)
-      count: 20
+      count: 0
       # Filter on criteria
       filters:
         # The folders to display content from
