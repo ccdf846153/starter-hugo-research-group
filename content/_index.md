@@ -89,10 +89,5 @@ sections:
       background: {}
       #spacing: {padding: [0, 0, 0, 0]}
 
-
-  - block: portfolio
-    id: projects
-    
-
 ---
 
