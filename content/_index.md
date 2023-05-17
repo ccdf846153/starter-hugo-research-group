@@ -20,7 +20,7 @@ sections:
             filters:
               brightness: 0.7
           position: right
-          color: '#333'
+          color: '#fff'
       - title: 车联网与自动驾驶技术
         content: <div style="font-size:12pt; width:50%; color:#fff;">车联网是指通过应用传感技术、通信技术、网络技术、智能技术、感知与控制技术等，有机地融合在车辆和交通道路管理体系中而建成的一种实时、智能、高效的综合交通管理系统，是能够实现智能化交通管理、智能动态信息服务和自动驾驶的一体化网络。研究方向包括：车联网低时延高可靠技术，基于信息年龄和信息价值的调度技术，网络切片技术，模型和数据双驱动网络优化技术，车路协同技术</div>
         align: left
@@ -30,7 +30,7 @@ sections:
             filters:
               brightness: 0.7
           position: center
-          color: '#333'
+          color: '#fff'
       - title: 6G与未来智能无线网络
         content: <div style="font-size:12pt; width:50%; color:#fff;">通知人工智能及深度学习技术实现网络智慧内生，AI能力的全网渗透，快速、自动、智能地对网络各方面进行高效管控，包括规划、管理、优化以及康复等，有效满足不断出现的新需求，使能资源管理的智慧决策，降低成本并提高效率。研究内容包括：基于图神经网络的快速网络部署，知识驱动的网络资源调配，知识图谱赋能的网络管控，动态神经模型与按需服务技术，大模型与预训练模型在网络中的应用，可解释人工智能的网络应用，多智能体强化学习无人机集群对抗，数字孪生驱动的强化学习，智能测试方法等</div>
         align: left
@@ -40,7 +40,7 @@ sections:
             filters:
               brightness: 0.5
           position: center
-          color: '#333'
+          color: '#fff'
         link:
           icon: graduation-cap
           icon_pack: fas
