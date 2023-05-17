@@ -27,6 +27,10 @@ sections:
       # Field to sort by, such as Date or Title
       sort_by: 'content_id'
       sort_ascending: true
+      archive:
+        enable: true
+        text: more
+        link: ../work/
 
     design:
       # Choose a listing view
