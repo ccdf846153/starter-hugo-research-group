@@ -115,9 +115,7 @@ sections:
           - post
         author: ""
         category: ""
-        tag:
-          - "report"
-          - "paper"
+        tag: "report"
         publication_type: ""
         featured_only: false
         exclude_featured: false
@@ -127,14 +125,17 @@ sections:
       # Useful if you wish to show the first item in the Featured widget
       offset: 0
       # Field to sort by, such as Date or Title
-      sort_by: 'Date'
+      sort_by: 'date'
       sort_ascending: false
+      archive:
+        enable: true
+        text: More
+        link: post/
     design:
       # Choose a listing view
-      view: masonry
+      view: showcase
       # Choose single or dual column layout
       columns: '1'
-      flip_alt_rows: true
-      spacing: {padding: [20px, 20px, 20px, 20px]}
+    
 ---
 
