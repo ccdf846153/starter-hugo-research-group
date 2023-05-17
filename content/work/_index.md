@@ -1,11 +1,12 @@
 ---
-title: 科研成果
+title: Our Work
 type: landing
 
 sections:
   - block: collection
 
     content:
+      title: <div style="margin-bottom:1em; margin-top:0.5em;">科研成果</div>
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
