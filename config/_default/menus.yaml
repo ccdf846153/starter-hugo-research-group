@@ -28,4 +28,6 @@ main:
   - name: 科研实习
     url: internship
     weight: 80
+  - name: 联系我们
+    url: contact
 
