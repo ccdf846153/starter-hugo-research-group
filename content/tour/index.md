@@ -89,7 +89,7 @@ sections:
         exclude_tags: [expired]
         kinds:
           - page
-      count: 6
+      count: 5
       sort_by: 'date'
       sort_ascending: false
       archive:
