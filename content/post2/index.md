@@ -31,7 +31,7 @@ sections:
 
     design:
       # Choose a listing view
-      view: Showcase
+      view: showcase
       # Choose single or dual column layout
       columns: '1'
       flip_alt_rows: true
