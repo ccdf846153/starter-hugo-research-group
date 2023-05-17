@@ -96,35 +96,38 @@ sections:
       background: {}
       # spacing: {padding: [20px, 20px, 20px, 20px]}
 
-  - block: portfolio
+  - block: collection
 
-    # Order that this section appears on the page.
-    weight: 20
     content:
-      title: <div style="margin-bottom:1em; margin-top:0.5em;">新闻</div>
-      # Page type to display. E.g. project.
-      # page_type: post
-
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      filter_default: 0
+      title: <div style="margin-bottom:1em; margin-top:0.5em;">科研成果</div>
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      # Filter on criteria
       filters:
+        # The folders to display content from
         folders:
-          - post
-        # All set tags: report, event, paper, internship, forum, contest
-        exclude_tags: [news_expired]
-        tags: [report, event, internship]
-        kinds:
-          - page
-      count: 5
-      sort_by: 'date'
-      sort_ascending: false
+          - work
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'content_id'
+      sort_ascending: true
 
     design:
+      # Choose a listing view
+      view: Showcase
+      # Choose single or dual column layout
       columns: '1'
-      view: masonry
       flip_alt_rows: true
-      background: {}
-      # spacing: {padding: [20px, 20px, 20px, 20px]}
     
 ---
 
