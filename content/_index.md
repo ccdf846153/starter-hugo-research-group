@@ -24,7 +24,7 @@ sections:
           text: 加入我们
           url: ../contact/
       - title: 空天地一体化网络
-        content: <div style="font-size:12pt; width:50%; height:180px; color:#fff; text-indent:2em;"><div style="height:180px; display:inline-block;position:relative;top:50%;-webkit-transform:translateY(-50%); text-overflow:ellipsis;"><p style="max-height:50%; text-overflow:ellipsis; overflow:hidden;">空天地一体化网络可为陆海空天用户提供无缝信息服务，满足未来网络对于全时全域全空通信和网络互联互通的需求，是6G网络的重要组成部分。</p><p style="max-height:50%; text-overflow:ellipsis; overflow:hidden;">主要研究空天地一体化网络协议架构设计、网络切片方法、网络虚拟化与虚拟资源调度，网络仿真方法等。可参考论文：《空天地一体化网络技术：探索与展望》</p></div></div>
+        content: <div style="font-size:12pt; width:50%; height:180px; color:#fff; text-indent:2em;"><div style="height:180px; display:inline-block;position:relative;top:50%;-webkit-transform:translateY(-50%); text-overflow:ellipsis;"><p style="max-height:50%; text-overflow:ellipsis; overflow:hidden;">空天地一体化网络可为陆海空天用户提供无缝信息服务，满足未来网络对于全时全域全空通信和网络互联互通的需求，是6G网络的重要组成部分。</p><p style="max-height:50%; white-space:nowrap; word-break:break-all; text-overflow:ellipsis; -o-text-overflow:ellipsis; overflow:hidden;">主要研究空天地一体化网络协议架构设计、网络切片方法、网络虚拟化与虚拟资源调度，网络仿真方法等。可参考论文：《空天地一体化网络技术：探索与展望》</p></div></div>
 
 
                 
