@@ -71,7 +71,7 @@ sections:
     weight: 20
 
     content:
-      title: <div style="margin-bottom:1em;">学术消息</div>
+      title: <div style="margin-bottom:1em; margin-top:0.5em;">学术消息</div>
       # Page type to display. E.g. project.
       # page_type: post
 
@@ -101,7 +101,7 @@ sections:
     # Order that this section appears on the page.
     weight: 20
     content:
-      title: <div style="margin-bottom:1em;">新闻</div>
+      title: <div style="margin-bottom:1em; margin-top:0.5em;">新闻</div>
       # Page type to display. E.g. project.
       # page_type: post
 
