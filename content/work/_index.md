@@ -1,12 +1,11 @@
 ---
-title: Our Work
+title: 科研成果
 type: landing
 
 sections:
   - block: collection
 
     content:
-      title: 科研成果
       # Choose how many pages you would like to display (0 = all pages)
       count: 20
       # Filter on criteria
