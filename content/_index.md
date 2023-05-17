@@ -115,7 +115,7 @@ sections:
           - post
         author: ""
         category: ""
-        
+        tag: "report"
         publication_type: ""
         featured_only: false
         exclude_featured: false
@@ -129,7 +129,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: compact
+      view: masonry
       # Choose single or dual column layout
       columns: '1'
 ---
