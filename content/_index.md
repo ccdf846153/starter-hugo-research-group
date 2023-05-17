@@ -131,6 +131,8 @@ sections:
       # Choose a listing view
       view: masonry
       # Choose single or dual column layout
-      columns: '2'
+      columns: '1'
+      flip_alt_rows: true
+      spacing: {padding: [20px, 20px, 20px, 20px]}
 ---
 
