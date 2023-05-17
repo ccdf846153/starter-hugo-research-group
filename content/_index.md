@@ -133,7 +133,7 @@ sections:
         link: post/
     design:
       # Choose a listing view
-      view: showcase
+      view: list
       # Choose single or dual column layout
       columns: '1'
     
