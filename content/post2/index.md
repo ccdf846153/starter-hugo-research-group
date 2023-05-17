@@ -8,7 +8,7 @@ sections:
     content:
       title: 科研成果
       # Choose how many pages you would like to display (0 = all pages)
-      count: 20
+      count: 0
       # Filter on criteria
       filters:
         # The folders to display content from
@@ -28,7 +28,7 @@ sections:
 
     design:
       # Choose a listing view
-      view: showcase
+      view: compact
       # Choose single or dual column layout
       columns: '1'
       flip_alt_rows: true
