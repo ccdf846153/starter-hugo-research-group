@@ -1,9 +1,7 @@
 ---
 # 请注意 任何参数（如摘要）值内出现的任何双引号（“）或反斜杠（如LaTeX\times）都应使用反斜杠（\）进行转义。例如，符号“和LaTeX text\times分别变为\”和\\times。有关详细信息，请参阅YAML或TOML文档。
 #title：论文标题可以使用空格注意引号
-title: 'UAV-Assisted Physical Layer Security in
-Multi-Beam Satellite-Enabled Vehicle
-Communications'
+title: 'UAV-Assisted Physical Layer Security in Multi-Beam Satellite-Enabled Vehicle Communications'
 #按照实际情况填写
 authors:
   - Zhisheng Yin
