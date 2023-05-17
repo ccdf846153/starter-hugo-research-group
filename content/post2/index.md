@@ -16,7 +16,7 @@ sections:
           - ../work
         author: ""
         category: ""
-        tag: ""
+        tag: "work"
         publication_type: ""
         featured_only: false
         exclude_featured: false
