@@ -131,6 +131,6 @@ sections:
       # Choose a listing view
       view: masonry
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
 ---
 
