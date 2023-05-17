@@ -1,25 +1,20 @@
 ---
-title: My page
+title: Our Work
 type: landing
 
 sections:
   - block: collection
-    id: posts2
+
     content:
-      title: Recent Posts
-      subtitle: ''
-      text: 'Check out my recent blog posts below!'
+      title: 科研成果
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 20
       # Filter on criteria
       filters:
         # The folders to display content from
         folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
+          - ../work
+        tag: "work"
         featured_only: false
         exclude_featured: false
         exclude_future: false
@@ -28,12 +23,14 @@ sections:
       # Useful if you wish to show the first item in the Featured widget
       offset: 0
       # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
+      sort_by: 'date'
+      sort_ascending: true
+
     design:
       # Choose a listing view
-      view: Showcase
+      view: showcase
       # Choose single or dual column layout
       columns: '1'
       flip_alt_rows: true
+
 ---
