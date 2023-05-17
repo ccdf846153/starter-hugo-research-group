@@ -14,10 +14,7 @@ sections:
         # The folders to display content from
         folders:
           - ../work
-        author: ""
-        category: ""
         tag: "work"
-        publication_type: ""
         featured_only: false
         exclude_featured: false
         exclude_future: false
@@ -26,7 +23,7 @@ sections:
       # Useful if you wish to show the first item in the Featured widget
       offset: 0
       # Field to sort by, such as Date or Title
-      sort_by: 'Params.content_id'
+      sort_by: 'date'
       sort_ascending: true
 
     design:
