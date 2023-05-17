@@ -88,54 +88,20 @@ sections:
         tags: [paper, internship, forum, contest]
         kinds:
           - page
-      sort_by: 'date'
-      sort_ascending: false
-
-    design:
-      columns: '1'
-      view: masonry
-      flip_alt_rows: true
-      background: {}
-      spacing: {padding: [20px, 20px, 20px, 20px]}
-      height: '400px'
-
-
-  - block: collection
-
-    content:
-      title: Recent Posts
-      subtitle: ''
-
-      # Choose how many pages you would like to display (0 = all pages)
       count: 6
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: "report"
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
       sort_by: 'date'
       sort_ascending: false
       archive:
         enable: true
         text: More
         link: post/
+
     design:
-      # Choose a listing view
-      view: list
-      # Choose single or dual column layout
       columns: '1'
+      view: masonry
+      flip_alt_rows: true
+      background: {}
+      # spacing: {padding: [20px, 20px, 20px, 20px]}
     
 ---
 
