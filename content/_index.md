@@ -70,9 +70,8 @@ sections:
     # Order that this section appears on the page.
     weight: 20
 
-    title: 学术消息
-
     content:
+      title: 学术消息
       # Page type to display. E.g. project.
       # page_type: post
 
@@ -89,10 +88,6 @@ sections:
       count: 5
       sort_by: 'date'
       sort_ascending: false
-      archive:
-        enable: true
-        text: More
-        link: post/
 
     design:
       columns: '1'
@@ -105,10 +100,8 @@ sections:
 
     # Order that this section appears on the page.
     weight: 20
-
-    title: 新闻
-
     content:
+      title: 新闻
       # Page type to display. E.g. project.
       # page_type: post
 
@@ -118,17 +111,13 @@ sections:
         folders:
           - post
         # All set tags: report, event, paper, internship, forum, contest
-        exclude_tags: []
+        exclude_tags: [news_expired]
         tags: [report, event, internship]
         kinds:
           - page
       count: 5
       sort_by: 'date'
       sort_ascending: false
-      archive:
-        enable: true
-        text: More
-        link: post/
 
     design:
       columns: '1'
