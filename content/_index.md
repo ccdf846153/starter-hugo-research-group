@@ -115,7 +115,9 @@ sections:
           - post
         author: ""
         category: ""
-        tag: "report", "paper"
+        tag:
+          - "report"
+          - "paper"
         publication_type: ""
         featured_only: false
         exclude_featured: false
