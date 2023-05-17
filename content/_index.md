@@ -89,7 +89,7 @@ sections:
         kinds:
           - page
       sort_by: 'date'
-      sort_ascending: false
+      sort_ascending: true
 
     design:
       columns: '1'
