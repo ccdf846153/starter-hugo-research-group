@@ -82,11 +82,14 @@ sections:
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       filter_default: 0
       filters:
+        folders:
+          - post
+        # All set tags: report, event, paper, internship, forum, contest
         tags: [paper, internship, forum, contest]
 
     design:
       columns: '1'
-      view: masonry
+      view: card
       flip_alt_rows: true
       background: {}
       #spacing: {padding: [0, 0, 0, 0]}
