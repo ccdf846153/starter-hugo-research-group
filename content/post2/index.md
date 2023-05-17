@@ -1,15 +1,14 @@
 ---
-title: My page
+title: Our Work
 type: landing
 
 sections:
   - block: collection
-    id: posts2
+
     content:
       title: 科研成果
-      subtitle: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 20
       # Filter on criteria
       filters:
         # The folders to display content from
@@ -29,10 +28,12 @@ sections:
       # Field to sort by, such as Date or Title
       sort_by: 'content_id'
       sort_ascending: true
+
     design:
       # Choose a listing view
       view: Showcase
       # Choose single or dual column layout
       columns: '1'
       flip_alt_rows: true
+
 ---
