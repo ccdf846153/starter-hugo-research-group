@@ -67,8 +67,41 @@ sections:
 
   - block: portfolio
 
-    # This file represents a page section.
-    headless: false
+    # Order that this section appears on the page.
+    weight: 20
+
+    title: 学术消息
+
+    content:
+      # Page type to display. E.g. project.
+      # page_type: post
+
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      filter_default: 0
+      filters:
+        folders:
+          - post
+        # All set tags: report, event, paper, internship, forum, contest
+        exclude_tags: [expired]
+        tags: [paper, internship, forum, contest]
+        kinds:
+          - page
+      count: 5
+      sort_by: 'date'
+      sort_ascending: false
+      archive:
+        enable: true
+        text: More
+        link: post/
+
+    design:
+      columns: '1'
+      view: masonry
+      flip_alt_rows: true
+      background: {}
+      # spacing: {padding: [20px, 20px, 20px, 20px]}
+
+  - block: portfolio
 
     # Order that this section appears on the page.
     weight: 20
@@ -85,8 +118,8 @@ sections:
         folders:
           - post
         # All set tags: report, event, paper, internship, forum, contest
-        tags: [paper, internship, forum, contest]
-        exclude_tags: [expired]
+        exclude_tags: []
+        tags: [report, event, internship]
         kinds:
           - page
       count: 5
