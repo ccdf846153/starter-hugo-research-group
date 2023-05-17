@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 6G与未来智能无线网络
-        content: <div style="font-size:12pt; width:50%; height:180px; color:#fff; text-indent:2em;"><div style="height:180px; display:inline-block;position:relative;top:50%;-webkit-transform:translateY(-50%); text-overflow:ellipsis;"><p style="max-height:50%; width:100%; text-overflow:ellipsis; overflow:hidden;">通知人工智能及深度学习技术实现网络智慧内生，AI能力的全网渗透，快速、自动、智能地对网络各方面进行高效管控，包括规划、管理、优化以及康复等，有效满足不断出现的新需求，使能资源管理的智慧决策，降低成本并提高效率。</p><p style="margin-top:-1.2vh; max-height:50%; width:100%; white-space:nowrap; word-break:break-all; text-overflow:ellipsis; -o-text-overflow:ellipsis; overflow:hidden;">研究内容包括：基于图神经网络的快速网络部署，知识驱动的网络资源调配，知识图谱赋能的网络管控，动态神经模型与按需服务技术，大模型与预训练模型在网络中的应用，可解释人工智能的网络应用，多智能体强化学习无人机集群对抗，数字孪生驱动的强化学习，智能测试方法等</p></div></div>
+        content: <div style="font-size:12pt; width:50%; height:180px; color:#fff; text-indent:2em;"><div style="height:180px; display:inline-block;position:relative;top:50%;-webkit-transform:translateY(-50%); text-overflow:ellipsis;"><p style="max-height:50%; width:100%; text-overflow:ellipsis; overflow:hidden;">通知人工智能及深度学习技术实现网络智慧内生，AI能力的全网渗透，快速、自动、智能地对网络各方面进行高效管控，包括规划、管理、优化以及康复等，有效满足不断出现的新需求，使能资源管理的智慧决策，降低成本并提高效率。</p><p style="margin-top:-1.2vh; max-height:50%; width:100%; word-break:break-all; text-overflow:ellipsis; -o-text-overflow:ellipsis; overflow:hidden;">研究内容包括：基于图神经网络的快速网络部署，知识驱动的网络资源调配，知识图谱赋能的网络管控，动态神经模型与按需服务技术，大模型与预训练模型在网络中的应用，可解释人工智能的网络应用，多智能体强化学习无人机集群对抗，数字孪生驱动的强化学习，智能测试方法等</p></div></div>
         align: left
         background:
           image:
@@ -24,7 +24,7 @@ sections:
           text: 加入我们
           url: ../contact/
       - title: 空天地一体化网络
-        content: <div style="font-size:12pt; width:50%; height:180px; color:#fff; text-indent:2em;"><div style="height:180px; display:inline-block;position:relative;top:50%;-webkit-transform:translateY(-50%); text-overflow:ellipsis;"><p style="max-height:50%; width:100%; text-overflow:ellipsis; overflow:hidden;">空天地一体化网络可为陆海空天用户提供无缝信息服务，满足未来网络对于全时全域全空通信和网络互联互通的需求，是6G网络的重要组成部分。</p><p style="max-height:50%; width:100%; white-space:nowrap; word-break:break-all; text-overflow:ellipsis; -o-text-overflow:ellipsis; overflow:hidden;">主要研究空天地一体化网络协议架构设计、网络切片方法、网络虚拟化与虚拟资源调度，网络仿真方法等。可参考论文：《空天地一体化网络技术：探索与展望》</p></div></div>
+        content: <div style="font-size:12pt; width:50%; height:180px; color:#fff; text-indent:2em;"><div style="height:180px; display:inline-block;position:relative;top:50%;-webkit-transform:translateY(-50%); text-overflow:ellipsis;"><p style="max-height:50%; width:100%; text-overflow:ellipsis; overflow:hidden;">空天地一体化网络可为陆海空天用户提供无缝信息服务，满足未来网络对于全时全域全空通信和网络互联互通的需求，是6G网络的重要组成部分。</p><p style="max-height:50%; width:100%; word-break:break-all; text-overflow:ellipsis; -o-text-overflow:ellipsis; overflow:hidden;">主要研究空天地一体化网络协议架构设计、网络切片方法、网络虚拟化与虚拟资源调度，网络仿真方法等。可参考论文：《空天地一体化网络技术：探索与展望》</p></div></div>
 
 
                 
