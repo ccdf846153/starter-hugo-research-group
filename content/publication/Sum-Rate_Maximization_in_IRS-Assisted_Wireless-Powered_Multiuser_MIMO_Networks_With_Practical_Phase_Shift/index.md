@@ -1,0 +1,60 @@
+---
+# 请注意 任何参数（如摘要）值内出现的任何双引号（“）或反斜杠（如LaTeX\times）都应使用反斜杠（\）进行转义。例如，符号“和LaTeX text\times分别变为\”和\\times。有关详细信息，请参阅YAML或TOML文档。
+#title：论文标题可以使用空格注意引号
+title: 'Sum-Rate Maximization in IRS-Assisted Wireless-Powered Multiuser MIMO Networks With Practical Phase Shift'
+#按照实际情况填写
+authors:
+  - Ruijin Sun
+  - Nan Cheng
+  - Ran Zhang
+  - Ying Wang
+  - Changle Li
+#论文发表时间 只更改年月日
+date: '2023-10-21T00:00:00Z'
+#doi号
+doi: '10.1109/JIOT.2022.3216449'
+#同论文发表时间 只更改年月日
+publishDate: '2023-10-21T00:00:00Z'
+
+# 选填 1 或者 2 注意引号
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['2']
+
+# 期刊/会议名称 要求全称
+publication: 'IEEE Internet of Things Journal'
+# 留空
+publication_short: ''
+# 文章摘要
+abstract: The newly emerging intelligent reflecting surface (IRS) with large-scale passive reflecting elements has great potentials to enhance the performance of wireless-powered Internet of Things (IoT) networks, by manipulating the wireless channel. However, most of the existing works considered the ideal reflection of IRS elements with independent amplitude and phase shift. In this article, an IRS-assisted wireless-powered multiuser multi-input-multi-output network is considered, taking into account the practical coupling effect between the reflecting amplitude and the phase shift. Then, an uplink sum-rate maximization problem is investigated by jointly designing the active beamforming of multiple antennas, the passive beamforming of the IRS, and the time allocation ratio. Due to the tightly coupled optimization variables, the formulated problem is nonconvex. To effectively solve this problem, we decompose it into three subproblems, i.e., the active beamforming, the downlink passive beamforming, and the uplink passive beamforming. For the active beamforming design, access point’s optimal downlink energy beamforming matrix is proved to be rank-one, and IoT users’ optimal uplink information covariance matrices are derived in semi-closed forms. For the downlink passive beamforming design, a low-complexity algorithm based on the successive convex approximation and the penalty function method is proposed. For the uplink passive beamforming design, the multiuser problem is equivalently transformed into a virtual single-user problem, which is solved via an iterative algorithm. Numerical results show that, in comparison with algorithms without IRS, our proposed algorithm can significantly improve the uplink sum rate up to 50% when the number of passive elements is 100.
+
+# 这些都留空 不要删除
+summary:  
+tags:
+featured: false
+
+links:
+  - name: IEEE Link
+        #这里替换成IEEE网站的链接
+    url: https://ieeexplore.ieee.org/document/9926089
+        #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
+url_pdf: './Sum-Rate.pdf'
+# 都留空
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
+image:
+  caption: 
+  focal_point: ''
+  preview_only: false
+
+projects: []
+slides:
+---
