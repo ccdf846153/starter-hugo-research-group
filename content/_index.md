@@ -115,7 +115,7 @@ sections:
           - post
         author: ""
         category: ""
-        tag: "paper, internship, forum, contest"
+        
         publication_type: ""
         featured_only: false
         exclude_featured: false
