@@ -85,8 +85,8 @@ sections:
         folders:
           - post
         # All set tags: report, event, paper, internship, forum, contest
-        tags: [paper, internship, forum, contest]
         exclude_tags: [expired]
+        tags: [paper, internship, forum, contest]
         kinds:
           - page
       count: 5
