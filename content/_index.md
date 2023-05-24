@@ -71,7 +71,7 @@ sections:
     weight: 20
 
     content:
-      title: <div style="margin-bottom:1em; margin-top:-0.5em;">学术消息</div>
+      title: <div style="margin-bottom:1em; margin-top:-0.5em;"><a href="../work/" style="color:black; text-decoration:inherit;">学术消息</a></div>
       # Page type to display. E.g. project.
       # page_type: post
 
