@@ -99,7 +99,7 @@ sections:
   - block: collection
 
     content:
-      title: <div style="margin-bottom:1em; margin-top:-0.5em;">科研成果</div>
+      title: <div style="margin-bottom:1em; margin-top:-0.5em;"><a href="../work/" style="color:black; text-decoration:inherit;">科研成果</a></div>
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
       # Filter on criteria
