@@ -91,7 +91,7 @@ sections:
 
     design:
       columns: '1'
-      view: card
+      view: masonry
       flip_alt_rows: true
       background: {}
       # spacing: {padding: [20px, 20px, 20px, 20px]}
@@ -127,7 +127,7 @@ sections:
       view: Showcase
       # Choose single or dual column layout
       columns: '1'
-      flip_alt_rows: false
+      flip_alt_rows:
     
 ---
 
