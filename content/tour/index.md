@@ -85,7 +85,7 @@ sections:
         tags: [paper, internship, forum, contest,people]
         kinds:
           - page
-      count: 7
+      count: 6
       sort_by: 'date'
       sort_ascending: false
 
