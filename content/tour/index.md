@@ -71,7 +71,7 @@ sections:
     weight: 20
 
     content:
-      title: <div style="margin-bottom:1em; margin-top:-0.5em;"><a href="../post/" style="color:black; text-decoration:inherit;">学术消息</a></div>
+      title: <div style="margin-bottom:1em; margin-top:-0.5em;"><a href="../post/" style="color:black; text-decoration:inherit;">新闻</a></div>
       # Page type to display. E.g. project.
       # page_type: post
 
@@ -91,7 +91,7 @@ sections:
 
     design:
       columns: '1'
-      view: masonry
+      view: card
       flip_alt_rows: true
       background: {}
       # spacing: {padding: [20px, 20px, 20px, 20px]}
