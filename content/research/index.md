@@ -5,9 +5,9 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Gallery
+      title: 研究方向
       subtitle: ''
-      text: <table rules="none" align="center"><tr><td><center><img src="./fangxiang/fl.png" width="60%" /><br/><font color="AAAAAA">001.jpg</font></center></td><td><center><img src="./fangxiang/fl.png" width="60%" ><br/><font color="AAAAAA">002.jpg</font></center></td></tr></table>
+      text: <table rules="none" align="center"><tr><td><center><img src="./fangxiang/fl.png" width="60%" /><br/><font color="AAAAAA">研究方向1</font></center></td><td><center><img src="./fangxiang/kg.png" width="60%" ><br/><font color="AAAAAA">研究方向2</font></center></td></tr></table>
     design:
       columns: '1'
   - block: collection
