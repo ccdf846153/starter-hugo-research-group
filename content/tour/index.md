@@ -127,7 +127,7 @@ sections:
       view: Showcase
       # Choose single or dual column layout
       columns: '1'
-      flip_alt_rows:
+      flip_alt_rows: false
     
 ---
 
