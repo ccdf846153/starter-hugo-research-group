@@ -4,7 +4,6 @@ type: landing
 
 
 sections:
-
   - block: markdown
     content:
       title: My title
@@ -15,8 +14,8 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       
-
   - block: collection
+
     content:
       title: <div style="margin-bottom:1em; margin-top:0.5em;">科研成果</div>
       # Choose how many pages you would like to display (0 = all pages)
