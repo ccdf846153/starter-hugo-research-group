@@ -7,8 +7,7 @@ sections:
     content:
       title: Gallery
       subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
+      text: <center><img src="https://img-blog.csdnimg.cn/293b792757c24b8caa1ffba18ce76831.jpg" width="30%" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://img-blog.csdnimg.cn/f70c9b6462314611828f3349942b1227.jpg" width="30%" /><br/><font color="AAAAAA">001.jpg</font>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="AAAAAA">002.jpg</font></center><br/>
     design:
       columns: '1'
   - block: collection
