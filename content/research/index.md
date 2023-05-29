@@ -5,15 +5,12 @@ type: landing
 sections:
   - block: markdown
     content:
-      title:
+      title: Gallery
       subtitle: ''
-      text:  {{< spoiler text="Click to view the spoiler" >}} You found me! {{< /spoiler >}}
+      text: |-
+        {{< gallery album="fangxiang" >}}
     design:
       columns: '1'
-    
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
   - block: collection
     content:
       title: <div style="margin-bottom:1em; margin-top:-0.5em;"><a href="../work/" style="color:black; text-decoration:inherit;">科研成果</a></div>
