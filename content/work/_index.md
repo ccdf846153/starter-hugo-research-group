@@ -8,7 +8,7 @@ sections:
     content:
       title: 研究方向
      
-      text: {{< gallery album="<fangxiang>" >}}
+      text: {< gallery album="<fangxiang>" >}
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
