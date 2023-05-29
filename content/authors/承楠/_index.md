@@ -5,7 +5,7 @@ title: 承楠
 # Full Name (for SEO)
 first_name: 承
 last_name: 楠
-
+weight: 1
 # Is this the primary user of the site?
 superuser: false
 
