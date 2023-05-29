@@ -3,12 +3,13 @@ title: My page
 type: landing
 
 sections:
-  - block: markdown
+   - block: markdown
     content:
-      title: 科研方向
+      title:
       subtitle: ''
-      text: 
+      text:
     design:
+      columns: '1'
       background:
         image: 
           filename: fangxiang.jpg
@@ -18,7 +19,9 @@ sections:
           position: center
           size: cover
           text_color_light: true
-      columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
   - block: collection
     content:
       title: <div style="margin-bottom:1em; margin-top:-0.5em;"><a href="../work/" style="color:black; text-decoration:inherit;">科研成果</a></div>
