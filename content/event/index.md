@@ -64,7 +64,7 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 6000
       spacing:
-        padding: ['20px', '20px', '20px', '20px']
+        padding: ['20px', '200px', '20px', '200px']
     
 ---
 
