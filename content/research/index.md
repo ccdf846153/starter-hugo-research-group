@@ -7,7 +7,7 @@ sections:
     content:
       title: Gallery
       subtitle: ''
-      text: <center><img src="./fangxiang/fl.png" width="30%" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="./fangxiang/kg.png" width="30%" /><br/><font color="AAAAAA">001.jpg</font>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="AAAAAA">002.jpg</font></center><br/>
+      text: <table rules="none" align="center"><tr><td><center><img src="./fangxiang/fl.png" width="60%" /><br/><font color="AAAAAA">001.jpg</font></center></td><td><center><img src="./fangxiang/fl.png" width="60%" ><br/><font color="AAAAAA">002.jpg</font></center></td></tr></table>
     design:
       columns: '1'
   - block: collection
