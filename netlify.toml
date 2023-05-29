@@ -19,8 +19,8 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
 [markup]
-defaultMarkdownHandler = "goldmark"
-[markup.goldmark.renderer]
-unsafe = true
-and the search word is now: {{% search %}}
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.renderer]
+    unsafe = true
