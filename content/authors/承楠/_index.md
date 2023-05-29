@@ -3,8 +3,8 @@
 title: 尹志胜
 
 # Full Name (for SEO)
-first_name: 尹
-last_name: 志胜
+first_name: yin
+last_name:  zhisheng
 weight: 2
 # Is this the primary user of the site?
 superuser: false
