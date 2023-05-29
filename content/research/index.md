@@ -7,7 +7,7 @@ sections:
     content:
       title: 研究方向
      
-      text: <table rules="none" align="center">
+      text: "<table rules="none" align="center">
 	<tr>
 		<td>
 			<center>
@@ -24,7 +24,7 @@ sections:
 			</center>
 		</td>
 	</tr>
-</table>
+</table>"
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
