@@ -12,7 +12,7 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-   - block: collection
+  - block: collection
     content:
       title: <div style="margin-bottom:1em; margin-top:-0.5em;"><a href="../work/" style="color:black; text-decoration:inherit;">科研成果</a></div>
       # Choose how many pages you would like to display (0 = all pages)
