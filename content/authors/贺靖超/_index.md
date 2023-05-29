@@ -54,7 +54,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=NLzRw10AAAAJ&hl=zh-CN&oi=ao
   - icon: telegram
-    icon_pack: fas
+    icon_pack: fab
     link: https://faculty.xidian.edu.cn/zsyin
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
