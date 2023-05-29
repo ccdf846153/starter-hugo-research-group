@@ -5,10 +5,10 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Gallery
+      title: 科研方向
       subtitle: ''
       text: |-
-        {{< gallery %album='demo' >}}
+        {{< gallery album='demo' >}}
     design:
       columns: '1'
   - block: collection
