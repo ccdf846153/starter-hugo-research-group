@@ -5,13 +5,23 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: 研究方向
-     
-      text: 
+      title:
+      subtitle: ''
+      text:
     design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      background:
+        image: 
+          filename: fangxiang.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
   - block: collection
     content:
       title: <div style="margin-bottom:1em; margin-top:-0.5em;"><a href="../work/" style="color:black; text-decoration:inherit;">科研成果</a></div>
