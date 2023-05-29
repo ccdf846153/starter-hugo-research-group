@@ -7,9 +7,17 @@ sections:
     content:
       title: 科研方向
       subtitle: ''
-      text: |-
-        {{< gallery album='demo' >}}
+      text: 
     design:
+      background:
+        image: 
+          filename: fangxiang.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
       columns: '1'
   - block: collection
     content:
