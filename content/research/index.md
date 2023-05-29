@@ -5,23 +5,12 @@ type: landing
 sections:
   - block: markdown
     content:
-      title:
+      title: Gallery
       subtitle: ''
-      text:
+      text: |-
+        {{% gallery album="demo" >}}
     design:
       columns: '1'
-      background:
-        image: 
-          filename: fangxiang.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: actual
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
   - block: collection
     content:
       title: <div style="margin-bottom:1em; margin-top:-0.5em;"><a href="../work/" style="color:black; text-decoration:inherit;">科研成果</a></div>
