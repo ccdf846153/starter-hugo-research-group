@@ -7,24 +7,7 @@ sections:
     content:
       title: 研究方向
      
-      text: "<table rules="none" align="center">
-	<tr>
-		<td>
-			<center>
-				<img src="./fangxiang/fl.bmp" width="60%" />
-				<br/>
-				<font color="AAAAAA">001.jpg</font>
-			</center>
-		</td>
-		<td>
-			<center>
-				<img src="./fangxiang/kg.bmp"width="60%" />
-				<br/>
-				<font color="AAAAAA">002.jpg</font>
-			</center>
-		</td>
-	</tr>
-</table>"
+      text: 
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
