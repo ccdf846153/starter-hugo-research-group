@@ -29,8 +29,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=2GY52t0AAAAJ
-  - icon: house
-    icon_pack: fas
+  - icon: github
+    icon_pack: fab
     link: https://github.com/ShenJinglong
 #  - icon: cv
 #    icon_pack: ai
