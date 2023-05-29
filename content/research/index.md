@@ -5,9 +5,26 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: 研究方向
+     
+      text: <table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+				<img src="./fangxiang/fl.bmp" width="60%" />
+				<br/>
+				<font color="AAAAAA">001.jpg</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="./fangxiang/kg.bmp"width="60%" />
+				<br/>
+				<font color="AAAAAA">002.jpg</font>
+			</center>
+		</td>
+	</tr>
+</table>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
