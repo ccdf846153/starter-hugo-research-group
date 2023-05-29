@@ -3,8 +3,9 @@
 title: 承楠
 
 # Full Name (for SEO)
-first_name: c
+first_name: 承
 last_name: 楠
+
 # Is this the primary user of the site?
 superuser: false
 
