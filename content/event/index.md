@@ -18,7 +18,7 @@ sections:
               brightness: 0.5
           position: center
           color: '#fff'
-        
+          fit: cover
       - title: Unic建党100周年主题组会
         content: 
                 
@@ -30,7 +30,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#fff'
-      
+          fit: contain
     
        
     design:
