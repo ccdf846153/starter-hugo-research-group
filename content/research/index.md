@@ -7,18 +7,16 @@ sections:
     content:
       title:
       subtitle: ''
-      text:
+      text: <div class="row">
+<a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">wowchemy/wowchemy-hugo-modules</a>
+<img src=https://img.shields.io/github/stars/wowchemy/wowchemy-hugo-modules.svg alt="Github stars" title="Github stars"/>
+<img src=https://img.shields.io/github/languages/top/wowchemy/wowchemy-hugo-modules.svg alt="Language" title="Language"/>
+<img src=https://img.shields.io/github/v/tag/wowchemy/wowchemy-hugo-modules.svg?sort=semver alt="Last Tag" title="Last Tag"/>
+<img src=https://img.shields.io/github/last-commit/wowchemy/wowchemy-hugo-modules.svg alt="Last Commit" title="Last Commit"/>
+</div>
     design:
       columns: '1'
-      background:
-        image: 
-          filename: fangxiang.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
+    
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
