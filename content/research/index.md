@@ -7,7 +7,7 @@ sections:
     content:
       title:
       subtitle: ''
-      text:  '{{< gallery album="fangxiang" >}}'
+      text:  {{< gallery album="fangxiang" >}}
     design:
       columns: '1'
     
