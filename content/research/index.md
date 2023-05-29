@@ -7,7 +7,7 @@ sections:
     content:
       title: 研究方向
      
-      text: "![screen reader text](fangxiang.jpg "caption")"
+      text: 
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
