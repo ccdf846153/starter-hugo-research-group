@@ -64,6 +64,7 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 6000
+      parallax: true
 
   - block: portfolio
 
