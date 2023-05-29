@@ -7,7 +7,7 @@ sections:
     content:
       title: 研究方向
       subtitle: ''
-      text: <table rules="none" align="center"><tr><td><center><img src="./fangxiang/fl.png" width="60%" /><br/><font color="AAAAAA">研究方向1</font></center></td><td><center><img src="./fangxiang/kg.png" width="60%" ><br/><font color="AAAAAA">研究方向2</font></center></td><td><center><img src="./fangxiang/fl.png" width="60%" /><br/><font color="AAAAAA">002.jpg</font></center></td><td><center><img src="./fangxiang/fl.png" width="60%" /><br/><font color="AAAAAA">002.jpg</font></center></tr></table>
+      text: <table rules="none" align="center"><tr><td><center><img src="./fangxiang/fl.png" width="100%" /><br/><font color="AAAAAA">研究方向1</font></center></td><td><center><img src="./fangxiang/kg.png" width="100%" ><br/><font color="AAAAAA">研究方向2</font></center></td><td><center><img src="./fangxiang/ktd.png" width="100%" /><br/><font color="AAAAAA">研究方向3</font></center></td><td><center><img src="./fangxiang/v2x.png" width="100%" /><br/><font color="AAAAAA">研究方向4</font></center></tr></table>
     design:
       columns: '1'
   - block: collection
