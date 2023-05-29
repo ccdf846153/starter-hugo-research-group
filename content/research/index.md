@@ -7,7 +7,7 @@ sections:
     content:
       title:
       subtitle: ''
-      text:  {{< spoiler text="Click to view the spoiler" >}}You found me!{{< /spoiler >}}
+      text:  {{< spoiler text="Click to view the spoiler" >}} You found me! {{< /spoiler >}}
     design:
       columns: '1'
     
