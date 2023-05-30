@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Research
 type: landing
 
 sections:
