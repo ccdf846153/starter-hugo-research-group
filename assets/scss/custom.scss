@@ -1,0 +1,11 @@
+.navbar-light .navbar-nav>.nav-item>.nav-link,
+.navbar-light .navbar-nav>.nav-item>.nav-link:focus {
+  white-space: nowrap;
+  -webkit-transition: 0.2s ease;
+  transition: 0.2s ease;
+  color: $sta-menu-text;
+}
+.navbar-light .navbar-nav>.nav-item>.nav-link:hover {
+  margin-top: 0;
+  background-color: rgba(100,100,255,0.6);
+}
