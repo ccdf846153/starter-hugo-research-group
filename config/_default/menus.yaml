@@ -5,18 +5,23 @@
 
 main:
   - name: 首页
+    identifier: tour
     url: tour
     weight: 10
   - name: 新闻
     url: post
+    identifier: post
     weight: 20
   - name: 科研成果
+    identifier: research
     url: research
     weight: 30
   - name: 论文
+    identifier: publication
     url: publication
     weight: 40
   - name: 科研团队
+    identifier: people
     url: people
     weight: 50
   - name: 学生风采
