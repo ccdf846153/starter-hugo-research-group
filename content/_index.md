@@ -64,6 +64,7 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 6000
+      parallax: true
 
   - block: portfolio
 
@@ -71,7 +72,7 @@ sections:
     weight: 20
 
     content:
-      title: <div style="margin-bottom:1em; margin-top:-0.5em;"><a href="../post/" style="color:black; text-decoration:inherit;"></a>新闻</div>
+      title: <div style="margin-bottom:1em; margin-top:-0.5em;"><a href="../post/" style="color:black; text-decoration:inherit;">新闻</a></div>
       # Page type to display. E.g. project.
       # page_type: post
 
@@ -82,7 +83,7 @@ sections:
           - post
         # All set tags: report, event, paper, internship, forum, contest
         exclude_tags: [expired]
-        tags: [paper, internship, forum, contest]
+        tags: [paper, internship, forum, contest,people]
         kinds:
           - page
       count: 6
@@ -127,7 +128,7 @@ sections:
       view: Showcase
       # Choose single or dual column layout
       columns: '1'
-      flip_alt_rows: true
+      flip_alt_rows: false
     
 ---
 
