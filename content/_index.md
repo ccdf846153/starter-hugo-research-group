@@ -71,7 +71,7 @@ sections:
     weight: 20
 
     content:
-      title: <div style="margin-bottom:1em; margin-top:-0.5em;"><a href="../post/" style="color:black; text-decoration:inherit;">学术消息</a></div>
+      title: <div style="margin-bottom:1em; margin-top:-0.5em;"><a href="../post/" style="color:black; text-decoration:inherit;"></a><新闻/div>
       # Page type to display. E.g. project.
       # page_type: post
 
@@ -85,7 +85,7 @@ sections:
         tags: [paper, internship, forum, contest]
         kinds:
           - page
-      count: 5
+      count: 6
       sort_by: 'date'
       sort_ascending: false
 
