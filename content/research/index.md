@@ -7,7 +7,8 @@ sections:
     content:
       title: 研究方向
       subtitle: ''
-      text: <table rules="none" align="center"><tr><td><center><img id="img" onclick="showimg(this)" src="./fangxiang/fl.png" width="250%" /><br/><font color="AAAAAA">研究方向1</font></center></td><td><center><img src="./fangxiang/kg.png" width="250%" ><br/><font color="AAAAAA">研究方向2</font></center></td><td><center><img src="./fangxiang/ktd.png" width="250%" /><br/><font color="AAAAAA">研究方向3</font></center></td><td><center><img src="./fangxiang/v2x.png" width="250%" /><br/><font color="AAAAAA">研究方向4</font></center></tr></table><script type="text/javascript"> window.showimg = function (t) { layer.open({ type \: 1, title\: false, closeBtn\: 0, area\: '516px',  skin\: 'layui-layer-nobg', shadeClose\: true, content\: '<img style="display: inline-block; width: 100%; height: 100%;" src="' + t.src + '">' }); } } </script>
+      text: <table rules="none" align="center"><tr><td><center><img id="img" onmouseover="bigger()"  src="./fangxiang/fl.png" width="250%" /><br/><font color="AAAAAA">研究方向1</font></center></td><td><center><img src="./fangxiang/kg.png" width="250%" ><br/><font color="AAAAAA">研究方向2</font></center></td><td><center><img src="./fangxiang/ktd.png" width="250%" /><br/><font color="AAAAAA">研究方向3</font></center></td><td><center><img src="./fangxiang/v2x.png" width="250%" /><br/><font color="AAAAAA">研究方向4</font></center></tr></table><script type="text/javascript"> var img = document.getElementById('img'); function bigger(){ img.style.width = '3780px'; img.style.height = '4536px'; img.style.marginTop = "-50px"; img.style.marginLeft = "-50px"; }  function smaller(){ img.style.width = '300px';  img.style.height = '300px'; img.style.marginTop = "0px"; img.style.marginLeft = "0px"; } </script>
+
     design:
       columns: '1'
   - block: collection
