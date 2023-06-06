@@ -19,7 +19,7 @@ sections:
           position: center
           color: '#fff'
           fit: contain
-      - title: Unic建党100周年主题组会
+      - title:  
         content: 
                 
         align: left
