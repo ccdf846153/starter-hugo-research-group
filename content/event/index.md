@@ -13,12 +13,12 @@ sections:
         align: left
         background:
           image:
-            filename: guanying.jpg
+            filename: guanying2.jpg
             filters:
               brightness: 1
           position: center
           color: '#fff'
-          fit: contain
+          fit: cover
       - title:  
         content: 
                 
