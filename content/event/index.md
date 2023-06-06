@@ -15,7 +15,7 @@ sections:
           image:
             filename: guanying.jpg
             filters:
-              brightness: 0
+              brightness: 1
           position: center
           color: '#fff'
           fit: cover
