@@ -10,7 +10,7 @@ last_name: 2020
 superuser: false
 
 # Role/position
-role: 2020级硕士研究生<br>（比亚迪股份有限公司）
+role: 2020级硕士研究生<br>比亚迪股份有限公司
 
 # Organizations/Affiliations
 organizations:
