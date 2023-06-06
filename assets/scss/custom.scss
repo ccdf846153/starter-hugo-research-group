@@ -9,3 +9,13 @@
   margin-top: 0;
   background-color: rgba(56, 75, 245, 0.705);
 }
+
+.qqq{
+  transition: all 0.2s linear;
+}
+
+
+.qqq:hover{
+  transform: scale(0.8);
+  transition: all 0.2s linear;
+}
