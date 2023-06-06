@@ -4,12 +4,12 @@ title: 张茹倩
 
 # 姓名
 first_name: 张
-last_name: 茹倩
+last_name: 2021
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 硕士研究生
+role: 2021级硕士研究生<br>智能网络
 
 
 organizations:

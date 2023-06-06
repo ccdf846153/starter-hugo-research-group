@@ -4,13 +4,13 @@ title: 赵茁乔
 
 # Full Name (for SEO)
 first_name: 赵
-last_name: 茁乔
+last_name: 2020
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 校友（比亚迪股份有限公司）
+role: 2020级硕士研究生<br>（比亚迪股份有限公司）
 
 # Organizations/Affiliations
 organizations:

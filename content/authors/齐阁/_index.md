@@ -4,12 +4,12 @@ title: 齐阁
 
 # 姓名
 first_name: 齐
-last_name: 阁
+last_name: 2023
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 硕士研究生
+role: 2023级硕士研究生<br>知识
 
 
 organizations:

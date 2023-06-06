@@ -4,12 +4,12 @@ title: 黄蕾
 
 # 姓名
 first_name: 黄
-last_name: 蕾
+last_name: 2022
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 硕士研究生
+role: 2022级硕士研究生<br>知识
 
 
 organizations:
