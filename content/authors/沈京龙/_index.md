@@ -3,7 +3,7 @@
 title: 沈京龙
 
 # 姓名
-first_name: 沈
+first_name: c
 last_name: 京龙
 
 superuser: false
