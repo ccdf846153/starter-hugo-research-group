@@ -10,7 +10,7 @@ last_name: a
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: 2020级博士研究生
 
 # Organizations/Affiliations
 organizations:
