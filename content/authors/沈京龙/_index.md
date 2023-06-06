@@ -4,7 +4,7 @@ title: 沈京龙
 
 # 姓名
 first_name: c
-last_name: 京龙
+last_name: c
 
 superuser: false
 
