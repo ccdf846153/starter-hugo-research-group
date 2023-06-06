@@ -3,7 +3,7 @@
 title: 贺靖超
 
 # Full Name (for SEO)
-first_name: 贺
+first_name: a
 last_name: 靖超
 
 # Is this the primary user of the site?
