@@ -4,7 +4,7 @@ title: 尹志胜
 
 # Full Name (for SEO)
 first_name: yin
-last_name:  zhisheng
+last_name:  b
 weight: 2
 # Is this the primary user of the site?
 superuser: false
