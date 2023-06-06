@@ -4,7 +4,7 @@ title: 王葳
 
 # 姓名
 first_name: b
-last_name: 葳
+last_name: b
 
 superuser: false
 

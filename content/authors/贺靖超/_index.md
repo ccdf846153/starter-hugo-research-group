@@ -4,7 +4,7 @@ title: 贺靖超
 
 # Full Name (for SEO)
 first_name: a
-last_name: 靖超
+last_name: a
 
 # Is this the primary user of the site?
 superuser: false
