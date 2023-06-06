@@ -8,22 +8,28 @@ sections:
   - block: slider
     content:
       slides:
-      - title:
+      - title: 
         content: 
         align: left
         background:
           image:
             filename: guanying.jpg
+            filters:
+              brightness: 0
           position: center
+          color: '#fff'
           fit: cover
-      - title: 
-        content:       
+      - title: Unic建党100周年主题组会
+        content: 
+                
         align: left
         background:
           image:
             filename: dang.jpg
-            filters:             
+            filters:
+              brightness: 1
           position: right
+          color: '#fff'
           fit: contain
     
        
