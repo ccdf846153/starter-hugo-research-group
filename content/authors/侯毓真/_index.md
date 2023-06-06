@@ -4,12 +4,12 @@ title: 侯毓真
 
 # 姓名
 first_name: 侯
-last_name: 毓真
+last_name: 2023
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 硕士研究生
+role: 2023级硕士研究生<br>智能网络
 
 
 organizations:
