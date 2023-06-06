@@ -8,28 +8,22 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Unic举行新学期观影活动
+      - title:
         content: 
         align: left
         background:
           image:
             filename: guanying.jpg
-            filters:
-              brightness: 0.5
           position: center
-          color: '#fff'
           fit: cover
-      - title: Unic建党100周年主题组会
-        content: 
-                
+      - title: 
+        content:       
         align: left
         background:
           image:
             filename: dang.jpg
-            filters:
-              brightness: 0.7
+            filters:             
           position: right
-          color: '#fff'
           fit: contain
     
        
