@@ -23,9 +23,7 @@ organizations:
 # 请删除以下不适用者，如果无邮箱 谷歌学术 CV github 请删除 social标签下全部内容
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:China_zhouxy@163.com'
+  
 
 
 email: ''
