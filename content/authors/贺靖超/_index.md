@@ -10,7 +10,7 @@ last_name: a
 superuser: false
 
 # Role/position
-role: 2020级博士研究生
+role: 2020级博士研究生<br>空天地一体化网络
 
 # Organizations/Affiliations
 organizations:
