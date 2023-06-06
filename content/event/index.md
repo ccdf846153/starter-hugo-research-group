@@ -13,7 +13,7 @@ sections:
         align: left
         background:
           image:
-            filename: guanying2.jpg
+            filename: guanying.jpg
             filters:
               brightness: 1
           position: center
