@@ -9,7 +9,7 @@ last_name: b
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 2021级博士研究生
+role: 2021级博士研究生<br>空天地一体化
 
 
 organizations:
