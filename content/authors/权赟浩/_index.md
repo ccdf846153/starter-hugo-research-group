@@ -1,6 +1,6 @@
 ---
 # 姓名
-title: 权赟浩
+title: 权赟昊
 
 # 姓名
 first_name: 周
