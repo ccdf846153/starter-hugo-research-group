@@ -16,10 +16,6 @@ main:
     identifier: research
     url: research
     weight: 30
-  - name: 论文
-    identifier: publication
-    url: publication
-    weight: 40
   - name: 科研团队
     identifier: people
     url: people
