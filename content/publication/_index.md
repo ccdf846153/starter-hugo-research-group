@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications | UNIC Group
 
 # Listing view
 view: citation
