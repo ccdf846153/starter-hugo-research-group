@@ -20,8 +20,8 @@
   transition: all 0.2s linear;
 }
 
-.carousel-control-prev,
-.carousel-control-next {
+.carousel-control-prev2,
+.carousel-control-next2 {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -47,13 +47,13 @@
     opacity: $carousel-control-hover-opacity;
   }
 }
-.carousel-control-prev {
+.carousel-control-prev2 {
   left: 300px;
   @if $enable-gradients {
     background-image: linear-gradient(90deg, rgba($black, .25), rgba($black, .001));
   }
 }
-.carousel-control-next {
+.carousel-control-next2 {
   right: 300px;
   @if $enable-gradients {
     background-image: linear-gradient(270deg, rgba($black, .25), rgba($black, .001));
