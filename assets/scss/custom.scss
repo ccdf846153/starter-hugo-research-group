@@ -74,6 +74,7 @@
 footer {
   margin: 4rem 0 0;
   width: 200%;
+  margin-left: -50%;
 }
 
 footer p {
@@ -102,6 +103,7 @@ footer .powered-by {
 .dark .site-footer,
 .dark .docs .body-footer {
   color: rgba(255, 255, 255, 0.54);
+  background-color: rgba(40, 40, 40, 0.8);
 }
 
 // Footer copyright license
