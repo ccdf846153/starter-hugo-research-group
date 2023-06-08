@@ -1,5 +1,5 @@
 ---
-title: Latest News | UNIC Group
+title: Latest News
 
 # Listing view
 view: compact
