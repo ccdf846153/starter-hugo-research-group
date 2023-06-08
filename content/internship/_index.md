@@ -1,11 +1,11 @@
 ---
-title: 科研实习 | UNIC Group
+title: 科研实习
 type: landing
 
 sections:
   - block: markdown
     content:
-      title: My title
+      title: 科研实习
       subtitle: My subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
