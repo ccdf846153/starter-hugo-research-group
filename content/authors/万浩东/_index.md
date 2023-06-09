@@ -25,7 +25,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'h.wan@outlook.jp'
+    link: 'mailto:h.wan@outlook.jp'
   - icon: weixin
     icon_pack: fab
     link: files/whd.jpg  
