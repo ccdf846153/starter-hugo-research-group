@@ -25,7 +25,7 @@ organizations:
 social:
   - icon: weixin
     icon_pack: fab
-    link: './zdy.jpg'
+    link: files/zdy.jpg
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
