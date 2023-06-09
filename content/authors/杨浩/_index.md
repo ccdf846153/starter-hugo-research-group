@@ -16,8 +16,10 @@ organizations:
   - name: Xidian University
     url: '21011210413'
 
-
-highlight_name: false
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:yh_xd210@stu.xidian.edu.cn'
 
 # 根据自身情况选填
 #       - PHD Student

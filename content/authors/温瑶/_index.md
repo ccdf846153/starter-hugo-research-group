@@ -16,7 +16,10 @@ organizations:
   - name: Xidian University
     url: '21011210413'
 
-
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:408634890@qq.com'
 email: '408634890@qq.com'
 highlight_name: false
 
