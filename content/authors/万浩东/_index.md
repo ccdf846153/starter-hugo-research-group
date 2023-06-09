@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陈子衍
+title: 万浩东
 
 # Full Name (for SEO)
 first_name: 赵
@@ -10,7 +10,7 @@ last_name: 2020
 superuser: false
 
 # Role/position
-role: 2020级硕士研究生<br>江苏银行股份有限公司
+role: 2020级硕士研究生<br>比亚迪股份有限公司
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,13 @@ organizations:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'h.wan@outlook.jp'
+  - icon: weixin
+    icon_pack: fab
+    link: files/whd.jpg  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
