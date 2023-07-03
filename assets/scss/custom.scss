@@ -88,7 +88,7 @@
   bottom: calc(5% + 1vh);
   z-index: 2;
   height: 1.5vh;
-  width: 100%;
+  width: calc(calc(100% - 700px)*0.85);
   padding-top: 30px;
   padding-bottom: 30px;
   // right: (100% - $carousel-caption-width) * .5;
