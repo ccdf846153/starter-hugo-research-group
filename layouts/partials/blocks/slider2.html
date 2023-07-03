@@ -51,9 +51,6 @@
     <div class="position-absolute d-flex w-100 h-100 justify-content-center align-items-center" style="{{$style_filter | safeCSS}}">
       {{/* To prevent control overlap, margins are based on $carousel-control-* in bootstrap-variables.scss */}}
       <div class="wg-hero dark container" style="margin-left: 6rem; margin-right: 6rem; text-align: {{$item.align | default "left"}};">
-          <h1 class="hero-title ">
-            {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
-          </h1>
 
           {{ with $item.content }}
           <p class="hero-lead" style="{{if eq $item.align "center"}}margin: 0 auto 0 auto;{{else if eq $item.align "right"}}margin-left: auto; margin-right: 0{{end}}">
@@ -74,6 +71,9 @@
               </a>
             </p>
           {{ end }}
+          <h1 class="hero-title ">
+            {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
+          </h1>
         </div>
     </div>
   </div>
