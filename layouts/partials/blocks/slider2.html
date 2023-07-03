@@ -85,12 +85,14 @@
     var car_items = document.getElementsByClassName("self-item");
     console.log(car_caps, car_items)
     for (idx = 0; idx < car_caps.length; ++idx) {
-      car_caps[idx].style.fontSize = Math.min(document.documentElement.clientWidth / 100, document.documentElement.clientHeight) + "px";
+      car_caps[idx].style.fontSize = document.documentElement.clientWidth / 40 + "px";
     }
     console.log(car_caps[0].style.fontSize)
   }
 
   window.onresize = watchWindowSize;
+
+  watchWindowSize();
 </script>
 
 <!-- Left and right controls -->
