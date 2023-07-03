@@ -13,7 +13,7 @@ sections:
         align: left
         background:
           image:
-            filename: pic/2023观影.jpg
+            filename: "pic/2023观影.png"
             filters:
               brightness: 1
           position: center
@@ -25,7 +25,7 @@ sections:
         align: left
         background:
           image:
-            filename: pic/建党.jpg
+            filename: "pic/建党.png"
             filters:
               brightness: 1
           position: right
@@ -37,7 +37,7 @@ sections:
         align: left
         background:
           image:
-            filename: pic/2021春团建.jpg
+            filename: "pic/2021春团建.png"
             filters:
               brightness: 1
           position: right
@@ -49,7 +49,7 @@ sections:
         align: left
         background:
           image:
-            filename: pic/2023春团建.jpg
+            filename: "pic/2023春团建.png"
             filters:
               brightness: 1
           position: right
