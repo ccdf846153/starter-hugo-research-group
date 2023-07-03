@@ -80,10 +80,15 @@
   {{ end }}
 </div>
 <script>
-  var cars = document.getElementsByClassName(".carousel-item");
-  for (e in cars) {
-    e.style.width = e.offsetHeight * 4 / 3;
+  function watchWindowSize() {
+    var car_caps = document.getElementsByClassName(".carousel-caption");
+    var car_items = document.getElementsByClassName(".carousel-item");
+    for (idx = 0; idx < length(cars); ++idx) {
+      car_caps[idx].style.fontSize = String(15 * car_items[idx].style.offsetWidth / 650) + "pt";
+    }
   }
+
+  window.addEventListener("resize", watchWindowSize);
 </script>
 
 <!-- Left and right controls -->
