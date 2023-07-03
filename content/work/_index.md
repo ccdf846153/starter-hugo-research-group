@@ -1,5 +1,5 @@
 ---
-title: 科研成果 | UNIC Group
+title: 科研成果
 type: landing
 
 
