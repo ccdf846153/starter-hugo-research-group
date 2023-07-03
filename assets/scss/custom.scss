@@ -86,9 +86,9 @@
 .carousel-caption .caption2 {
   position: absolute;
   bottom: calc(5% + 1vh);
-  z-index: 2;
+  z-index: 10000;
   height: 1.5vh;
-  width: calc(calc(100% - 700px)*0.85);
+  width: fit-content;
   padding-top: 30px;
   padding-bottom: 30px;
   // right: (100% - $carousel-caption-width) * .5;
@@ -98,7 +98,6 @@
   background-color: rgba(36, 35, 35, 0.769);
   text-align: center;
   font-weight: 700;
-  border: 1px solid red;
 }
 
 
