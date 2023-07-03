@@ -79,6 +79,12 @@
   </div>
   {{ end }}
 </div>
+<script>
+  var cars = document.getElementsByClassName(".carousel-item");
+  for (e in cars) {
+    e.style.width = e.offsetHeight * 4 / 3;
+  }
+</script>
 
 <!-- Left and right controls -->
 <a class="carousel-control-prev2" href="#{{$hash_id}}" data-slide="prev">
