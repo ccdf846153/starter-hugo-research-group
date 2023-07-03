@@ -1,6 +1,6 @@
 ---
 title: 基于DyNN的资源调度方法
-date: 2020-1-4
+date: 2020-1-2
 content_id: 2
 tag:
   - work
