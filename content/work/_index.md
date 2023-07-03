@@ -14,7 +14,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       
-  - block: collection
+  - block: collection_work
 
     content:
       title: <div style="margin-bottom:1em; margin-top:0.5em;">科研成果</div>
