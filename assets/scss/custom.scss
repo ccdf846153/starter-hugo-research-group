@@ -83,6 +83,14 @@
   }
 }
 
+.carousel-caption-block {
+  position: absolute;
+  width: 100%;
+  z-index: 100;
+  color: rgba(220, 220, 220, 0.93);
+  background-color: rgba(31, 30, 30, 0.2);
+}
+
 .carousel-caption .caption2 {
   position: absolute;
   width: 100%;
@@ -90,7 +98,7 @@
   // bottom: 20px;
   bottom: calc(5% + 1.5vh);
   // left: (100% - $carousel-caption-width) * .5;
-  z-index: 100;
+  z-index: inherit;
   padding-top: 20px;
   padding-bottom: 20px;
   color: rgba(220, 220, 220, 0.93);
