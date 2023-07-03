@@ -3,7 +3,7 @@ title: 承楠老师受邀参加圆桌环节“通信技术漫谈”。
 date: 2022-06-29
 tags:
   - contest
-  - news_expired
+  - expired
 ---
 
 承楠老师受邀参加通信算法大赛圆桌环节“通信技术漫谈”。
