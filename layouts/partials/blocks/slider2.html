@@ -72,11 +72,11 @@
             </p>
           {{ end }}
       </div>
-      <div class="carousel-caption-block">
-        <h1 class="carousel-caption caption2">
-          {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
-        </h1>
-      </div>
+    </div>
+    <div class="carousel-caption-block">
+      <h1 class="carousel-caption caption2">
+        {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
+      </h1>
     </div>
   </div>
   {{ end }}
