@@ -55,6 +55,18 @@ sections:
           position: right
           color: '#fff'
           fit: contain
+      - title:  
+        content: 
+                
+        align: left
+        background:
+          image:
+            filename: "pic/2023谢师.png"
+            filters:
+              brightness: 1
+          position: right
+          color: '#fff'
+          fit: contain
     
        
     design:
