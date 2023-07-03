@@ -35,10 +35,10 @@
 
 .carousel-item {
   position: relative;
-  display: inline-block;
+  display: block;
   max-height: 85%;
   width: 85%;
-  text-align: center;
+  margin: auto;
   backface-visibility: hidden;
   @include transition($carousel-transition);
 }
