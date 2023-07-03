@@ -77,7 +77,7 @@
 
 {{ $columns := $block.design.columns | default "2" }}
 
-<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}" style="margin-bottom: 20pt;">
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
 
   {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
 
@@ -118,5 +118,7 @@
       </a>
     </div>
   {{ end }}
+  
+  <div class="see-all" style="margin-bottom: 20pt;"></div>
 
 </div>
