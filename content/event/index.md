@@ -19,7 +19,7 @@ sections:
           position: center
           color: '#fff'
           fit: cover
-      - title:  
+      - title: 实验室举办新学期观影活动
         content: 
                 
         align: left

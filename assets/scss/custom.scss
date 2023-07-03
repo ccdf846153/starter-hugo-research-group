@@ -61,13 +61,13 @@
   }
 }
 .carousel-control-prev2 {
-  left: 300px;
+  left: 15%;
   @if $enable-gradients {
     background-image: linear-gradient(90deg, rgba($black, .25), rgba($black, .001));
   }
 }
 .carousel-control-next2 {
-  right: 300px;
+  right: 15%;
   @if $enable-gradients {
     background-image: linear-gradient(270deg, rgba($black, .25), rgba($black, .001));
   }
