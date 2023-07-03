@@ -73,7 +73,9 @@
           {{ end }}
       </div>
       <div class="carousel-caption caption2">
-        <h1>{{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}</h1>
+        <h1 style="color: rgba(221, 222, 223, 0.865); background-color: rgba(39, 38, 38, 0.769);">
+          {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
+        </h1>
       </div>
     </div>
   </div>
