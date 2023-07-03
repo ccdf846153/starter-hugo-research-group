@@ -87,8 +87,8 @@
   position: absolute;
   bottom: calc(5% + 1vh);
   z-index: 10;
-  height: 1.5vh;
-  width: 300px;
+  height: fit-content;
+  width: 100%;
   padding-top: 30px;
   padding-bottom: 30px;
   // right: (100% - $carousel-caption-width) * .5;
