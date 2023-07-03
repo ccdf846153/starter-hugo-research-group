@@ -19,7 +19,7 @@ sections:
           position: center
           color: '#fff'
           fit: cover
-      - title: 实验室举办新学期观影活动
+      - title: 实验室举办建党百年主题组会
         content: 
                 
         align: left
@@ -31,7 +31,7 @@ sections:
           position: right
           color: '#fff'
           fit: contain
-      - title: 实验室举办新学期观影活动
+      - title: 实验室举办2021年春季学期聚餐活动
         content: 
                 
         align: left
@@ -43,7 +43,7 @@ sections:
           position: right
           color: '#fff'
           fit: contain
-      - title: 实验室举办新学期观影活动
+      - title: 实验室举办2023年新学期团建活动
         content: 
                 
         align: left
@@ -55,7 +55,7 @@ sections:
           position: right
           color: '#fff'
           fit: contain
-      - title: 实验室举办新学期观影活动
+      - title: 实验室举办2023届毕业研究生聚餐活动
         content: 
                 
         align: left
