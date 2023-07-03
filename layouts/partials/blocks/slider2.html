@@ -47,7 +47,7 @@
       {{ end }}
    {{ end }}
 
-  <div class="carousel-item{{if eq $index 0}} self-item active{{end}} {{with $block.design.is_fullscreen}}fullscreen{{end}}" style="{{$style_bg | safeCSS}}">
+  <div class="self-item carousel-item{{if eq $index 0}} active{{end}} {{with $block.design.is_fullscreen}}fullscreen{{end}}" style="{{$style_bg | safeCSS}}">
     <div class="position-absolute d-flex w-100 h-100 justify-content-center align-items-center" style="{{$style_filter | safeCSS}}">
       {{/* To prevent control overlap, margins are based on $carousel-control-* in bootstrap-variables.scss */}}
       <div class="wg-hero dark container" style="margin-left: 6rem; margin-right: 6rem; text-align: {{$item.align | default "left"}};">
