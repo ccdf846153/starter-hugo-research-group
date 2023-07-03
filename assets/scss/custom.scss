@@ -83,10 +83,6 @@
   }
 }
 
-.carousel-caption-block {
-  
-}
-
 .carousel-caption .caption2 {
   position: absolute;
   bottom: 5%;
@@ -98,6 +94,7 @@
   // bottom: 20px;
   // left: (100% - $carousel-caption-width) * .5;
   color: rgba(220, 220, 220, 0.93);
+  background-color: rgba(47, 45, 45, 0.769);
   text-align: center;
   font-weight: 700;
 }
