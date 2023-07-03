@@ -1,6 +1,6 @@
 ---
 title: 基于GNN的无人机中继部署与路由优化
-date: 2020-1-3
+date: 2022-09-03
 content_id: 4
 tag:
   - work

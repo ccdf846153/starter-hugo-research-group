@@ -1,6 +1,6 @@
 ---
 title: 基于DyNN的通信资源调度方法
-date: 2020-1-2
+date: 2022-05-16
 content_id: 2
 tag:
   - work

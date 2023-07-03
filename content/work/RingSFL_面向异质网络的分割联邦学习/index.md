@@ -1,6 +1,6 @@
 ---
 title: RingSFL：面向异质网络的分割联邦学习
-date: 2020-1-1
+date: 2023-05-20
 content_id: 1
 tag:
   - work

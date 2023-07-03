@@ -1,6 +1,6 @@
 ---
 title: 面向按需服务的空天地一体化网络服务管理架构
-date: 2020-1-4
+date: 2022-11-10
 content_id: 3
 tag:
   - work
