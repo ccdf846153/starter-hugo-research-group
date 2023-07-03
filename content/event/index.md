@@ -8,7 +8,7 @@ sections:
   - block: slider2
     content:
       slides:
-      - title: 
+      - title: 实验室举办新学期观影活动
         content: 
         align: left
         background:
