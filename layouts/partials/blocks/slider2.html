@@ -73,7 +73,7 @@
           {{ end }}
       </div>
       <div class="carousel-caption caption2">
-        {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
+        <h1>{{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}</h1>
       </div>
     </div>
   </div>
