@@ -1,5 +1,5 @@
 ---
-title: 基于DyNN的资源调度方法
+title: 基于DyNN的通信资源调度方法
 date: 2020-1-2
 content_id: 2
 tag:
