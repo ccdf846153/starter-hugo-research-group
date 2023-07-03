@@ -13,7 +13,7 @@ sections:
         align: left
         background:
           image:
-            filename: guanying.jpg
+            filename: pic/2023观影.jpg
             filters:
               brightness: 1
           position: center
@@ -25,7 +25,31 @@ sections:
         align: left
         background:
           image:
-            filename: dang.jpg
+            filename: pic/建党.jpg
+            filters:
+              brightness: 1
+          position: right
+          color: '#fff'
+          fit: contain
+      - title:  
+        content: 
+                
+        align: left
+        background:
+          image:
+            filename: pic/2021春团建.jpg
+            filters:
+              brightness: 1
+          position: right
+          color: '#fff'
+          fit: contain
+      - title:  
+        content: 
+                
+        align: left
+        background:
+          image:
+            filename: pic/2023春团建.jpg
             filters:
               brightness: 1
           position: right
