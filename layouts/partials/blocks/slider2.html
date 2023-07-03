@@ -81,8 +81,8 @@
 </div>
 <script>
   function watchWindowSize() {
-    var car_caps = document.getElementsByClassName(".carousel-caption");
-    var car_items = document.getElementsByClassName(".self-item");
+    var car_caps = document.getElementsByClassName("carousel-caption");
+    var car_items = document.getElementsByClassName("self-item");
     console.log(car_caps, car_items)
     for (idx = 0; idx < car_caps.length; ++idx) {
       car_caps[idx].style.fontsize = min(document.documentElement.clientWidth / 100, document.documentElement.clientHeight) + "px";
