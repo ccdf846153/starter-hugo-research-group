@@ -71,12 +71,11 @@
               </a>
             </p>
           {{ end }}
-
-          <h1>
-            {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
-          </h1>
         </div>
     </div>
+    <h1>
+      {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
+    </h1>
   </div>
   {{ end }}
 </div>
