@@ -26,14 +26,14 @@
   animation-delay: unset;
 }
 
-.carousel-inner2 {
+.carousel-inner .inner2 {
   position: relative;
   height: 80%;
   overflow: hidden;
   @include clearfix();
 }
 
-.carousel-item2 {
+.carousel-item .self-item {
   position: relative;
   display: none;
   max-height: 85%;
@@ -83,7 +83,7 @@
   }
 }
 
-.carousel-caption {
+.carousel-caption .caption2 {
   position: absolute;
   width: 100%;
   // right: (100% - $carousel-caption-width) * .5;
