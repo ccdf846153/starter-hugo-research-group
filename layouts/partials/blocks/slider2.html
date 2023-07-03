@@ -15,7 +15,7 @@
 </ol>
 
 <!-- Carousel slides wrapper -->
-<div class="carousel-inner" data-ratio="4:3">
+<div class="carousel-inner2" data-ratio="4:3">
   {{ range $index, $item := $block.content.slides }}
 
     {{ $style_bg := "" }}
@@ -47,7 +47,7 @@
       {{ end }}
    {{ end }}
 
-  <div class="carousel-item{{if eq $index 0}} active{{end}} {{with $block.design.is_fullscreen}}fullscreen{{end}}" style="{{$style_bg | safeCSS}}">
+  <div class="carousel-item2{{if eq $index 0}} active{{end}} {{with $block.design.is_fullscreen}}fullscreen{{end}}" style="{{$style_bg | safeCSS}}">
     <div class="position-absolute d-flex w-100 h-100 justify-content-center align-items-center" style="{{$style_filter | safeCSS}}">
       {{/* To prevent control overlap, margins are based on $carousel-control-* in bootstrap-variables.scss */}}
       <div class="wg-hero dark container" style="margin-left: 6rem; margin-right: 6rem; text-align: {{$item.align | default "left"}};">
@@ -72,7 +72,7 @@
             </p>
           {{ end }}
       </div>
-      <h1 class="carousel-caption">
+      <h1 class="carousel-caption2">
         {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
       </h1>
     </div>
