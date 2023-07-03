@@ -84,8 +84,9 @@
     var car_caps = document.getElementsByClassName(".carousel-caption");
     var car_items = document.getElementsByClassName(".self-item");
     for (idx = 0; idx < car_caps.length; ++idx) {
-      car_caps[idx].style.fontSize = String(7 * car_items[idx].style.offsetWidth / 650) + "pt";
+      car_caps[idx].style.fontSize = 7 * car_items[idx].style.offsetWidth / 650 + "px";
     }
+    console.log(car_caps[0].style.fontSize)
   }
 
   window.addEventListener("resize", watchWindowSize);
