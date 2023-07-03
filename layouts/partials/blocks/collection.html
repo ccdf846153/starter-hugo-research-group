@@ -109,7 +109,7 @@
       {{ $i18n = "more_pages" }}
     {{ end }}
 
-    {{ $archive_text := $block.content.archive.text | default (i18n $i18n) | default "More" }}
+    {{ $archive_text := "More" }}
 
     <div class="see-all">
       <a href="{{ $archive_link }}">
