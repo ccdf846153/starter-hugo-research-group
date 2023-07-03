@@ -82,7 +82,7 @@
 <script>
   function watchWindowSize() {
     var car_caps = document.getElementsByClassName(".carousel-caption");
-    var car_items = document.getElementsByClassName(".carousel-item");
+    var car_items = document.getElementsByClassName(".self-item");
     for (idx = 0; idx < car_caps.length; ++idx) {
       car_caps[idx].style.fontSize = String(7 * car_items[idx].style.offsetWidth / 650) + "pt";
     }
