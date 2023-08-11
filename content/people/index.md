@@ -1,5 +1,5 @@
 ---
-title: People
+title: People | UNIC Group
 date: 2022-10-24
 
 type: landing

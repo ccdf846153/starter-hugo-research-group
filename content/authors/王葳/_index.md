@@ -3,13 +3,13 @@
 title: 王葳
 
 # 姓名
-first_name: 王
-last_name: 葳
+first_name: b
+last_name: b
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 博士研究生
+role: 2022级博士研究生<br>车联网
 
 
 organizations:

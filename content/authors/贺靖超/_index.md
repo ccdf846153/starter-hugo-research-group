@@ -3,14 +3,14 @@
 title: 贺靖超
 
 # Full Name (for SEO)
-first_name: 贺
-last_name: 靖超
+first_name: a
+last_name: a
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: 2020级博士研究生<br>空天地一体化网络
 
 # Organizations/Affiliations
 organizations:
@@ -46,7 +46,16 @@ education:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:zsyin@xidian.edu.cn'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=NLzRw10AAAAJ&hl=zh-CN&oi=ao
+  - icon: telegram
+    icon_pack: fab
+    link: https://faculty.xidian.edu.cn/zsyin
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
