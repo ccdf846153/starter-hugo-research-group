@@ -4,12 +4,12 @@ title: 周新阳
 
 # 姓名
 first_name: 周
-last_name: 新阳
+last_name: 2022
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 硕士研究生
+role: 2022级硕士研究生<br>智能网络
 
 
 organizations:

@@ -4,19 +4,22 @@ title: 温瑶
 
 # 姓名
 first_name: 温
-last_name: 瑶
+last_name: 2021
 
 superuser: false
 
 # 硕士研究生
-role: 硕士研究生
+role: 2021级硕士研究生<br>知识驱动无线网络
 
 
 organizations:
   - name: Xidian University
     url: '21011210413'
 
-
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:408634890@qq.com'
 email: '408634890@qq.com'
 highlight_name: false
 

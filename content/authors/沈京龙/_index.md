@@ -3,13 +3,13 @@
 title: 沈京龙
 
 # 姓名
-first_name: 沈
-last_name: 京龙
+first_name: c
+last_name: c
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 博士研究生
+role: 2023级博士研究生<br>智能网络
 
 
 organizations:
@@ -29,8 +29,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=2GY52t0AAAAJ
-  - icon: house
-    icon_pack: fas
+  - icon: github
+    icon_pack: fab
     link: https://github.com/ShenJinglong
 #  - icon: cv
 #    icon_pack: ai
