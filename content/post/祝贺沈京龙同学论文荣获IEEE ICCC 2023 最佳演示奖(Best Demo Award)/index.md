@@ -1,5 +1,5 @@
 ---
-title: 祝贺沈京龙同学论文荣获IEEE ICCC 2023 最佳演示奖(Best Demo Award)
+title: 祝贺沈京龙同学论文荣获IEEE ICCC 2023 最佳演示奖
 date: 2023-8-11
 tags:
   - paper
