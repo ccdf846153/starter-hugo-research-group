@@ -24,7 +24,7 @@ publishDate: '2022-04-12T00:00:00Z'
 publication_types: ['2']
 
 # 期刊/会议名称 要求全称
-publication: 'arxiv'
+publication: 'arXiv'
 # 留空
 publication_short: ''
 # 文章摘要
