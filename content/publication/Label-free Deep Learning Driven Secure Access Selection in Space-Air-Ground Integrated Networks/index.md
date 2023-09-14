@@ -4,7 +4,7 @@
 title: 'Label-free Deep Learning Driven Secure Access Selection in Space-Air-Ground Integrated Networks'
 #按照实际情况填写
 authors:
-  - DZhaowei Wang
+  - Zhaowei Wang
   - Zhisheng Yin
   - Xiucheng Wang
   - Nan Cheng
