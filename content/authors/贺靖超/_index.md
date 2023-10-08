@@ -49,13 +49,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zsyin@xidian.edu.cn'
+    link: ''
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=NLzRw10AAAAJ&hl=zh-CN&oi=ao
+    link: https://www.scopus.com/authid/detail.uri?authorId=57213816323
   - icon: telegram
     icon_pack: fab
-    link: https://faculty.xidian.edu.cn/zsyin
+    link: 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
