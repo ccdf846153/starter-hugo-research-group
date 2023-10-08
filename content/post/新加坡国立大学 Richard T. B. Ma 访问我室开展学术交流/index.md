@@ -2,7 +2,7 @@
 title: 新加坡国立大学 Richard T. B. Ma 访问我室开展学术交流
 date: 2023-09-04
 tags: 
-  - report
+  - forum
 ---
 
 新加坡国立大学计算机学院 Richard T. B. Ma 访问我室开展学术交流
