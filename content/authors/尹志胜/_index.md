@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 承楠
+title: 尹志胜
 
 # Full Name (for SEO)
-first_name: cheng 
-last_name: nan
-weight: 1
+first_name: yin
+last_name:  b
+weight: 2
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 教授
+role: 副教授
 
 # Organizations/Affiliations
 organizations:
@@ -44,13 +44,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:nancheng@xidian.edu.cn'
+    link: 'mailto:zsyin@xidian.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.ca/citations?user=Cxm51twAAAAJ
+    link: https://scholar.google.com/citations?user=NLzRw10AAAAJ&hl=zh-CN&oi=ao
   - icon: house
     icon_pack: fas
-    link: https://web.xidian.edu.cn/nancheng/
+    link: https://faculty.xidian.edu.cn/zsyin
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +61,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
