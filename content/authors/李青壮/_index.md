@@ -1,15 +1,15 @@
 ---
 # 姓名
-title: 邓川
+title: 李青壮
 
 # 姓名
-first_name: 邓
+first_name: 李
 last_name: 2023
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 2023级硕士研究生<br>知识驱动无线网络
+role: 2023级硕士研究生<br>智能网络
 
 
 organizations:
@@ -25,9 +25,9 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:17713579736@163.com'
+    link: 'mailto:23011211024@stu.xidian.edu.cn'
 
-email: '17713579736@163.com'
+email: '23011211024@stu.xidian.edu.cn'
 highlight_name: false
 
 # 根据自身情况选填
