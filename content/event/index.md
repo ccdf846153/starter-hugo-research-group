@@ -67,6 +67,19 @@ sections:
           position: right
           color: '#fff'
           fit: contain
+      - title: 实验室赴马来西亚吉隆坡参加2023年GlobeCom会议
+        content: 
+                
+        align: left
+        background:
+          image:
+            filename: "pic/2023Globecom.jpg"
+            filters:
+              brightness: 1
+          position: right
+          color: '#fff'
+          fit: contain
+
     
        
     design:
