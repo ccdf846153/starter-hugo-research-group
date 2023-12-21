@@ -39,7 +39,7 @@ links:
         #这里替换成IEEE网站的链接
     url: https://arxiv.org/abs/2308.02603
         #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
-url_pdf: './Knowledge-Driven_Multi-Agent_Reinforcement.pdf'
+url_pdf: './Knowledge-Driven_Multi-Agent_Reinforcement_Learning_for_Computation_Offloading.pdf'
 # 都留空
 url_code: ''
 url_dataset: ''

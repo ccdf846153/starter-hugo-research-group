@@ -40,8 +40,7 @@ links:
         #这里替换成IEEE网站的链接
     url: https://arxiv.org/pdf/2204.12153.pdf
         #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
-url_pdf: './Cybertwin-enabled 6G Space-air-ground Integrated Networks:
-Architecture, Open Issue, and Challenges.pdf'
+url_pdf: './Cybertwin-enabled_6G_Space-air-ground_Integrated_Networks.pdf'
 # 都留空
 url_code: ''
 url_dataset: ''

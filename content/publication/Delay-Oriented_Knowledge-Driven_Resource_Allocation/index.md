@@ -39,7 +39,7 @@ links:
         #这里替换成IEEE网站的链接
     url: https://ieeexplore.ieee.org/abstract/document/10118888
         #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
-url_pdf: './Delay-Oriented_Knowledge-Driven_Resource_Allocation_in_S.pdf'
+url_pdf: './Delay-Oriented_Knowledge-Driven_Resource_Allocation.pdf'
 # 都留空
 url_code: ''
 url_dataset: ''
