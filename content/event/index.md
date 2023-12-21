@@ -67,7 +67,7 @@ sections:
           position: right
           color: '#fff'
           fit: contain
-      - title: 实验室赴马来西亚吉隆坡参加2023年GlobeCom会议
+      - title: 实验室赴马来西亚吉隆坡参加IEEE GLOBECOM 2023会议
         content: 
                 
         align: left
