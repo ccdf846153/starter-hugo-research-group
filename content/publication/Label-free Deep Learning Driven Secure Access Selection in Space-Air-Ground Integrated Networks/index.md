@@ -40,7 +40,7 @@ links:
         #这里替换成IEEE网站的链接
     url: https://arxiv.org/abs/2308.14348
         #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
-url_pdf: './Label-free_Deep Learning_Driven_Secure_Access.pdf'
+url_pdf: './Label-free Deep Learning Driven Secure Access Selection in Space-Air-Ground Integrated Networks.pdf'
 # 都留空
 url_code: ''
 url_dataset: ''
