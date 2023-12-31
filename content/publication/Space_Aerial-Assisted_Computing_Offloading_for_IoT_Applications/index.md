@@ -41,7 +41,7 @@ links:
         #这里替换成IEEE网站的链接
     url: https://ieeexplore.ieee.org/document/8672604
         #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
-url_pdf: './Space_Aerial.pdf'
+url_pdf: './Space_Aerial-Assisted_Computing_Offloading_for_IoT_Applications.pdf'
 # 都留空
 url_code: ''
 url_dataset: ''
