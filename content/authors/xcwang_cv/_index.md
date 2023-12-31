@@ -46,5 +46,5 @@ highlight_name: false
 #       - Undergraduate Student
 #       - Alumni
 user_groups:
-  - Master Student
+  - PHD Student
 ---
