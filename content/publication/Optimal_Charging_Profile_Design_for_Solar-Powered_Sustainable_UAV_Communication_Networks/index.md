@@ -39,7 +39,7 @@ links:
         #这里替换成IEEE网站的链接
     url: https://ui.adsabs.harvard.edu/abs/2023arXiv230206092W/abstract
         #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
-url_pdf: './Optimal.pdf'
+url_pdf: './Optimal_Charging_Profile_Design_for_Solar-Powered_Sustainable_UAV_Communication_Networks.pdf'
 # 都留空
 url_code: ''
 url_dataset: ''

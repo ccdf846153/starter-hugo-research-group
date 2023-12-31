@@ -40,7 +40,7 @@ links:
         #这里替换成IEEE网站的链接
     url: https://ieeexplore.ieee.org/abstract/document/10061663
         #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
-url_pdf: './Digital_twin.pdf'
+url_pdf: './Digital_twin-assisted_knowledge_distillation_framework_for_heterogeneous_federated_learning.pdf'
 # 都留空
 url_code: ''
 url_dataset: ''
