@@ -38,7 +38,7 @@ links:
         #这里替换成IEEE网站的链接
     url: https://ieeexplore.ieee.org/abstract/document/9645156
         #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
-url_pdf: './Physical_Layer_Security_in_Cybertwin-Enabled_Integrated_Satellite-Terrestrial_Vehicle_Networks.pdf'
+url_pdf: './Physical_Layer_Security_in_Cybertwin-Enabled_Integrated_Satellite-Te.pdf'
 # 都留空
 url_code: ''
 url_dataset: ''
