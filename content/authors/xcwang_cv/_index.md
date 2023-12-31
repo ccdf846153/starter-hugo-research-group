@@ -4,12 +4,12 @@ title: 王秀程
 
 # 姓名
 first_name: 王
-last_name: 2021
+last_name: 2023
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 2021级硕士研究生<br>智能网络
+role: 2023级博士研究生<br>智能网络
 
 
 
