@@ -41,7 +41,7 @@ links:
         #这里替换成IEEE网站的链接
     url: https://ieeexplore.ieee.org/document/9463880
         #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
-url_pdf: './UAV-Assisted.pdf'
+url_pdf: './UAV-assisted_physical_layer_security_in_multi-beam_satellite-enabled_vehicle_communications.pdf'
 # 都留空
 url_code: ''
 url_dataset: ''
