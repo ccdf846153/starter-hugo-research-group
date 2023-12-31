@@ -40,7 +40,7 @@ links:
         #这里替换成IEEE网站的链接
     url: https://ieeexplore.ieee.org/abstract/document/10000903
         #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
-url_pdf: './Joint_Radio.pdf'
+url_pdf: './Joint_Radio_Resource_Allocation_and_Control_for_Resource-Constrained_Vehicle_Platooning.pdf'
 # 都留空
 url_code: ''
 url_dataset: ''

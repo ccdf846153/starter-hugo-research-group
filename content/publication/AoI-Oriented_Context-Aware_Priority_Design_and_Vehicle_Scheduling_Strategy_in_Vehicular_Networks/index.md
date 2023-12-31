@@ -38,7 +38,7 @@ links:
         #这里替换成IEEE网站的链接
     url: https://ieeexplore.ieee.org/document/9896680
         #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
-url_pdf: './AoI.pdf'
+url_pdf: './AoI-Oriented_Context-Aware_Priority_Design_and_Vehicle_Scheduling_Strategy_in_Vehicular_Networks.pdf'
 # 都留空
 url_code: ''
 url_dataset: ''
