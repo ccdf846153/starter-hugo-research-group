@@ -42,7 +42,7 @@ links:
         #这里替换成IEEE网站的链接
     url: https://www.sciencedirect.com/science/article/pii/S1000936121004738
         #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
-url_pdf: './6G_service-oriented_space-air-ground_integrated_network_A_survey.pdf'
+url_pdf: './6G_service-oriented space-air-ground integrated network_A survey.pdf'
 # 都留空
 url_code: ''
 url_dataset: ''
