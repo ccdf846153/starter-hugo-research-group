@@ -4,6 +4,7 @@ date: 2023-10-13
 tags:
   - contest
   - forum
+  - expired
 ---
 
 祝贺承楠老师和尹志胜老师荣获指挥与控制科学技术进步一等奖
