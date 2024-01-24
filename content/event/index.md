@@ -73,7 +73,7 @@ sections:
         align: left
         background:
           image:
-            filename: "pic/2023年会.jpg"
+            filename: "pic/2023年会.png"
             filters:
               brightness: 1
           position: right
