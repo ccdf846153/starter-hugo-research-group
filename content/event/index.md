@@ -79,6 +79,18 @@ sections:
           position: right
           color: '#fff'
           fit: contain
+      - title: 实验室举行2023年年会
+        content: 
+                
+        align: left
+        background:
+          image:
+            filename: "pic/2023年会.jpg"
+            filters:
+              brightness: 1
+          position: right
+          color: '#fff'
+          fit: contain
 
     
        
