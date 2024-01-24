@@ -1,5 +1,5 @@
 ---
-title: 祝贺贺靖超同学论文中稿IEEE IoT期刊
+title: 祝贺实验室贺靖超同学论文中稿IEEE IoT期刊
 date: 2024-01-10
 tags:
   - paper

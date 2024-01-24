@@ -1,5 +1,5 @@
 ---
-title: 祝贺UNIC实验室王葳同学论文中稿IEEE TVT期刊
+title: 祝贺实验室王葳同学论文中稿IEEE TVT期刊
 date: 2024-01-17
 tags:
   - paper
