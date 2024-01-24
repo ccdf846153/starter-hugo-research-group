@@ -19,18 +19,6 @@ sections:
           position: center
           color: '#fff'
           fit: cover
-      - title: 实验室举办建党百年主题组会
-        content: 
-                
-        align: left
-        background:
-          image:
-            filename: "pic/建党.png"
-            filters:
-              brightness: 1
-          position: right
-          color: '#fff'
-          fit: contain
       - title: 实验室举办2021年春季学期聚餐活动
         content: 
                 
