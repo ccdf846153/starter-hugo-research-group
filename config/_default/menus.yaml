@@ -29,6 +29,9 @@ main:
   - name: 科研实习
     url: internship
     weight: 80
+  - name: 科研分享
+    url: seminar
+    weight: 90
   - name: 联系我们
     url: contact
 
