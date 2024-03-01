@@ -7,30 +7,7 @@ sections:
     content:
       title: 组会分享
       subtitle: ''
-      text: <div id="mask">
-    <div>访问密码：</div>
-    <div>
-        <form><input type="text" id="submitText" name="pwdBox"><input type="button" value="确认" onclick="submitPwd();">
-        </form>
-    </div>
-</div>
-<div id="content"></div>
-<script
-    type="text/javascript"> 
-    function sha256(message) {
-        const crypto = require('crypto');
-        const hash = crypto.createHash(message);
-        hash.update(message);
-        return hash.digest();
-    }
-    function submitPwd() {
-        if (sha256(document.getElementById('submitText').value) == "ef271b641bd639249d33fad6401aa5f4ddad6c99bf0ae4ac8f40facae58dc9c0") {
-            console.log("Welcome!");
-            document.getElementById('mask').remove();
-            document.getElementById('content').innerHTML = "Hello";
-        }
-    }
-</script>
+      text: <div id="mask"><div>访问密码：</div><div><form><input type="text" id="submitText" name="pwdBox"><input type="button" value="确认" onclick="submitPwd();"></form></div></div><div id="content"></div><script type="text/javascript"> function sha256(message) { const crypto = require('crypto'); const hash = crypto.createHash(message); hash.update(message); return hash.digest(); } function submitPwd() { if (sha256(document.getElementById('submitText').value) == "ef271b641bd639249d33fad6401aa5f4ddad6c99bf0ae4ac8f40facae58dc9c0") { console.log("Welcome!"); document.getElementById('mask').remove(); document.getElementById('content').innerHTML = "Hello"; }}</script>
 
     design:
       columns: '1'
