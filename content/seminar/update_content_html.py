@@ -170,7 +170,7 @@ def table_head(material_list):
     class_name = ' '.join([f'year-{year}' for year in year_list])
     return f"""
     <tr class="{class_name}">
-        <td style="position: relative; width: 15%; text-align: center;">
+        <td style="position: relative; width: 15%; text-align: center; margin-bottom: 1rem;">
             <span class="article-metadata li-cite-author" 
                 style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
                 <span>汇报日期</span>
@@ -218,7 +218,7 @@ def material_item_html(material_tuple):
         </td>
         <td style="position: relative; width: 73%; text-align: left;">
             <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-            <span style="align-items: center;">
+            <span style="align-items: center; display: inline-block;">
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/{relative_download_path}" 
                     target="_blank" rel="noopener">
@@ -226,7 +226,7 @@ def material_item_html(material_tuple):
                 </a>
             </span>
             <span class="article-metadata li-cite-author" 
-                style="width: 100%; text-align: left; align-items: center;">
+                style="width: 100%; text-align: left; align-items: center; display: inline-block;">
                 <span>{presentation_title}</span>
             </span>
         </td>
