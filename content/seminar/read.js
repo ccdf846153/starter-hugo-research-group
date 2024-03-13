@@ -1,4 +1,4 @@
-function read() {
+async function read() {
     var request = new XMLHttpRequest();
     const parser = new DOMParser();
 
@@ -7,7 +7,7 @@ function read() {
         'https://www.unicxidian.org/seminar_list/content.html', 
         true
     );
-    request.onreadystatechange = function() {
+    request.onreadystatechange = await function() {
         if (request.readyState === 4) {
             if (request.status === 200 || request.status === 0) {
                 var content = request.responseText;
