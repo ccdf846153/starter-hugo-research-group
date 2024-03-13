@@ -1,20 +1,13 @@
 async function read() {
-    var request = new XMLHttpRequest();
-    const parser = new DOMParser();
+    try {
+        let response = await fetch('https://www.unicxidian.org/seminar_list/content.html');
+        let fileContent = await response.text();
 
-    request.open(
-        'GET', 
-        'https://www.unicxidian.org/seminar_list/content.html', 
-        true
-    );
-    request.onreadystatechange = await function() {
-        if (request.readyState === 4) {
-            if (request.status === 200 || request.status === 0) {
-                var content = request.responseText;
-                const doc = parser.parseFromString(content, 'text/html');
-                return doc.body.innerHTML;
-            }
-        }
-    };
-    request.send(null);
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(fileContent, 'text/html');
+        console.log(doc.body.innerHTML);
+        return doc.body.innerHTML;
+    } catch (error) {
+        console.error(error);
+    }
 }
