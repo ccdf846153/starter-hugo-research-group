@@ -170,19 +170,19 @@ def table_head(material_list):
     class_name = ' '.join([f'year-{year}' for year in year_list])
     return f"""
     <tr class="{class_name}">
-        <td style="position: relative; width: 15%; text-align: center; margin-bottom: 1rem;">
+        <td style="position: relative; width: 15%; text-align: center; padding-bottom: 0.2rem;">
             <span class="article-metadata li-cite-author" 
                 style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
                 <span>汇报日期</span>
             </span>
          </td>
-        <td style="position: relative; width: 12%; text-align: center;">
+        <td style="position: relative; width: 12%; text-align: center; padding-bottom: 0.2rem;">
             <span class="article-metadata li-cite-author" 
                 style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
                 <span>汇报人</span>
             </span>
         </td>
-        <td style="position: relative; width: 73%; text-align: center;">
+        <td style="position: relative; width: 73%; text-align: center; padding-bottom: 0.2rem;">
             <span class="article-metadata li-cite-author" 
                 style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
                 <span>汇报名称</span>
@@ -216,19 +216,21 @@ def material_item_html(material_tuple):
                 {presenter_html_str}
             </span>
         </td>
-        <td style="position: relative; width: 73%; text-align: left; ">
-            <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-            <span style="display: inline-block;">
+        <td style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+            <p style="display: inline-block; margin: 0;"
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </p>
+            <p style="display: inline-block; margin: 0;">
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/{relative_download_path}" 
-                    target="_blank" rel="noopener" >
+                    target="_blank" rel="noopener"
+                    style="vertical-align: middle;">
                     {button_name}
                 </a>
-            </span>
-            <span class="article-metadata li-cite-author" 
-                style="text-align: left; align-items: center; display: inline-block; margin-bottom: -0.3rem;">
+            </p>
+            <p style="text-align: left; display: inline-block; width: 85%; vertical-align: middle;">
                 <span>{presentation_title}</span>
-            </span>
+            </p>
         </td>
     </tr>
     """)
