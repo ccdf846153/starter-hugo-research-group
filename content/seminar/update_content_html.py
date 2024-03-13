@@ -172,19 +172,19 @@ def table_head(material_list):
     <tr class="{class_name}">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
-                style="width: 100%; text-align: center; font-weight: bold;">
+                style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
                 <span>汇报日期</span>
             </span>
          </td>
         <td style="position: relative; width: 12%; text-align: center;">
             <span class="article-metadata li-cite-author" 
-                style="width: 100%; text-align: center; font-weight: bold;">
+                style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
                 <span>汇报人</span>
             </span>
         </td>
         <td style="position: relative; width: 73%; text-align: center;">
             <span class="article-metadata li-cite-author" 
-                style="width: 100%; text-align: center; font-weight: bold;">
+                style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
                 <span>汇报名称</span>
             </span>
         </td>
