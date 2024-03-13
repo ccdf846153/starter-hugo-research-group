@@ -218,13 +218,15 @@ def material_item_html(material_tuple):
         </td>
         <td style="position: relative; width: 73%; text-align: left;">
             <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-            <a class="btn btn-outline-primary btn-page-header btn-sm" 
-                href="/seminar/materials/{relative_download_path}" 
-                target="_blank" rel="noopener">
-                {button_name}
-            </a>
+            <span style="align-items: center;">
+                <a class="btn btn-outline-primary btn-page-header btn-sm" 
+                    href="/seminar/materials/{relative_download_path}" 
+                    target="_blank" rel="noopener">
+                    {button_name}
+                </a>
+            </span>
             <span class="article-metadata li-cite-author" 
-                style="width: 100%; text-align: left;">
+                style="width: 100%; text-align: left; align-items: center;">
                 <span>{presentation_title}</span>
             </span>
         </td>
