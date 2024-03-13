@@ -3,7 +3,6 @@ function read() {
     request.setHeader("Access-Control-Allow-Origin", "*");
     request.setHeader("Access-Control-Allow-Methods", "GET, POST, OPTIONS");
     request.setHeader("Access-Control-Allow-Headers", "Content-Type, X-Requested-With");
-
     request.open(
         'GET', 
         'https://gitee.com/ccdf846153/unic_resources/tree/master/content.txt', 
