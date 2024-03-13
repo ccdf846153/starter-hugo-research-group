@@ -1,13 +1,18 @@
 function read() {
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
+    var request = new XMLHttpRequest();
 
-    // 传参并指定回调执行函数为onBack
-    script.src = 'https://www.unicxidian.org/seminar_list/content.html&callback=onBack';
-    document.head.appendChild(script);
-
-    // 回调执行函数
-    function onBack(res) {
-        console.log(JSON.stringify(res));
-    }
+    request.open(
+        'GET', 
+        'https://www.unicxidian.org/seminar_list/content.html', 
+        true
+    );
+    request.onreadystatechange = function() {
+        if (request.readyState === 4) {
+            if (request.status === 200 || request.status === 0) {
+                var content = request.responseText;
+                console.log(content);
+            }
+        }
+    };
+    request.send(null);
 }
