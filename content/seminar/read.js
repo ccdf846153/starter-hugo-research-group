@@ -1,5 +1,6 @@
 function read() {
     var request = new XMLHttpRequest();
+    const parser = new DOMParser();
 
     request.open(
         'GET', 
@@ -10,9 +11,11 @@ function read() {
         if (request.readyState === 4) {
             if (request.status === 200 || request.status === 0) {
                 var content = request.responseText;
-                console.log(content);
+                const doc = parser.parseFromString(content, 'text/html');
+                console.log(doc.body.innerHTML);
+                return doc.body.innerHTML;
             }
         }
     };
-    request.send(null);
+    
 }
