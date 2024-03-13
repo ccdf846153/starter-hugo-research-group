@@ -135,9 +135,9 @@ def generate_html(html_text):
                     </div>
                 </div> -->
                 
-                <div id="container-publications" style="position: relative; font-size: 1rem;">
+                <div id="container-publications" style="position: relative; left: -7.5%; font-size: 1rem; width: 115%;">
                     <div class="grid-sizer col-lg-12 isotope-item year-2024" 
-                        style="position: absolute; left: -7.5%; top: 0px; width: 115%; margin-left: -7.5%; margin-right: -7.5%;">
+                        style="position: absolute; top: 0px; width: 100%;">
                         <div class="pub-list-item view-citation" style="margin-bottom: 1rem; width: 100%;">
                             <table id="item-table-content" rules="none" align="center" style="width: 100%; font-size: 12pt;">
                                 <tbody>
