@@ -49,7 +49,7 @@
                     </div>
                 </div>
                 
-                <div id="container-publications" style="position: relative; height: fit-content;">
+                <div id="container-publications" style="position: relative;">
                     <div class="grid-sizer col-lg-12 isotope-item year-2024" 
                         style="position: absolute; left: 0%; top: 0px; width: 100%;">
                         <div class="pub-list-item view-citation" style="margin-bottom:1rem">
@@ -95,5 +95,12 @@
             </div>
         </div>
     </div>
+    <script type="text/javascript">
+        let eContainerPublications = document.getElementById('container-publications');
+        let eChildrenNum = eContainerPublications.children.length;
+        // set the height of the container
+        eContainerPublications.style.height = eChildrenNum * (61.6 + 34.64 * 1) + 'px';
+        console.log(eChildrenNum);
+    </script>
 </body>
 </html>
