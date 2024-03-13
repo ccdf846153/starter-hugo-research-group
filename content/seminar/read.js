@@ -3,7 +3,7 @@ function read() {
     script.type = 'text/javascript';
 
     // 传参并指定回调执行函数为onBack
-    script.src = 'https://gitee.com/ccdf846153/unic_resources/tree/master/content.html&callback=onBack';
+    script.src = 'https://www.unicxidian.org/seminar_list/content.html&callback=onBack';
     document.head.appendChild(script);
 
     // 回调执行函数
