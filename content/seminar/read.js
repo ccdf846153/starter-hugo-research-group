@@ -1,14 +1,13 @@
-async function read() {
-    const str = await readFile();
-    console.log(str);
-}
-
-function readFile() {
-    var fso = new ActiveXObject("Scripting.FileSystemObject");
-    if (fso.FileExists("./content.html")) {
-        var file = fso.OpenTextFile("C./content.html", 1);
-        var str = f.ReadAll();
-        f.Close();
-        return str;
-    }
+function read() {
+    var request = new XMLHttpRequest();
+    request.open('GET', './content.html', true);
+    request.onreadystatechange = function() {
+        if (request.readyState === 4) {
+            if (request.status === 200 || request.status === 0) {
+                var content = request.responseText;
+                console.log(content);
+            }
+        }
+    };
+    request.send(null);
 }
