@@ -216,7 +216,7 @@ def material_item_html(material_tuple):
                 {presenter_html_str}
             </span>
         </td>
-        <td style="position: relative; width: 73%; text-align: left;">
+        <td style="position: relative; width: 73%; text-align: left; ">
             <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
             <span style="align-items: center; display: inline-block;">
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
@@ -226,7 +226,7 @@ def material_item_html(material_tuple):
                 </a>
             </span>
             <span class="article-metadata li-cite-author" 
-                style="width: 100%; text-align: left; align-items: center; display: inline-block;">
+                style="text-align: left; align-items: center; display: inline-block;">
                 <span>{presentation_title}</span>
             </span>
         </td>
