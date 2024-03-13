@@ -12,7 +12,6 @@ function read() {
             if (request.status === 200 || request.status === 0) {
                 var content = request.responseText;
                 const doc = parser.parseFromString(content, 'text/html');
-                console.log(doc.body.innerHTML);
                 return doc.body.innerHTML;
             }
         }
