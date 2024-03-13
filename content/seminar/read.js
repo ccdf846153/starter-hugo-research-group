@@ -16,6 +16,5 @@ function read() {
             }
         }
     };
-    
     request.send(null);
 }
