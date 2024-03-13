@@ -185,7 +185,7 @@ def table_head(material_list):
         <td style="position: relative; width: 73%; text-align: center; padding-bottom: 0.2rem;">
             <span class="article-metadata li-cite-author" 
                 style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
-                <span>汇报名称</span>
+                <span>汇报主题</span>
             </span>
         </td>
     </tr>
