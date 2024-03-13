@@ -5,7 +5,7 @@ function read() {
     request.setHeader("Access-Control-Allow-Headers", "Content-Type, X-Requested-With");
     request.open(
         'GET', 
-        'https://gitee.com/ccdf846153/unic_resources/tree/master/content.txt', 
+        'https://gitee.com/ccdf846153/unic_resources/tree/master/content.html', 
         true
     );
     request.onreadystatechange = function() {
