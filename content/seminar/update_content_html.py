@@ -224,7 +224,7 @@ def material_item_html(material_tuple):
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/{relative_download_path}" 
                     target="_blank" rel="noopener"
-                    style="vertical-align: middle; margin-left: 1.2rem;">
+                    style="vertical-align: middle; margin-left: 1.5rem;">
                     {button_name}
                 </a>
             </p>
