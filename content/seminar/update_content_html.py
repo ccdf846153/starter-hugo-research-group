@@ -175,7 +175,7 @@ def table_head(material_list):
                 style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
                 <span>汇报日期</span>
             </span>
-         </td>
+        </td>
         <td style="position: relative; width: 12%; text-align: center; padding-bottom: 0.2rem;">
             <span class="article-metadata li-cite-author" 
                 style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
@@ -224,7 +224,7 @@ def material_item_html(material_tuple):
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/{relative_download_path}" 
                     target="_blank" rel="noopener"
-                    style="vertical-align: middle;">
+                    style="vertical-align: middle; margin-left: 0.7rem;">
                     {button_name}
                 </a>
             </p>
