@@ -1,14 +1,14 @@
 async function read() {
-    const fileResult = await waitReader("content.html");
-    console.log(fileResult)
+    const str = await readFile();
+    console.log(str);
 }
 
-function waitReader(file) {
-    return new Promise((resolve, reject) => {
-        var reader = new FileReader();
-        reader.onload = function (e) {
-            resolve(e.target.result);
-        };
-        reader.readAsText(file);
-    });
+function readFile() {
+    var fso = new ActiveXObject("Scripting.FileSystemObject");
+    if (fso.FileExists("./content.html")) {
+        var file = fso.OpenTextFile("C./content.html", 1);
+        var str = f.ReadAll();
+        f.Close();
+        return str;
+    }
 }
