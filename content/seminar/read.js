@@ -2,7 +2,7 @@ function read() {
     var request = new XMLHttpRequest();
     request.open(
         'GET', 
-        'https://github.com/ccdf846153/starter-hugo-research-group/tree/main/content/seminar/content.html', 
+        'https://github.com/ccdf846153/starter-hugo-research-group/tree/main/content/seminar/content.txt', 
         true
     );
     request.onreadystatechange = function() {
