@@ -1,6 +1,4 @@
-from bs4 import BeautifulSoup
 import os
-import pprint
 
 MATERIAL_ROOT_PATH = os.path.realpath('./materials')
 HTML_PATH = os.path.realpath(
