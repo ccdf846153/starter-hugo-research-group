@@ -4,6 +4,13 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="Access-Control-Allow-Origin" content="unicxidian.com" />
+    <script type="text/javascript">
+        var eContainerPublications = document.getElementById('container-publications');
+        var eChildrenNum = eContainerPublications.children.length;
+        // set the height of the container
+        eContainerPublications.style.height = eChildrenNum * (61.6 + 34.64 * 1) + 'px';
+        console.log(eChildrenNum);
+    </script>
     <title>Document</title>
 </head>
 <body>
