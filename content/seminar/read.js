@@ -5,7 +5,6 @@ async function read() {
 
         const parser = new DOMParser();
         const doc = parser.parseFromString(fileContent, 'text/html');
-        console.log(doc.body.innerHTML);
         return doc.body.innerHTML;
     } catch (error) {
         console.error(error);
