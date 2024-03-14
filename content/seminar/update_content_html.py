@@ -24,7 +24,7 @@ def get_material_list():
                 ''.join((material_file.split('_')[1:]))         # remove the presenter name
             ).split('.')[:-1]                                   # remove the file extension
             ret_list.append((material_dir, presenter_list, title, material_file, 'Link' if material_file.endswith('.txt') else 'PPT'))
-            # print(ret_list[-1])
+            print(ret_list[-1])
     # print(ret_list)
     return ret_list
 
