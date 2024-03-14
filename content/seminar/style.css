@@ -8,8 +8,8 @@
 
 #password-div {
     display: flex;
-    min-width: 8rem;
-    max-width: 20rem;
+    min-width: 10rem;
+    max-width: 22rem;
 }
 
 #password-label {
@@ -20,7 +20,6 @@
 
 #pwdBox {
     display: inline;
-    width: calc(100%-8rem);
     margin-left: 0.7rem; 
 }
 
