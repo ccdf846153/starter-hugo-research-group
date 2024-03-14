@@ -1,5 +1,5 @@
 ---
-title: 2024年3月5日 新加坡南洋理工大学Dusit Niyato等学术报告
+title: 2024年3月5日 新加坡南洋理工大学Dusit Niyato等开展学术交流
 date: 2024-03-05
 tags: 
   - forum
