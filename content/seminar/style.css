@@ -5,11 +5,11 @@
 #password-div {
     display: flex;
     min-width: 10rem;
-    max-width: 24rem;
+    max-width: 29rem;
     align-items: center;
     justify-content: center;
     margin: auto;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     padding: 0;
 }
 
