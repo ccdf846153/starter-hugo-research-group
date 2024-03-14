@@ -20,7 +20,7 @@
 
 #pwdBox {
     display: inline;
-    width: calc(100%-4rem);
+    width: calc(100%-8rem);
     margin-left: 0.7rem; 
 }
 
