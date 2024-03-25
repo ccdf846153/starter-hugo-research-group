@@ -28,7 +28,7 @@ def get_material_list():
             elif material_file.endswith('.zip'):
                 material_type = 'ZIP'
             elif material_file.endswith(('.pdf', '.ppt', 'pptx')):
-                material_type = 'PDF'
+                material_type = 'PPT'
             else:
                 raise ValueError(f'Unknown material type: {material_file}')
             ret_list.append((material_dir, presenter_list, title, material_file, material_type))
