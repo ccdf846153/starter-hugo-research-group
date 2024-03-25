@@ -17,13 +17,21 @@ def get_material_list():
 
         material_path = os.path.join(MATERIAL_ROOT_PATH, material_dir)
         filename_list = os.listdir(material_path)
-        material_file_list = list(filter(lambda x: x.endswith(('.pdf', '.ppt', 'pptx', 'txt')) and x.find('_') != -1, filename_list))
+        material_file_list = list(filter(lambda x: x.endswith(('.pdf', '.ppt', 'pptx', 'txt', 'zip')) and x.find('_') != -1, filename_list))
         for material_file in material_file_list:
             presenter_list = material_file.split('_')[0].split('-')
             title = (
                 ''.join((material_file.split('_')[1:]))         # remove the presenter name
             ).split('.')[:-1]                                   # remove the file extension
-            ret_list.append((material_dir, presenter_list, title, material_file, 'Link' if material_file.endswith('.txt') else 'PPT'))
+            if material_file.endswith('.txt'):
+                material_type = 'Link'
+            elif material_file.endswith('.zip'):
+                material_type = 'ZIP'
+            elif material_file.endswith(('.pdf', '.ppt', 'pptx')):
+                material_type = 'PDF'
+            else:
+                raise ValueError(f'Unknown material type: {material_file}')
+            ret_list.append((material_dir, presenter_list, title, material_file, material_type))
             print(ret_list[-1])
     # print(ret_list)
     return ret_list
