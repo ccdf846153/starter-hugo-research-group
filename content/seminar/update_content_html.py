@@ -26,7 +26,7 @@ def get_material_list():
             if material_file.endswith('.txt'):
                 material_type = 'Link'
             elif material_file.endswith('.zip'):
-                material_type = 'ZIP'
+                material_type = 'PPT'
             elif material_file.endswith(('.pdf', '.ppt', 'pptx')):
                 material_type = 'PPT'
             else:
