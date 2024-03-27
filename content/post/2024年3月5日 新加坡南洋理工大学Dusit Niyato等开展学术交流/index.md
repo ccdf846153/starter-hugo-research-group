@@ -1,11 +1,11 @@
 ---
-title: 2024年3月5日 新加坡南洋理工大学Dusit Niyato等开展学术交流
+title: 2024年3月5日 新加坡南洋理工大学Dusit Niyato教授等开展学术交流
 date: 2024-03-05
 tags: 
   - forum
 ---
 
-新加坡南洋理工大学Dusit Niyato、Jiacheng Wang、Hongyang Du、Ruichen Zhang学术报告
+新加坡南洋理工大学Dusit Niyato教授、Jiacheng Wang、Hongyang Du、Ruichen Zhang学术报告
 
 <!--more-->
 
