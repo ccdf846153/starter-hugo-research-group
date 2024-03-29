@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 6G与未来智能无线网络
-        content: <div style="margin-top:60px; margin-bottom:40px; font-size:12pt; width:72%; min-width:150px; height:180px; color:#fff; text-indent:2em;"><div style="display:inline-block; position:relative; top:50%; -webkit-transform:translateY(-50%);"><p>通知人工智能及深度学习技术实现网络智慧内生，AI能力的全网渗透，快速、自动、智能地对网络各方面进行高效管控，包括规划、管理、优化以及康复等，有效满足不断出现的新需求，使能资源管理的智慧决策，降低成本并提高效率。</p><p style="margin-top:-1.2vh;">研究内容包括：基于图神经网络的快速网络部署，知识驱动的网络资源调配，知识图谱赋能的网络管控，动态神经模型与按需服务技术，大模型与预训练模型在网络中的应用，可解释人工智能的网络应用，多智能体强化学习无人机集群对抗，数字孪生驱动的强化学习，智能测试方法等</p></div></div>
+        content: <div style="margin-top:60px; margin-bottom:40px; font-size:12pt; width:72%; min-width:150px; height:180px; color:#fff; text-indent:2em;"><div style="display:inline-block; position:relative; top:50%; -webkit-transform:translateY(-50%);"><p>通过人工智能及深度学习技术实现网络智慧内生，AI能力的全网渗透，快速、自动、智能地对网络各方面进行高效管控，包括规划、管理、优化以及康复等，有效满足不断出现的新需求，使能资源管理的智慧决策，降低成本并提高效率。</p><p style="margin-top:-1.2vh;">研究内容包括：基于图神经网络的快速网络部署，知识驱动的网络资源调配，知识图谱赋能的网络管控，动态神经模型与按需服务技术，大模型与预训练模型在网络中的应用，可解释人工智能的网络应用，多智能体强化学习无人机集群对抗，数字孪生驱动的强化学习，智能测试方法等</p></div></div>
         align: left
         background:
           image:
