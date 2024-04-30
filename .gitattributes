@@ -1,1 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
 content/seminar/materials/20251110/陈哲-李茗-赫祎征-冉艺泉-吴娅兰_2025第19届电磁年会参会汇报及核心内容分享.zip !text !filter !merge !diff
