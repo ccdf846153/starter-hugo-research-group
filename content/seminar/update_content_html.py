@@ -228,7 +228,7 @@ def material_item_html(material_tuple):
             </p>
             <p style="display: inline-block; margin: 0;">
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
-                    href="/seminar/materials/{relative_download_path}" 
+                    href="https://github.com/ccdf846153/starter-hugo-research-group/tree/main/content/seminar/materials/{relative_download_path}"
                     target="_blank" rel="noopener"
                     style="vertical-align: middle; margin-left: 1.5rem;">
                     {button_name}
