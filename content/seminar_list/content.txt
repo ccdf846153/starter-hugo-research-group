@@ -856,7 +856,7 @@
         <td style="position: relative; width: 12%; text-align: center;">
             <span class="article-metadata li-cite-author" 
                 style="width: 100%; text-align: center;">
-                <span>周新阳</span>
+                <span>陈浩然</span>
             </span>
         </td>
         <td style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
@@ -876,7 +876,7 @@
             </p>
         
             <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
-                <span>Fairness-Based Multi-AP Coordination Using Federated Learning in Wi-Fi 7</span>
+                <span>基于信息价值的边缘视频流传输</span>
             </p>
         </td>
     </tr>
@@ -3271,7 +3271,7 @@
         <td style="position: relative; width: 12%; text-align: center;">
             <span class="article-metadata li-cite-author" 
                 style="width: 100%; text-align: center;">
-                <span>陈子衍</span>
+                <span>王秀程</span>
             </span>
         </td>
         <td style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
@@ -3291,7 +3291,7 @@
             </p>
         
             <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
-                <span>Service-oriented network topology reconstruction study</span>
+                <span>Pytorch安装与DQN讲解</span>
             </p>
         </td>
     </tr>
