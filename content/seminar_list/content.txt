@@ -151,7 +151,7 @@
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/分布式训练分布式执行的共享算力网络任务卸载策略_会议纪要.docx"
                     target="_blank" rel="noopener"
-                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    style="vertical-align: middle; 0;">
                     Note
                 </a>
             </p>
@@ -195,7 +195,7 @@
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/基于自适应轻量化小波神经网络的自动调制分类_会议纪要.docx"
                     target="_blank" rel="noopener"
-                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    style="vertical-align: middle; 0;">
                     Note
                 </a>
             </p>
@@ -239,7 +239,7 @@
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/基于星间链路的星地融合网络中多星协同计算卸载和资源分配_会议纪要.docx"
                     target="_blank" rel="noopener"
-                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    style="vertical-align: middle; 0;">
                     Note
                 </a>
             </p>
@@ -283,7 +283,7 @@
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/生成式AI与大模型的前沿与思考_会议纪要.docx"
                     target="_blank" rel="noopener"
-                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    style="vertical-align: middle; 0;">
                     Note
                 </a>
             </p>
@@ -362,7 +362,7 @@
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/联邦学习和物理层安全结合架构及其安全编码方案_会议纪要.docx"
                     target="_blank" rel="noopener"
-                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    style="vertical-align: middle; 0;">
                     Note
                 </a>
             </p>
@@ -406,7 +406,7 @@
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/基于SAGIN的车联网中知识驱动的双时间尺度任务卸载方案_会议纪要.docx"
                     target="_blank" rel="noopener"
-                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    style="vertical-align: middle; 0;">
                     Note
                 </a>
             </p>
@@ -450,7 +450,7 @@
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/利用CKM实现环境感知通信_会议纪要.docx"
                     target="_blank" rel="noopener"
-                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    style="vertical-align: middle; 0;">
                     Note
                 </a>
             </p>
@@ -870,7 +870,7 @@
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/陈浩然_基于信息价值的边缘视频流传输.txt"
                     target="_blank" rel="noopener"
-                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    style="vertical-align: middle; 0;">
                     Link
                 </a>
             </p>
@@ -3285,7 +3285,7 @@
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/王秀程_Pytorch安装与DQN讲解.txt"
                     target="_blank" rel="noopener"
-                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    style="vertical-align: middle; 0;">
                     Link
                 </a>
             </p>
