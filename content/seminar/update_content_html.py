@@ -2,7 +2,7 @@ import os
 
 MATERIAL_ROOT_PATH = os.path.realpath('./materials')
 HTML_PATH = os.path.realpath(
-    os.path.join(MATERIAL_ROOT_PATH, '../../seminar_list/content.html')
+    os.path.join(MATERIAL_ROOT_PATH, '../../seminar_list/content.txt')
 )
 print(HTML_PATH)
 

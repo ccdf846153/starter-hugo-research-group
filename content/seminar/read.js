@@ -1,6 +1,6 @@
 async function read() {
     try {
-        let response = await fetch('https://www.unicxidian.org/seminar_list/content.html');
+        let response = await fetch('https://www.unicxidian.org/seminar_list/content.txt');
         let fileContent = await response.text();
 
         const parser = new DOMParser();
