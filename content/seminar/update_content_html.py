@@ -211,14 +211,36 @@ def material_item_html(material_tuple):
     presentation_title = material_tuple[2][0]
 
     material_html_str = ""
-    for idx in range(len(button_name_list)):
+    if 'PPT' in button_name_list:
         material_html_str += f"""
             <p style="display: inline-block; margin: 0;">
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
-                    href="/seminar/materials/{relative_download_path_list[idx]}"
+                    href="/seminar/materials/{material_tuple[3]['PPT']}"
                     target="_blank" rel="noopener"
                     style="vertical-align: middle; margin-left: 1.5rem;">
-                    {button_name_list[idx]}
+                    PPT
+                </a>
+            </p>
+        """
+    if 'Note' in button_name_list:
+        material_html_str += f"""
+            <p style="display: inline-block; margin: 0;">
+                <a class="btn btn-outline-primary btn-page-header btn-sm" 
+                    href="/seminar/materials/{material_tuple[3]['Note']}"
+                    target="_blank" rel="noopener"
+                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    Note
+                </a>
+            </p>
+        """
+    if 'Link' in button_name_list:
+        material_html_str += f"""
+            <p style="display: inline-block; margin: 0;">
+                <a class="btn btn-outline-primary btn-page-header btn-sm" 
+                    href="/seminar/materials/{material_tuple[3]['Link']}"
+                    target="_blank" rel="noopener"
+                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    Link
                 </a>
             </p>
         """
