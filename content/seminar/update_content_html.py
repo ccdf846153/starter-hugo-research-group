@@ -17,40 +17,37 @@ def get_material_list():
 
         material_path = os.path.join(MATERIAL_ROOT_PATH, material_dir)
         filename_list = os.listdir(material_path)
-        material_file_list = list(filter(lambda x: x.endswith(('.pdf', '.ppt', 'pptx', 'txt', 'zip')) and x.find('_') != -1, filename_list))
+        material_file_list = list(filter(lambda x: x.endswith(('.pdf', '.ppt', 'pptx', 'txt', '.doc', '.docx')) and x.find('_') != -1, filename_list))
+        material_dict = dict()
         for material_file in material_file_list:
-            presenter_list = material_file.split('_')[0].split('-')
-            title = (
-                ''.join((material_file.split('_')[1:]))         # remove the presenter name
-            ).split('.')[:-1]                                   # remove the file extension
+            # get the presenter list and title
+            if material_file.endswith(('.pdf', '.ppt', 'pptx')):
+                presenter_list = material_file.split('_')[0].split('-')
+                title = (
+                    ''.join((material_file.split('_')[1:]))         # remove the presenter name
+                ).split('.')[:-1]                                   # remove the file extension
+
+            # get the material type
             if material_file.endswith('.txt'):
                 material_type = 'Link'
-            elif material_file.endswith('.zip'):
-                material_type = 'PPT'
+            # elif material_file.endswith('.zip'):
+            #     material_type = 'PPT'
             elif material_file.endswith(('.pdf', '.ppt', 'pptx')):
                 material_type = 'PPT'
+            elif material_file.endswith(('.doc', '.docx')):
+                material_type = 'Note'
             else:
                 raise ValueError(f'Unknown material type: {material_file}')
-            ret_list.append((material_dir, presenter_list, title, material_file, material_type))
-            print(ret_list[-1])
+            material_dict[material_type] = material_file
+        ret_list.append((material_dir, presenter_list, title, material_dict))
+        print(ret_list[-1])
     # print(ret_list)
     return ret_list
 
 
 def generate_html(html_text):
-    return f"""
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="Access-Control-Allow-Origin" content="unicxidian.com" />
-    <title>Document</title>
-</head>
-<body>
-    <div class="universal-wrapper">
-        <div class="row">
-            <div class="col-lg-12">
+    body_head =  """
+
                 <!-- <div>
                     <input type="search" class="filter-search form-control form-control-sm" 
                         placeholder="Search..." autocapitalize="off" autocomplete="off" 
@@ -90,15 +87,17 @@ def generate_html(html_text):
                     </div>
                 </div> -->
                 
-                <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="Access-Control-Allow-Origin" content="unicxidian.com" />
+    <script type="module">import { Octokit } from "https://esm.sh/@octokit/core";</script>
     <title>Document</title>
 </head>
-<body>
+"""
+    body_main = f"""<body>
     <div class="universal-wrapper">
         <div class="row">
             <div class="col-lg-12">
@@ -167,7 +166,8 @@ def generate_html(html_text):
     </div>
 </body>
 </html>
-    """
+"""
+    return body_head + body_main
 
 def table_head(material_list):
     date_list = [material_tuple[0] for material_tuple in material_list]
@@ -198,16 +198,31 @@ def table_head(material_list):
 """
 
 def material_item_html(material_tuple):
-    # material tuple: (date, presenter_list, title, material_file, 'Link'/'PPT')
+    # get tuple like this: (material_dir, presenter_list, title, material_dict)
+    # material tuple: (date, presenter_list, title, dict={'Link/PPT/Note': filename})
     year_class = f'year-{(material_tuple[0])[:4]}'
     date_str = material_tuple[0]
     date_html_str = f'{date_str[0:4]}-{date_str[4:6]}-{date_str[6:8]}'
     presenter_html_str = '<span>' + \
         "</span>、<span>".join(material_tuple[1]) + \
         '</span>'
-    relative_download_path = f"{material_tuple[0]}/{material_tuple[3]}"
-    button_name = material_tuple[4]
+    button_name_list = list(material_tuple[3].keys())
+    relative_download_path_list = [f"{material_tuple[0]}/{material_tuple[3][key]}" for key in button_name_list]
     presentation_title = material_tuple[2][0]
+
+    material_html_str = ""
+    for idx in range(len(button_name_list)):
+        material_html_str += f"""
+            <p style="display: inline-block; margin: 0;">
+                <a class="btn btn-outline-primary btn-page-header btn-sm" 
+                    href="/seminar/materials/{relative_download_path_list[idx]}"
+                    target="_blank" rel="noopener"
+                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    {button_name_list[idx]}
+                </a>
+            </p>
+        """
+    
     return (TABLE_ITEM := f"""
     <tr class="{year_class}">
         <td style="position: relative; width: 15%; text-align: center;">
@@ -226,14 +241,7 @@ def material_item_html(material_tuple):
             <p style="display: inline-block; margin: 0;"
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             </p>
-            <p style="display: inline-block; margin: 0;">
-                <a class="btn btn-outline-primary btn-page-header btn-sm" 
-                    href="https://github.com/ccdf846153/starter-hugo-research-group/tree/main/content/seminar/materials/{relative_download_path}?download="
-                    target="_blank" rel="noopener"
-                    style="vertical-align: middle; margin-left: 1.5rem;">
-                    {button_name}
-                </a>
-            </p>
+            {material_html_str}
             <p style="text-align: left; display: inline-block; width: 85%; vertical-align: middle;">
                 <span>{presentation_title}</span>
             </p>
