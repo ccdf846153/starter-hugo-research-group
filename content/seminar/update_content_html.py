@@ -214,7 +214,7 @@ def material_item_html(material_tuple):
         material_html_str += f"""
             <p style="display: inline-block; margin: 0;">
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
-                    href="/seminar/materials/{material_tuple[3]['PPT']}"
+                    href="/seminar/materials/{material_tuple[0]}/{material_tuple[3]['PPT']}"
                     target="_blank" rel="noopener"
                     style="vertical-align: middle; margin-left: 0;">
                     PPT
@@ -225,7 +225,7 @@ def material_item_html(material_tuple):
         material_html_str += f"""
             <p style="display: inline-block; margin: 0;">
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
-                    href="/seminar/materials/{material_tuple[3]['Note']}"
+                    href="/seminar/materials/{material_tuple[0]}/{material_tuple[3]['Note']}"
                     target="_blank" rel="noopener"
                     style="vertical-align: middle; 0;">
                     Note
@@ -236,7 +236,7 @@ def material_item_html(material_tuple):
         material_html_str += f"""
             <p style="display: inline-block; margin: 0;">
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
-                    href="/seminar/materials/{material_tuple[3]['Link']}"
+                    href="/seminar/materials/{material_tuple[0]}/{material_tuple[3]['Link']}"
                     target="_blank" rel="noopener"
                     style="vertical-align: middle; 0;">
                     Link
