@@ -156,7 +156,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 77%; vertical-align: middle;">
                 <span>分布式训练分布式执行共享算力网络任务卸载方案</span>
             </p>
         </td>
@@ -200,7 +200,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 77%; vertical-align: middle;">
                 <span>基于自适应轻量化小波神经网络的自动调制分类</span>
             </p>
         </td>
@@ -244,7 +244,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 77%; vertical-align: middle;">
                 <span>基于星间链路的星地融合网络中多星协同计算卸载和资源分配</span>
             </p>
         </td>
@@ -288,7 +288,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 77%; vertical-align: middle;">
                 <span>生成式AI与大模型的前沿与思考</span>
             </p>
         </td>
@@ -323,7 +323,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Reliable Projection Based Unsupervised Learning for Efficient Constrained Beamforming Optimization</span>
             </p>
         </td>
@@ -367,7 +367,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 77%; vertical-align: middle;">
                 <span>联邦学习和物理层安全结合架构及其安全编码方案</span>
             </p>
         </td>
@@ -411,7 +411,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 77%; vertical-align: middle;">
                 <span>基于SAGIN的车联网中知识驱动的双时间尺度任务卸载方案</span>
             </p>
         </td>
@@ -455,7 +455,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 77%; vertical-align: middle;">
                 <span>利用CKM实现环境感知通信</span>
             </p>
         </td>
@@ -490,7 +490,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>用于开放集识别的卷积原型网络</span>
             </p>
         </td>
@@ -525,7 +525,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>无线通信中的对抗性机器学习调研报告</span>
             </p>
         </td>
@@ -560,7 +560,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于神经辐射场的三维RadioMap构建调研报告</span>
             </p>
         </td>
@@ -595,7 +595,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>星地网络中的物理层安全挑战</span>
             </p>
         </td>
@@ -630,7 +630,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>分布式边缘计算中基于时延最优金字塔的联合通信与计算调度</span>
             </p>
         </td>
@@ -665,7 +665,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>一种基于博弈的去中心化信息价值评估机制</span>
             </p>
         </td>
@@ -700,7 +700,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>面向6G无线网络大规模优化的机器学习</span>
             </p>
         </td>
@@ -735,7 +735,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>抓住联邦学习中的关键期</span>
             </p>
         </td>
@@ -770,7 +770,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>可扩展的信道鲁棒LoRa设备射频指纹识别方法</span>
             </p>
         </td>
@@ -805,7 +805,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Learning Cooperative Policies with Graph Networks in Distributed Swarm Systems</span>
             </p>
         </td>
@@ -840,7 +840,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Fairness-Based Multi-AP Coordination Using Federated Learning in Wi-Fi 7</span>
             </p>
         </td>
@@ -875,7 +875,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Fairness-Based Multi-AP Coordination Using Federated Learning in Wi-Fi 7</span>
             </p>
         </td>
@@ -910,7 +910,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>可缝合神经网络</span>
             </p>
         </td>
@@ -945,7 +945,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>可解释的基于人工智能的大规模3D路径损失预测模型</span>
             </p>
         </td>
@@ -980,7 +980,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>FedUSC：从分线的物联网数据中进行协作式无监督的表征学习</span>
             </p>
         </td>
@@ -1015,7 +1015,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>LEO卫星星座多播路由和卫星间链路路径分析文献分享</span>
             </p>
         </td>
@@ -1050,7 +1050,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>优化诱导均衡网络</span>
             </p>
         </td>
@@ -1085,7 +1085,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>MF-TEG在SAGIN辅助多层计算网络中的应用文献分享</span>
             </p>
         </td>
@@ -1120,7 +1120,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>强化学习中引入知识的方法调研汇报</span>
             </p>
         </td>
@@ -1155,7 +1155,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>AIGI、扩散模型的发展与应用介绍</span>
             </p>
         </td>
@@ -1190,7 +1190,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>面向服务的低轨卫星网络资源编排研究</span>
             </p>
         </td>
@@ -1225,7 +1225,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>GPT修改论文使用介绍</span>
             </p>
         </td>
@@ -1260,7 +1260,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>边缘辅助自动驾驶的自适应计算资源调度</span>
             </p>
         </td>
@@ -1295,7 +1295,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>面向服务的无人机网络拓扑重构研究</span>
             </p>
         </td>
@@ -1330,7 +1330,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>动态RAN切片资源分配方案研究</span>
             </p>
         </td>
@@ -1365,7 +1365,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>车辆编队通信和控制的联合系统设计</span>
             </p>
         </td>
@@ -1400,7 +1400,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>自动驾驶中的多模态数据融合技术分享</span>
             </p>
         </td>
@@ -1435,7 +1435,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于知识图谱的场景认知</span>
             </p>
         </td>
@@ -1470,7 +1470,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>面向网联自动驾驶的知识驱动多目标资源调配方法</span>
             </p>
         </td>
@@ -1505,7 +1505,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于信息价值的UAV辅助数据收集</span>
             </p>
         </td>
@@ -1540,7 +1540,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于图神经网络的大规模分层自组网研究</span>
             </p>
         </td>
@@ -1575,7 +1575,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>PartialFed：Cross-Domain Personalized Federated Learning via Partial Initialization</span>
             </p>
         </td>
@@ -1610,7 +1610,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>无人机辅助多接入边缘计算系统的半分布式资源管理</span>
             </p>
         </td>
@@ -1645,7 +1645,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>资源受限环境下的自适应联邦学习</span>
             </p>
         </td>
@@ -1680,7 +1680,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>RingSFL：一种适应客户端异质性的分割联邦学习</span>
             </p>
         </td>
@@ -1715,7 +1715,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>巨星座系统优化：从网络控制结构的角度</span>
             </p>
         </td>
@@ -1750,7 +1750,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于模型的深度学习</span>
             </p>
         </td>
@@ -1785,7 +1785,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>边缘计算中的资源调度问题综述分享</span>
             </p>
         </td>
@@ -1820,7 +1820,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>移动网络自优化与多目标优化文献汇报</span>
             </p>
         </td>
@@ -1855,7 +1855,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>6G业务多视图聚类</span>
             </p>
         </td>
@@ -1890,7 +1890,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>面向服务的空地网络资源调度</span>
             </p>
         </td>
@@ -1925,7 +1925,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Age of Information-Aware Radio Resource Management in Vehicular Networks</span>
             </p>
         </td>
@@ -1960,7 +1960,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Towards Personalized Federated Learning</span>
             </p>
         </td>
@@ -1995,7 +1995,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>空天地网络中任务卸载与资源分配相关文章分享</span>
             </p>
         </td>
@@ -2030,7 +2030,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于信息价值的网络资源调度</span>
             </p>
         </td>
@@ -2065,7 +2065,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于meta-learning的非凸优化交替最小化算法</span>
             </p>
         </td>
@@ -2100,7 +2100,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于GNN的D2D网络中多无人机网络调度策略</span>
             </p>
         </td>
@@ -2135,7 +2135,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于多智能体深度强化学习的的无线网络资源管理</span>
             </p>
         </td>
@@ -2170,7 +2170,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Digital Twin Driven Reinforcement Learning Training Method For 6G Resources Management</span>
             </p>
         </td>
@@ -2205,7 +2205,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于GNN的高效UAV位置优化算法</span>
             </p>
         </td>
@@ -2240,7 +2240,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于NOMA的蜂窝车联网资源调度方案研究</span>
             </p>
         </td>
@@ -2275,7 +2275,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于GNN的动态服务功能链调度策略</span>
             </p>
         </td>
@@ -2310,7 +2310,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>GNN的使用与网络问题的图建模</span>
             </p>
         </td>
@@ -2345,7 +2345,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>面向大规模物联网的无线接入技术研究</span>
             </p>
         </td>
@@ -2380,7 +2380,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>车队资源分配和控制的联合优化</span>
             </p>
         </td>
@@ -2415,7 +2415,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>文献阅读分享</span>
             </p>
         </td>
@@ -2450,7 +2450,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于信息年龄的车联网优化调度方法</span>
             </p>
         </td>
@@ -2485,7 +2485,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>面向服务的空地网络资源调度</span>
             </p>
         </td>
@@ -2520,7 +2520,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>网联自动驾驶场景下网络资源的按需调度</span>
             </p>
         </td>
@@ -2555,7 +2555,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于动态神经网络的传感器部署</span>
             </p>
         </td>
@@ -2590,7 +2590,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>面向服务的无人机网络拓扑重构研究</span>
             </p>
         </td>
@@ -2625,7 +2625,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于地理位置的C-V2X网络资源调度</span>
             </p>
         </td>
@@ -2660,7 +2660,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于随机几何的LEO卫星辅助船岸通信网络性能分析</span>
             </p>
         </td>
@@ -2695,7 +2695,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于NOMA的蜂窝车联网资源调度方案研究</span>
             </p>
         </td>
@@ -2730,7 +2730,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于强化学习的偏远地区车联网流量卸载</span>
             </p>
         </td>
@@ -2765,7 +2765,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>车队通信和控制联合系统设计</span>
             </p>
         </td>
@@ -2800,7 +2800,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>面向服务的空地网络资源调度策略</span>
             </p>
         </td>
@@ -2835,7 +2835,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>资源受限下车辆网络中的信息新鲜度的优化</span>
             </p>
         </td>
@@ -2870,7 +2870,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>面向服务的无人机网络拓扑重构研究</span>
             </p>
         </td>
@@ -2905,7 +2905,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>网联自动驾驶场景下网络资源的按需调度</span>
             </p>
         </td>
@@ -2940,7 +2940,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>卫星辅助偏远地区的车联网流量卸载问题</span>
             </p>
         </td>
@@ -2975,7 +2975,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于NOMA的车联网资源分配与功率控制问题</span>
             </p>
         </td>
@@ -3010,7 +3010,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于随机几何的近地轨道卫星星座下行链路覆盖和速率分析</span>
             </p>
         </td>
@@ -3045,7 +3045,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>动态网络应用与设计</span>
             </p>
         </td>
@@ -3080,7 +3080,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>车辆编队中的资源分配</span>
             </p>
         </td>
@@ -3115,7 +3115,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>空天地一体服务调度</span>
             </p>
         </td>
@@ -3150,7 +3150,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Minimizing age of information with constraints</span>
             </p>
         </td>
@@ -3185,7 +3185,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>无线联邦学习的用户调度与资源分配</span>
             </p>
         </td>
@@ -3220,7 +3220,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>使用改进的V2I通信提高十字路口通行效率</span>
             </p>
         </td>
@@ -3255,7 +3255,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Service-oriented network topology reconstruction study</span>
             </p>
         </td>
@@ -3290,7 +3290,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Service-oriented network topology reconstruction study</span>
             </p>
         </td>
@@ -3325,7 +3325,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>基于D2D的V2V通信中的资源管理</span>
             </p>
         </td>
@@ -3360,7 +3360,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>具有卫星辅助的移动感知的车辆边缘网络</span>
             </p>
         </td>
@@ -3395,7 +3395,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Intelligent Resource Slicing for eMBB and URLLC Coexistence in 5G and Beyond</span>
             </p>
         </td>
@@ -3430,7 +3430,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>空天地下的SFC映射和调度</span>
             </p>
         </td>
@@ -3465,7 +3465,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Wireless Control of Autonomous Guided Vehicle</span>
             </p>
         </td>
@@ -3500,7 +3500,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Minimizing age of information in vehicular networks</span>
             </p>
         </td>
@@ -3535,7 +3535,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Deployment and Energy Research of UAV Network</span>
             </p>
         </td>
@@ -3570,7 +3570,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>蜂窝用户与车辆用户的联合调度</span>
             </p>
         </td>
@@ -3605,7 +3605,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Collaborate Service Caching and Workload Scheduling in Mobile Edge Computing</span>
             </p>
         </td>
@@ -3640,7 +3640,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>Cloud-edge-end collaboration in SAGIN</span>
             </p>
         </td>
@@ -3675,7 +3675,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>URLLC场景下的V2V资源管理框架</span>
             </p>
         </td>
@@ -3710,7 +3710,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>强化学习简介及其在通信中的应用</span>
             </p>
         </td>
@@ -3745,7 +3745,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>信息年龄AoI</span>
             </p>
         </td>
@@ -3780,7 +3780,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>通信与控制结合思路报告</span>
             </p>
         </td>
@@ -3815,7 +3815,7 @@
                 </a>
             </p>
         
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: 85%; vertical-align: middle;">
                 <span>无人船与海上通信网络：需求、挑战及预研思考</span>
             </p>
         </td>

@@ -243,6 +243,7 @@ def material_item_html(material_tuple):
                 </a>
             </p>
         """
+    width = 93 - 8 * len(button_name_list)
     
     return (TABLE_ITEM := f"""
     <tr class="{year_class}">
@@ -265,7 +266,7 @@ def material_item_html(material_tuple):
             <p style="display: inline-block; margin: 0; margin-left: 1.5rem;">
             </p>
             {material_html_str}
-            <p style="text-align: left; display: inline-block; vertical-align: middle;">
+            <p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
                 <span>{presentation_title}</span>
             </p>
         </td>
