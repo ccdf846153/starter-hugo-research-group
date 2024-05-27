@@ -227,7 +227,7 @@ def material_item_html(material_tuple):
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/{material_tuple[3]['Note']}"
                     target="_blank" rel="noopener"
-                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    style="vertical-align: middle; 0;">
                     Note
                 </a>
             </p>
@@ -238,7 +238,7 @@ def material_item_html(material_tuple):
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                     href="/seminar/materials/{material_tuple[3]['Link']}"
                     target="_blank" rel="noopener"
-                    style="vertical-align: middle; margin-left: 1.5rem;">
+                    style="vertical-align: middle; 0;">
                     Link
                 </a>
             </p>
