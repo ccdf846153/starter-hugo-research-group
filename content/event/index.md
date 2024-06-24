@@ -79,6 +79,18 @@ sections:
           position: right
           color: '#fff'
           fit: contain
+      - title: 实验室举办2024届毕业研究生聚餐活动
+        content: 
+                
+        align: left
+        background:
+          image:
+            filename: "pic/2024谢师.jpg"
+            filters:
+              brightness: 1
+          position: right
+          color: '#fff'
+          fit: contain
       
 
     
