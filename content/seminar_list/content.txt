@@ -90,33 +90,35 @@
                     </div>
                 </div> -->
                 
-                <div id="container-publications" style="position: relative; left: -7.5%; font-size: 1rem; width: 115%;">
+                <div id="container-publications" style="position: relative; left: -7.5%; font-size: 1rem; width: 115%; height: 29.5rem; overflow-y: scroll;">
                     <div class="grid-sizer col-lg-12 isotope-item year-2024" 
-                        style="position: absolute; top: 0px; width: 100%;">
-                        <div class="pub-list-item view-citation" style="margin-bottom: 1rem; width: 100%;">
-                            <table id="item-table-content" rules="none" align="center" style="width: 100%; font-size: 12pt;">
+                        style="position: absolute; top: 0px; width: 100%; height: inherit;">
+                        <div class="pub-list-item view-citation" style="margin-bottom: 1rem; width: 100%; height: inherit;">
+                            <table id="item-table-content" rules="none" align="center">
                                 <tbody>
                                     
-    <tr class="year-2024 year-2023 year-2022 year-2021">
-        <td style="position: relative; width: 15%; text-align: center; padding-bottom: 0.2rem;">
-            <span class="article-metadata li-cite-author" 
-                style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
-                <span>汇报日期</span>
-            </span>
-        </td>
-        <td style="position: relative; width: 12%; text-align: center; padding-bottom: 0.2rem;">
-            <span class="article-metadata li-cite-author" 
-                style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
-                <span>汇报人</span>
-            </span>
-        </td>
-        <td style="position: relative; width: 73%; text-align: center; padding-bottom: 0.2rem;">
-            <span class="article-metadata li-cite-author" 
-                style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
-                <span>汇报主题</span>
-            </span>
-        </td>
-    </tr>
+    <thead>
+        <tr class="year-2024 year-2023 year-2022 year-2021">
+            <td style="position: relative; width: 15%; text-align: center; padding-bottom: 0.2rem;">
+                <span class="article-metadata li-cite-author" 
+                    style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
+                    <span>汇报日期</span>
+                </span>
+            </td>
+            <td style="position: relative; width: 12%; text-align: center; padding-bottom: 0.2rem;">
+                <span class="article-metadata li-cite-author" 
+                    style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
+                    <span>汇报人</span>
+                </span>
+            </td>
+            <td style="position: relative; width: 73%; text-align: center; padding-bottom: 0.2rem;">
+                <span class="article-metadata li-cite-author" 
+                    style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
+                    <span>汇报主题</span>
+                </span>
+            </td>
+        </tr>
+    </thead>
 
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
