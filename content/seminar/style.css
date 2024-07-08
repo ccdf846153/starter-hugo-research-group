@@ -59,14 +59,20 @@
     margin-right: 0.3rem;
 }
 
-#item-table-content {
-    width: 100%;
-    table-layout: fixed;
-    font-size: 12pt;
+#item-table-content tbody {
+    display: block;
+    overflow-y: auto;
+    height: 25rem;
+    -webkit-overflow-scrolling: touch; 
 }
 
-#item-table-content > thead,
-#item-table-content > thead > th {
-    position: sticky;
-    z-index: 10;
+#item-table-content tbody tr,
+#item-table-content thead {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
 }
+
+/* #item-table-content thead {
+     background-color: #004453; 
+} */

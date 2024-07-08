@@ -157,7 +157,7 @@ def generate_html(html_text):
                 <div id="container-publications" style="position: relative; left: -7.5%; font-size: 1rem; width: 115%; height: 29.5rem;">
                     <div class="grid-sizer col-lg-12 isotope-item year-2024" 
                         style="position: absolute; top: 0px; width: 100%; height: inherit;">
-                        <div class="pub-list-item view-citation" style="margin-bottom: 1rem; width: 100%; height: inherit; overflow-y: auto;">
+                        <div class="pub-list-item view-citation" style="margin-bottom: 1rem; width: 100%; height: inherit;">
                             <table id="item-table-content" rules="none" align="center">
                                 {html_text}
                             </table>
@@ -189,24 +189,24 @@ def table_head(material_list):
     return f"""
     <thead>
         <tr class="{class_name}">
-            <td style="position: relative; width: 15%; text-align: center; padding-bottom: 0.2rem;">
+            <th style="position: relative; width: 15%; text-align: center; padding-bottom: 0.2rem;">
                 <span class="article-metadata li-cite-author" 
                     style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
                     <span>汇报日期</span>
                 </span>
-            </td>
-            <td style="position: relative; width: 12%; text-align: center; padding-bottom: 0.2rem;">
+            </th>
+            <th style="position: relative; width: 12%; text-align: center; padding-bottom: 0.2rem;">
                 <span class="article-metadata li-cite-author" 
                     style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
                     <span>汇报人</span>
                 </span>
-            </td>
-            <td style="position: relative; width: 73%; text-align: center; padding-bottom: 0.2rem;">
+            </th>
+            <th style="position: relative; width: 73%; text-align: center; padding-bottom: 0.2rem;">
                 <span class="article-metadata li-cite-author" 
                     style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
                     <span>汇报主题</span>
                 </span>
-            </td>
+            </th>
         </tr>
     </thead>
 """
