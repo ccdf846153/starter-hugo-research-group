@@ -62,7 +62,7 @@
 #item-table-content tbody {
     display: block;
     overflow-y: auto;
-    height: 28rem;
+    height: 29.5rem;
     -webkit-overflow-scrolling: touch; 
 }
 
@@ -71,8 +71,13 @@
     display: table;
     width: 100%;
     table-layout: fixed;
+    margin-bottom: 0.3rem;
 }
 
-/* #item-table-content thead {
-     background-color: #004453; 
-} */
+#container-publications > div {
+    padding: 0;
+}
+
+#container-publications > div > div {
+    margin-bottom: 0;
+}
