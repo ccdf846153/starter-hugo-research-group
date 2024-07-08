@@ -159,9 +159,7 @@ def generate_html(html_text):
                         style="position: absolute; top: 0px; width: 100%; height: inherit;">
                         <div class="pub-list-item view-citation" style="margin-bottom: 1rem; width: 100%; height: inherit;">
                             <table id="item-table-content" rules="none" align="center">
-                                <tbody>
-                                    {html_text}
-                                </tbody>
+                                {html_text}
                             </table>
                             <!-- <p> -->
                                 
@@ -262,7 +260,7 @@ def material_item_html(material_tuple):
         """
     width = 93 - 8 * len(button_name_list)
     
-    return (TABLE_ITEM := f"""
+    return (TABLE_ITEM := "<tbody>" + f"""
     <tr class="{year_class}">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -288,7 +286,7 @@ def material_item_html(material_tuple):
             </p>
         </td>
     </tr>
-    """)
+    """ + "</tbody>")
 
 
 if __name__ == '__main__':

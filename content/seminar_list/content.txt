@@ -95,8 +95,7 @@
                         style="position: absolute; top: 0px; width: 100%; height: inherit;">
                         <div class="pub-list-item view-citation" style="margin-bottom: 1rem; width: 100%; height: inherit;">
                             <table id="item-table-content" rules="none" align="center">
-                                <tbody>
-                                    
+                                
     <thead>
         <tr class="year-2024 year-2023 year-2022 year-2021">
             <td style="position: relative; width: 15%; text-align: center; padding-bottom: 0.2rem;">
@@ -119,7 +118,7 @@
             </td>
         </tr>
     </thead>
-
+<tbody>
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -163,7 +162,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -207,7 +206,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -251,7 +250,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -295,7 +294,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -339,7 +338,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -383,7 +382,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -427,7 +426,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -462,7 +461,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -506,7 +505,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -550,7 +549,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -594,7 +593,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -629,7 +628,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2024">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -664,7 +663,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -699,7 +698,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -734,7 +733,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -769,7 +768,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -804,7 +803,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -839,7 +838,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -874,7 +873,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -909,7 +908,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -944,7 +943,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -979,7 +978,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1014,7 +1013,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1049,7 +1048,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1084,7 +1083,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1119,7 +1118,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1154,7 +1153,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1189,7 +1188,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1224,7 +1223,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1259,7 +1258,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1294,7 +1293,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1329,7 +1328,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1364,7 +1363,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1399,7 +1398,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1434,7 +1433,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1469,7 +1468,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1504,7 +1503,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2023">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1539,7 +1538,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1574,7 +1573,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1609,7 +1608,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1644,7 +1643,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1679,7 +1678,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1714,7 +1713,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1749,7 +1748,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1784,7 +1783,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1819,7 +1818,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1854,7 +1853,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1889,7 +1888,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1924,7 +1923,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1959,7 +1958,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -1994,7 +1993,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2029,7 +2028,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2064,7 +2063,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2099,7 +2098,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2134,7 +2133,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2169,7 +2168,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2204,7 +2203,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2239,7 +2238,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2274,7 +2273,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2309,7 +2308,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2344,7 +2343,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2379,7 +2378,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2414,7 +2413,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2449,7 +2448,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2484,7 +2483,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2519,7 +2518,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2554,7 +2553,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2589,7 +2588,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2624,7 +2623,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2659,7 +2658,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2694,7 +2693,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2729,7 +2728,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2764,7 +2763,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2799,7 +2798,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2834,7 +2833,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2022">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2869,7 +2868,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2904,7 +2903,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2939,7 +2938,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -2974,7 +2973,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3009,7 +3008,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3044,7 +3043,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3079,7 +3078,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3114,7 +3113,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3149,7 +3148,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3184,7 +3183,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3219,7 +3218,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3254,7 +3253,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3289,7 +3288,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3324,7 +3323,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3359,7 +3358,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3394,7 +3393,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3429,7 +3428,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3464,7 +3463,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3499,7 +3498,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3534,7 +3533,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3569,7 +3568,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3604,7 +3603,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3639,7 +3638,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3674,7 +3673,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3709,7 +3708,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3744,7 +3743,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3779,7 +3778,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3814,7 +3813,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3849,7 +3848,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3884,7 +3883,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3919,7 +3918,7 @@
             </p>
         </td>
     </tr>
-    
+    </tbody><tbody>
     <tr class="year-2021">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -3954,8 +3953,7 @@
             </p>
         </td>
     </tr>
-    
-                                </tbody>
+    </tbody>
                             </table>
                             <!-- <p> -->
                                 
