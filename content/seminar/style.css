@@ -62,7 +62,7 @@
 #item-table-content tbody {
     display: block;
     overflow-y: auto;
-    height: 25rem;
+    height: 28rem;
     -webkit-overflow-scrolling: touch; 
 }
 
