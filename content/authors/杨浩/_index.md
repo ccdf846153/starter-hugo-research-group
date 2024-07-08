@@ -9,7 +9,7 @@ last_name: 2021
 superuser: false
 
 # 硕士研究生
-role: 2021级硕士研究生<br>知识驱动无线网络
+role: 2021级硕士研究生<br>深圳市欧冶半导体有限公司
 
 
 organizations:
@@ -27,5 +27,5 @@ social:
 #       - Undergraduate Student
 #       - Alumni
 user_groups:
-  - Master Student
+  - Alumni
 ---
