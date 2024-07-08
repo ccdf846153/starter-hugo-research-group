@@ -65,8 +65,8 @@
     font-size: 12pt;
 }
 
-#item-table-content > tbody > thead,
-#item-table-content > tbody > thead > th {
+#item-table-content > thead,
+#item-table-content > thead > th {
     position: sticky;
     z-index: 10;
 }
