@@ -7,7 +7,7 @@ HTML_PATH = os.path.realpath(
 print(HTML_PATH)
 
 
-def get_material_list():
+def get_normal_seminar_material_list():
     
     ret_list = []
 
@@ -154,11 +154,11 @@ def generate_html(html_text):
                     </div>
                 </div> -->
                 
-                <div id="container-publications" style="position: relative; left: -7.5%; font-size: 1rem; width: 115%;">
+                <div id="container-publications" style="position: relative; left: -7.5%; font-size: 1rem; width: 115%; height: 29.5rem; overflow-y: scroll;">
                     <div class="grid-sizer col-lg-12 isotope-item year-2024" 
-                        style="position: absolute; top: 0px; width: 100%;">
-                        <div class="pub-list-item view-citation" style="margin-bottom: 1rem; width: 100%;">
-                            <table id="item-table-content" rules="none" align="center" style="width: 100%; font-size: 12pt;">
+                        style="position: absolute; top: 0px; width: 100%; height: inherit;">
+                        <div class="pub-list-item view-citation" style="margin-bottom: 1rem; width: 100%; height: inherit;">
+                            <table id="item-table-content" rules="none" align="center">
                                 <tbody>
                                     {html_text}
                                 </tbody>
@@ -189,26 +189,28 @@ def table_head(material_list):
     year_list.sort(reverse=True)
     class_name = ' '.join([f'year-{year}' for year in year_list])
     return f"""
-    <tr class="{class_name}">
-        <td style="position: relative; width: 15%; text-align: center; padding-bottom: 0.2rem;">
-            <span class="article-metadata li-cite-author" 
-                style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
-                <span>汇报日期</span>
-            </span>
-        </td>
-        <td style="position: relative; width: 12%; text-align: center; padding-bottom: 0.2rem;">
-            <span class="article-metadata li-cite-author" 
-                style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
-                <span>汇报人</span>
-            </span>
-        </td>
-        <td style="position: relative; width: 73%; text-align: center; padding-bottom: 0.2rem;">
-            <span class="article-metadata li-cite-author" 
-                style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
-                <span>汇报主题</span>
-            </span>
-        </td>
-    </tr>
+    <thead>
+        <tr class="{class_name}">
+            <td style="position: relative; width: 15%; text-align: center; padding-bottom: 0.2rem;">
+                <span class="article-metadata li-cite-author" 
+                    style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
+                    <span>汇报日期</span>
+                </span>
+            </td>
+            <td style="position: relative; width: 12%; text-align: center; padding-bottom: 0.2rem;">
+                <span class="article-metadata li-cite-author" 
+                    style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
+                    <span>汇报人</span>
+                </span>
+            </td>
+            <td style="position: relative; width: 73%; text-align: center; padding-bottom: 0.2rem;">
+                <span class="article-metadata li-cite-author" 
+                    style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
+                    <span>汇报主题</span>
+                </span>
+            </td>
+        </tr>
+    </thead>
 """
 
 def material_item_html(material_tuple):
@@ -290,10 +292,10 @@ def material_item_html(material_tuple):
 
 
 if __name__ == '__main__':
-    material_list = get_material_list()
-    html_text = table_head(material_list)
+    material_list = get_normal_seminar_material_list()
+    normal_seminar_html_text = table_head(material_list)
     for material_tuple in material_list:
-        html_text += material_item_html(material_tuple)
-    html_text = generate_html(html_text)
+        normal_seminar_html_text += material_item_html(material_tuple)
+    html_text = generate_html(normal_seminar_html_text)
     with open(HTML_PATH, 'w', encoding='utf-8') as f:
         f.write(html_text)
