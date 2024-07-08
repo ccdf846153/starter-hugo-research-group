@@ -90,10 +90,10 @@
                     </div>
                 </div> -->
                 
-                <div id="container-publications" style="position: relative; left: -7.5%; font-size: 1rem; width: 115%; height: 29.5rem; overflow-y: scroll;">
+                <div id="container-publications" style="position: relative; left: -7.5%; font-size: 1rem; width: 115%; height: 29.5rem;">
                     <div class="grid-sizer col-lg-12 isotope-item year-2024" 
                         style="position: absolute; top: 0px; width: 100%; height: inherit;">
-                        <div class="pub-list-item view-citation" style="margin-bottom: 1rem; width: 100%; height: inherit;">
+                        <div class="pub-list-item view-citation" style="margin-bottom: 1rem; width: 100%; height: inherit; overflow-y: auto;">
                             <table id="item-table-content" rules="none" align="center">
                                 
     <thead>
