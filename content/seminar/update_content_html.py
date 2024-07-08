@@ -211,7 +211,7 @@ def table_head(material_list):
     </thead>
 """
 
-def material_item_html(material_tuple):
+def normal_material_item_html(material_tuple):
     # get tuple like this: (material_dir, presenter_list, title, material_dict)
     # material tuple: (date, presenter_list, title, dict={'Link/PPT/Note': filename})
     year_class = f'year-{(material_tuple[0])[:4]}'
@@ -260,7 +260,7 @@ def material_item_html(material_tuple):
         """
     width = 93 - 8 * len(button_name_list)
     
-    return (TABLE_ITEM := "<tbody>" + f"""
+    return (TABLE_ITEM := f"""
     <tr class="{year_class}">
         <td style="position: relative; width: 15%; text-align: center;">
             <span class="article-metadata li-cite-author" 
@@ -286,14 +286,15 @@ def material_item_html(material_tuple):
             </p>
         </td>
     </tr>
-    """ + "</tbody>")
+    """)
 
+def normal_material_table_body(material_list):
+    material_html_list = [normal_material_item_html(material_tuple) for material_tuple in material_list]
+    return '<tbody>' + '\n'.join(material_html_list) + '</tbody>'
 
 if __name__ == '__main__':
     material_list = get_normal_seminar_material_list()
-    normal_seminar_html_text = table_head(material_list)
-    for material_tuple in material_list:
-        normal_seminar_html_text += material_item_html(material_tuple)
+    normal_seminar_html_text = table_head(material_list) + normal_material_table_body(material_list)
     html_text = generate_html(normal_seminar_html_text)
     with open(HTML_PATH, 'w', encoding='utf-8') as f:
         f.write(html_text)
