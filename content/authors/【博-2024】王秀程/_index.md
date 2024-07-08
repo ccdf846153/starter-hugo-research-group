@@ -1,15 +1,16 @@
 ---
 # 姓名
-title: 王兆薇
+title: 王秀程
 
 # 姓名
 first_name: 王
-last_name: 2023
+last_name: 2024
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 2023级硕士研究生<br>空天地一体化网络
+role: 2024级博士研究生<br>智能网络
+
 
 
 organizations:
@@ -25,7 +26,16 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:1916040218@s.upc.edu.cn'
+    link: 'mailto:xcwang_1@xidian.edu.cn'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.hk/citations?user=hbwPRacAAAAJ&hl=zh-CN
+  # - icon: house
+  #   icon_pack: fas
+  #   link: https://web.xidian.edu.cn/nancheng/
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: files/cv.pdf
 
 email: ''
 highlight_name: false
@@ -36,5 +46,5 @@ highlight_name: false
 #       - Undergraduate Student
 #       - Alumni
 user_groups:
-  - Master Student
+  - PHD Student
 ---
