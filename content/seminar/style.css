@@ -58,3 +58,15 @@
     margin-top: 1rem;
     margin-right: 0.3rem;
 }
+
+#item-table-content {
+    width: 100%;
+    table-layout: fixed;
+    font-size: 12pt;
+}
+
+#item-table-content > tbody > thead,
+#item-table-content > tbody > thead > th {
+    position: sticky;
+    z-index: 10;
+}
