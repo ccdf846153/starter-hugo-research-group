@@ -71,6 +71,9 @@
     display: table;
     width: 100%;
     table-layout: fixed;
+}
+
+#item-table-content:first-child {
     margin-bottom: 0.3rem;
 }
 
