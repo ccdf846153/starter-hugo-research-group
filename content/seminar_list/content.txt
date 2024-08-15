@@ -50,7 +50,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240729/侯毓真_基于特征融合的开放集射频指纹识别方案.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240729/基于特征融合的开放集射频指纹识别方案_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">基于特征融合的开放集射频指纹识别方案</span>
 </p>
 </td>
@@ -70,7 +70,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240718/邱子仪_Wi-Fi开发参考技术原理、标准和应用.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240718/Wi-Fi开发参考技术原理、标准和应用_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">Wi-Fi开发参考技术原理、标准和应用</span>
 </p>
 </td>
@@ -90,7 +90,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/郭译凡_基于视觉Transformer的复杂环境植物病害检测算法研究与实现.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/基于视觉Transformer的复杂环境植物病害检测算法研究与实现_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">基于视觉Transformer的复杂环境植物病害检测算法研究与实现</span>
 </p>
 </td>
@@ -110,7 +110,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/杨双宇_去蜂窝大规模MIMO增强覆盖方法研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/去蜂窝大规模MIMO增强覆盖方法研究_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">去蜂窝大规模MIMO增强覆盖方法研究</span>
 </p>
 </td>
@@ -130,7 +130,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/许嘉洁_面向物联网的边缘协同计算优化策略研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/面向物联网的边缘协同计算优化策略研究_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">面向物联网的边缘协同计算优化策略研究</span>
 </p>
 </td>
@@ -150,7 +150,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240701/马龙飞_基于混合梯度的无线网络优化方案.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240701/基于混合梯度的无线网络优化方案_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">基于混合梯度的无线网络优化方案</span>
 </p>
 </td>
@@ -170,7 +170,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240617/杨杰_多层卫星网络协同移动边缘缓存：一种基于图卷积网络的多智能体方法研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240617/多层卫星网络协同移动边缘缓存：一种基于图卷积网络的多智能体方法研究_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">多层卫星网络协同移动边缘缓存：一种基于图卷积网络的多智能体方法研究</span>
 </p>
 </td>
@@ -190,7 +190,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240603/周新阳_Wi-Fi网络中基于滑动窗口的联邦学习异步更新方法研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240603/Wi-Fi网络中基于滑动窗口的联邦学习异步更新方法研究_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">Wi-Fi网络中基于滑动窗口的联邦学习异步更新方法研究</span>
 </p>
 </td>
@@ -210,7 +210,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240527/傅连浩_分布式训练分布式执行共享算力网络任务卸载方案.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240527/分布式训练分布式执行共享算力网络任务卸载方案_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">分布式训练分布式执行共享算力网络任务卸载方案</span>
 </p>
 </td>
@@ -230,7 +230,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240520/权赟昊_基于自适应轻量化小波神经网络的自动调制分类.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240520/基于自适应轻量化小波神经网络的自动调制分类_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">基于自适应轻量化小波神经网络的自动调制分类</span>
 </p>
 </td>
@@ -250,7 +250,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240513/张玉洁_基于星间链路的星地融合网络中多星协同计算卸载和资源分配.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240513/基于星间链路的星地融合网络中多星协同计算卸载和资源分配_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">基于星间链路的星地融合网络中多星协同计算卸载和资源分配</span>
 </p>
 </td>
@@ -270,7 +270,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240429/沈京龙-傅连浩-郑佩林_生成式AI与大模型的前沿与思考.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240429/生成式AI与大模型的前沿与思考_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">生成式AI与大模型的前沿与思考</span>
 </p>
 </td>
@@ -288,7 +288,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240422/王秀程_Reliable Projection Based Unsupervised Learning for Efficient Constrained Beamforming Optimization.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Reliable Projection Based Unsupervised Learning for Efficient Constrained Beamforming Optimization</span>
 </p>
 </td>
@@ -308,7 +308,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240401/刘永红_联邦学习和物理层安全结合架构及其安全编码方案.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240401/联邦学习和物理层安全结合架构及其安全编码方案_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">联邦学习和物理层安全结合架构及其安全编码方案</span>
 </p>
 </td>
@@ -328,7 +328,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240325/黄蕾_基于SAGIN的车联网中知识驱动的双时间尺度任务卸载方案.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240325/基于SAGIN的车联网中知识驱动的双时间尺度任务卸载方案_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">基于SAGIN的车联网中知识驱动的双时间尺度任务卸载方案</span>
 </p>
 </td>
@@ -348,7 +348,7 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240226/邓川_利用CKM实现环境感知通信.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240226/利用CKM实现环境感知通信_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">利用CKM实现环境感知通信</span>
 </p>
 </td>
@@ -366,7 +366,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240129/李青壮_用于开放集识别的卷积原型网络.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">用于开放集识别的卷积原型网络</span>
 </p>
 </td>
@@ -384,7 +384,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240115/万佳林_无线通信中的对抗性机器学习调研报告.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">无线通信中的对抗性机器学习调研报告</span>
 </p>
 </td>
@@ -402,7 +402,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20231225/郑佩林_基于神经辐射场的三维RadioMap构建调研报告.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于神经辐射场的三维RadioMap构建调研报告</span>
 </p>
 </td>
@@ -420,7 +420,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20231218/王兆薇_星地网络中的物理层安全挑战.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">星地网络中的物理层安全挑战</span>
 </p>
 </td>
@@ -438,7 +438,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20231211/胡陆莹_分布式边缘计算中基于时延最优金字塔的联合通信与计算调度.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">分布式边缘计算中基于时延最优金字塔的联合通信与计算调度</span>
 </p>
 </td>
@@ -456,7 +456,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20231113/王葳_一种基于博弈的去中心化信息价值评估机制.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">一种基于博弈的去中心化信息价值评估机制</span>
 </p>
 </td>
@@ -474,7 +474,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20231107/齐阁_面向6G无线网络大规模优化的机器学习.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">面向6G无线网络大规模优化的机器学习</span>
 </p>
 </td>
@@ -492,7 +492,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20231030/邱子仪_抓住联邦学习中的关键期.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">抓住联邦学习中的关键期</span>
 </p>
 </td>
@@ -510,7 +510,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20231016/侯毓真_可扩展的信道鲁棒LoRa设备射频指纹识别方法.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">可扩展的信道鲁棒LoRa设备射频指纹识别方法</span>
 </p>
 </td>
@@ -528,7 +528,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230918/傅连浩_Learning Cooperative Policies with Graph Networks in Distributed Swarm Systems.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Learning Cooperative Policies with Graph Networks in Distributed Swarm Systems</span>
 </p>
 </td>
@@ -546,7 +546,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230713/周新阳_Fairness-Based Multi-AP Coordination Using Federated Learning in Wi-Fi 7.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Fairness-Based Multi-AP Coordination Using Federated Learning in Wi-Fi 7</span>
 </p>
 </td>
@@ -564,7 +564,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230706/陈浩然_基于信息价值的边缘视频流传输.txt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Link</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于信息价值的边缘视频流传输</span>
 </p>
 </td>
@@ -582,7 +582,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230615/马龙飞_可缝合神经网络.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">可缝合神经网络</span>
 </p>
 </td>
@@ -600,7 +600,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230608/权赟昊_可解释的基于人工智能的大规模3D路径损失预测模型.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">可解释的基于人工智能的大规模3D路径损失预测模型</span>
 </p>
 </td>
@@ -618,7 +618,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230518/沈京龙_FedUSC：从分线的物联网数据中进行协作式无监督的表征学习.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">FedUSC：从分线的物联网数据中进行协作式无监督的表征学习</span>
 </p>
 </td>
@@ -636,7 +636,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230511/杨杰_LEO卫星星座多播路由和卫星间链路路径分析文献分享.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">LEO卫星星座多播路由和卫星间链路路径分析文献分享</span>
 </p>
 </td>
@@ -654,7 +654,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230504/杨浩_优化诱导均衡网络.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">优化诱导均衡网络</span>
 </p>
 </td>
@@ -672,7 +672,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230427/张玉洁_MF-TEG在SAGIN辅助多层计算网络中的应用文献分享.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">MF-TEG在SAGIN辅助多层计算网络中的应用文献分享</span>
 </p>
 </td>
@@ -690,7 +690,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230419/黄蕾_强化学习中引入知识的方法调研汇报.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">强化学习中引入知识的方法调研汇报</span>
 </p>
 </td>
@@ -708,7 +708,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230413/张茹倩_AIGI、扩散模型的发展与应用介绍.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">AIGI、扩散模型的发展与应用介绍</span>
 </p>
 </td>
@@ -726,7 +726,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230406/贺靖超_面向服务的低轨卫星网络资源编排研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">面向服务的低轨卫星网络资源编排研究</span>
 </p>
 </td>
@@ -744,7 +744,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230330/王秀程_GPT修改论文使用介绍.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">GPT修改论文使用介绍</span>
 </p>
 </td>
@@ -762,7 +762,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230313/王葳_边缘辅助自动驾驶的自适应计算资源调度.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">边缘辅助自动驾驶的自适应计算资源调度</span>
 </p>
 </td>
@@ -780,7 +780,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230305/陈子衍_面向服务的无人机网络拓扑重构研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">面向服务的无人机网络拓扑重构研究</span>
 </p>
 </td>
@@ -798,7 +798,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230226/张雨洁_动态RAN切片资源分配方案研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">动态RAN切片资源分配方案研究</span>
 </p>
 </td>
@@ -816,7 +816,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230219/张达越_车辆编队通信和控制的联合系统设计.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">车辆编队通信和控制的联合系统设计</span>
 </p>
 </td>
@@ -834,7 +834,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20230112/万浩东_自动驾驶中的多模态数据融合技术分享.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">自动驾驶中的多模态数据融合技术分享</span>
 </p>
 </td>
@@ -852,7 +852,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20221225/赵茁乔_基于知识图谱的场景认知.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于知识图谱的场景认知</span>
 </p>
 </td>
@@ -870,7 +870,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20221218/温瑶_面向网联自动驾驶的知识驱动多目标资源调配方法.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">面向网联自动驾驶的知识驱动多目标资源调配方法</span>
 </p>
 </td>
@@ -888,7 +888,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20221127/陈浩然_基于信息价值的UAV辅助数据收集.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于信息价值的UAV辅助数据收集</span>
 </p>
 </td>
@@ -906,7 +906,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20221120/王秀程_基于图神经网络的大规模分层自组网研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于图神经网络的大规模分层自组网研究</span>
 </p>
 </td>
@@ -924,7 +924,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20221113/周新阳_PartialFed：Cross-Domain Personalized Federated Learning via Partial Initialization.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">PartialFed：Cross-Domain Personalized Federated Learning via Partial Initialization</span>
 </p>
 </td>
@@ -942,7 +942,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20221106/马龙飞_无人机辅助多接入边缘计算系统的半分布式资源管理.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">无人机辅助多接入边缘计算系统的半分布式资源管理</span>
 </p>
 </td>
@@ -960,7 +960,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20221030/权赟昊_资源受限环境下的自适应联邦学习.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">资源受限环境下的自适应联邦学习</span>
 </p>
 </td>
@@ -978,7 +978,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20221023/沈京龙_RingSFL：一种适应客户端异质性的分割联邦学习.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">RingSFL：一种适应客户端异质性的分割联邦学习</span>
 </p>
 </td>
@@ -996,7 +996,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20221016/杨杰_巨星座系统优化：从网络控制结构的角度.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">巨星座系统优化：从网络控制结构的角度</span>
 </p>
 </td>
@@ -1014,7 +1014,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20221009/杨浩_基于模型的深度学习.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于模型的深度学习</span>
 </p>
 </td>
@@ -1032,7 +1032,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220929/张玉洁_边缘计算中的资源调度问题综述分享.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">边缘计算中的资源调度问题综述分享</span>
 </p>
 </td>
@@ -1050,7 +1050,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220918/黄蕾_移动网络自优化与多目标优化文献汇报.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">移动网络自优化与多目标优化文献汇报</span>
 </p>
 </td>
@@ -1068,7 +1068,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220904/张茹倩_6G业务多视图聚类.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">6G业务多视图聚类</span>
 </p>
 </td>
@@ -1086,7 +1086,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220807/贺靖超_面向服务的空地网络资源调度.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">面向服务的空地网络资源调度</span>
 </p>
 </td>
@@ -1104,7 +1104,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220731/张秋_Age of Information-Aware Radio Resource Management in Vehicular Networks.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Age of Information-Aware Radio Resource Management in Vehicular Networks</span>
 </p>
 </td>
@@ -1122,7 +1122,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220724/周新阳_Towards Personalized Federated Learning.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Towards Personalized Federated Learning</span>
 </p>
 </td>
@@ -1140,7 +1140,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220717/吴申_空天地网络中任务卸载与资源分配相关文章分享.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">空天地网络中任务卸载与资源分配相关文章分享</span>
 </p>
 </td>
@@ -1158,7 +1158,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220703/王葳_基于信息价值的网络资源调度.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于信息价值的网络资源调度</span>
 </p>
 </td>
@@ -1176,7 +1176,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220626/温瑶_基于meta-learning的非凸优化交替最小化算法.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于meta-learning的非凸优化交替最小化算法</span>
 </p>
 </td>
@@ -1194,7 +1194,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220619/陈子衍_基于GNN的D2D网络中多无人机网络调度策略.ppt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于GNN的D2D网络中多无人机网络调度策略</span>
 </p>
 </td>
@@ -1212,7 +1212,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220612/陈浩然_基于多智能体深度强化学习的的无线网络资源管理.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于多智能体深度强化学习的的无线网络资源管理</span>
 </p>
 </td>
@@ -1230,7 +1230,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220605/王秀程-马龙飞_Digital Twin Driven Reinforcement Learning Training Method For 6G Resources Management.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Digital Twin Driven Reinforcement Learning Training Method For 6G Resources Management</span>
 </p>
 </td>
@@ -1248,7 +1248,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220522/王秀程_基于GNN的高效UAV位置优化算法.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于GNN的高效UAV位置优化算法</span>
 </p>
 </td>
@@ -1266,7 +1266,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220515/张雨洁_基于NOMA的蜂窝车联网资源调度方案研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于NOMA的蜂窝车联网资源调度方案研究</span>
 </p>
 </td>
@@ -1284,7 +1284,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220508/贺靖超_基于GNN的动态服务功能链调度策略.ppt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于GNN的动态服务功能链调度策略</span>
 </p>
 </td>
@@ -1302,7 +1302,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220424/王秀程_GNN的使用与网络问题的图建模.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">GNN的使用与网络问题的图建模</span>
 </p>
 </td>
@@ -1320,7 +1320,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220417/万浩东_面向大规模物联网的无线接入技术研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">面向大规模物联网的无线接入技术研究</span>
 </p>
 </td>
@@ -1338,7 +1338,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220410/张达越_车队资源分配和控制的联合优化.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">车队资源分配和控制的联合优化</span>
 </p>
 </td>
@@ -1356,7 +1356,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220402/吴申_文献阅读分享.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">文献阅读分享</span>
 </p>
 </td>
@@ -1374,7 +1374,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220327/张秋_基于信息年龄的车联网优化调度方法.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于信息年龄的车联网优化调度方法</span>
 </p>
 </td>
@@ -1392,7 +1392,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220320/贺靖超_面向服务的空地网络资源调度.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">面向服务的空地网络资源调度</span>
 </p>
 </td>
@@ -1410,7 +1410,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220313/王葳_网联自动驾驶场景下网络资源的按需调度.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">网联自动驾驶场景下网络资源的按需调度</span>
 </p>
 </td>
@@ -1428,7 +1428,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220306/温瑶_基于动态神经网络的传感器部署.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于动态神经网络的传感器部署</span>
 </p>
 </td>
@@ -1446,7 +1446,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220227/陈子衍_面向服务的无人机网络拓扑重构研究.ppt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">面向服务的无人机网络拓扑重构研究</span>
 </p>
 </td>
@@ -1464,7 +1464,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220220/陈浩然_基于地理位置的C-V2X网络资源调度.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于地理位置的C-V2X网络资源调度</span>
 </p>
 </td>
@@ -1482,7 +1482,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220123/胡旭_基于随机几何的LEO卫星辅助船岸通信网络性能分析.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于随机几何的LEO卫星辅助船岸通信网络性能分析</span>
 </p>
 </td>
@@ -1500,7 +1500,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220116/张雨洁_基于NOMA的蜂窝车联网资源调度方案研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于NOMA的蜂窝车联网资源调度方案研究</span>
 </p>
 </td>
@@ -1518,7 +1518,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20220109/吴申_基于强化学习的偏远地区车联网流量卸载.ppt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于强化学习的偏远地区车联网流量卸载</span>
 </p>
 </td>
@@ -1536,7 +1536,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20211226/张达越_车队通信和控制联合系统设计.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">车队通信和控制联合系统设计</span>
 </p>
 </td>
@@ -1554,7 +1554,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20211219/贺靖超_面向服务的空地网络资源调度策略.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">面向服务的空地网络资源调度策略</span>
 </p>
 </td>
@@ -1572,7 +1572,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20211205/张秋_资源受限下车辆网络中的信息新鲜度的优化.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">资源受限下车辆网络中的信息新鲜度的优化</span>
 </p>
 </td>
@@ -1590,7 +1590,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20211121/陈子衍_面向服务的无人机网络拓扑重构研究.ppt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">面向服务的无人机网络拓扑重构研究</span>
 </p>
 </td>
@@ -1608,7 +1608,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20211114/王葳_网联自动驾驶场景下网络资源的按需调度.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">网联自动驾驶场景下网络资源的按需调度</span>
 </p>
 </td>
@@ -1626,7 +1626,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20211107/吴申_卫星辅助偏远地区的车联网流量卸载问题.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">卫星辅助偏远地区的车联网流量卸载问题</span>
 </p>
 </td>
@@ -1644,7 +1644,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20211031/张雨洁_基于NOMA的车联网资源分配与功率控制问题.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于NOMA的车联网资源分配与功率控制问题</span>
 </p>
 </td>
@@ -1662,7 +1662,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20211024/胡旭_基于随机几何的近地轨道卫星星座下行链路覆盖和速率分析.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于随机几何的近地轨道卫星星座下行链路覆盖和速率分析</span>
 </p>
 </td>
@@ -1680,7 +1680,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20211017/马龙飞-王秀程_动态网络应用与设计.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">动态网络应用与设计</span>
 </p>
 </td>
@@ -1698,7 +1698,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20211010/张达越_车辆编队中的资源分配.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">车辆编队中的资源分配</span>
 </p>
 </td>
@@ -1716,7 +1716,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210926/贺靖超_空天地一体服务调度.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">空天地一体服务调度</span>
 </p>
 </td>
@@ -1734,7 +1734,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210912/张秋_Minimizing age of information with constraints.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Minimizing age of information with constraints</span>
 </p>
 </td>
@@ -1752,7 +1752,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210905/沈京龙_无线联邦学习的用户调度与资源分配.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">无线联邦学习的用户调度与资源分配</span>
 </p>
 </td>
@@ -1770,7 +1770,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210829/王葳_使用改进的V2I通信提高十字路口通行效率.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">使用改进的V2I通信提高十字路口通行效率</span>
 </p>
 </td>
@@ -1788,7 +1788,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210822/陈子衍_Service-oriented network topology reconstruction study.ppt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Service-oriented network topology reconstruction study</span>
 </p>
 </td>
@@ -1806,7 +1806,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210815/王秀程_Pytorch安装与DQN讲解.txt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Link</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Pytorch安装与DQN讲解</span>
 </p>
 </td>
@@ -1824,7 +1824,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210718/张达越_基于D2D的V2V通信中的资源管理.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于D2D的V2V通信中的资源管理</span>
 </p>
 </td>
@@ -1842,7 +1842,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210711/吴申_具有卫星辅助的移动感知的车辆边缘网络.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">具有卫星辅助的移动感知的车辆边缘网络</span>
 </p>
 </td>
@@ -1860,7 +1860,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210606/张雨洁_Intelligent Resource Slicing for eMBB and URLLC Coexistence in 5G and Beyond.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Intelligent Resource Slicing for eMBB and URLLC Coexistence in 5G and Beyond</span>
 </p>
 </td>
@@ -1878,7 +1878,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210523/贺靖超_空天地下的SFC映射和调度.ppt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">空天地下的SFC映射和调度</span>
 </p>
 </td>
@@ -1896,7 +1896,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210516/王葳_Wireless Control of Autonomous Guided Vehicle.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Wireless Control of Autonomous Guided Vehicle</span>
 </p>
 </td>
@@ -1914,7 +1914,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210509/张秋_Minimizing age of information in vehicular networks.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Minimizing age of information in vehicular networks</span>
 </p>
 </td>
@@ -1932,7 +1932,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210425/吴申_基于强化学习的移动感知MEC任务卸载策略.ppt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">基于强化学习的移动感知MEC任务卸载策略</span>
 </p>
 </td>
@@ -1950,7 +1950,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210425/陈子衍_Deployment and Energy Research of UAV Network.ppt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Deployment and Energy Research of UAV Network</span>
 </p>
 </td>
@@ -1968,7 +1968,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210418/张雨洁-张达越_蜂窝用户与车辆用户的联合调度.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">蜂窝用户与车辆用户的联合调度</span>
 </p>
 </td>
@@ -1986,7 +1986,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210411/吴申_Collaborate Service Caching and Workload Scheduling in Mobile Edge Computing.ppt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Collaborate Service Caching and Workload Scheduling in Mobile Edge Computing</span>
 </p>
 </td>
@@ -2004,7 +2004,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210331/吴申_Cloud-edge-end collaboration in SAGIN.ppt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Cloud-edge-end collaboration in SAGIN</span>
 </p>
 </td>
@@ -2022,7 +2022,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210321/张达越_URLLC场景下的V2V资源管理框架.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">URLLC场景下的V2V资源管理框架</span>
 </p>
 </td>
@@ -2040,7 +2040,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210314/万浩东_强化学习简介及其在通信中的应用.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">强化学习简介及其在通信中的应用</span>
 </p>
 </td>
@@ -2058,7 +2058,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210131/张秋_信息年龄AoI.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">信息年龄AoI</span>
 </p>
 </td>
@@ -2076,7 +2076,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210124/王葳_通信与控制结合思路报告.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">通信与控制结合思路报告</span>
 </p>
 </td>
@@ -2094,7 +2094,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20210117/胡旭_无人船与海上通信网络：需求、挑战及预研思考.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">无人船与海上通信网络：需求、挑战及预研思考</span>
 </p>
 </td>
@@ -2142,7 +2142,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240729/【AI研讨】邓川_文本分词与嵌入.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">文本分词与嵌入</span>
 </p>
 </td>
@@ -2160,7 +2160,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240729/【AI研讨】李青壮_RNN与LSTM的结构与原理.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">RNN与LSTM的结构与原理</span>
 </p>
 </td>
@@ -2178,7 +2178,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240729/【AI研讨】傅连浩_Attention机制与Transformer模块讲解.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Attention机制与Transformer模块讲解</span>
 </p>
 </td>
@@ -2196,7 +2196,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240718/【AI研讨】齐阁_前向传播与反向传播.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">前向传播与反向传播</span>
 </p>
 </td>
@@ -2214,7 +2214,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240718/【AI研讨】胡陆莹_正则化的原理与应用.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">正则化的原理与应用</span>
 </p>
 </td>
@@ -2232,7 +2232,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240718/【AI研讨】侯毓真_卷积神经网络原理与结构.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">卷积神经网络原理与结构</span>
 </p>
 </td>
@@ -2250,7 +2250,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240708/【AI研讨】王天宇_机器学习介绍与常见机器学习算法类型.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">机器学习介绍与常见机器学习算法类型</span>
 </p>
 </td>
@@ -2268,7 +2268,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240708/【AI研讨】张智杰_线性回归模型与损失函数.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">线性回归模型与损失函数</span>
 </p>
 </td>
@@ -2286,7 +2286,7 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240708/【AI研讨】刘苏_梯度下降法的原理与应用.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+</p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">梯度下降法的原理与应用</span>
 </p>
 </td>

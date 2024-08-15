@@ -193,7 +193,7 @@ def set_seminar_table_html(info_list: list) -> BeautifulSoup:
         return [[(kwd in x['presenters']) for x in sorted_list].index(True) for kwd in kwd_list]
 
     # set the width of the title column, defined by trials
-    title_width = lambda button_num: 90 - 8 * button_num
+    title_width = lambda button_num: 93 - 8 * button_num
 
     table = ret_html.find('tbody')
     for material_list, sort_list in info_list:
@@ -209,10 +209,7 @@ def set_seminar_table_html(info_list: list) -> BeautifulSoup:
             table_row.find('span', {'class': 'seminar-date'}).string = material['date']
             table_row.find('span', {'class': 'seminar-presenter'}).string = '、'.join(material['presenters'])
             table_row.find('span', {'class': 'seminar-title'}).string = material['title']
-            table_row.find('span', {'class': 'seminar-title'}).parent.attrs['style'].replace(
-                'max-width: {width}%', 
-                f"max-width: {title_width(len(material['buttons']))}%"
-            )
+            table_row.find('span', {'class': 'seminar-title'}).parent.attrs['style'] = f"max-width: {title_width(len(material['buttons']))}%"
 
             for button in sorted(material['buttons'], key=lambda x: button_display_order[x['type']]):
                 table_button = table_button_temp.__copy__()
