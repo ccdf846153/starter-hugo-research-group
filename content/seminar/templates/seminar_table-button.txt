@@ -1,0 +1,8 @@
+<p style="display: inline-block; margin: 0;">
+    <a class="btn btn-outline-primary btn-page-header btn-sm" 
+        href="{button_link}"
+        target="_blank" rel="noopener"
+        style="vertical-align: middle; 0;">
+        {button_name}
+    </a>
+</p>
