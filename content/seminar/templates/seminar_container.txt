@@ -22,7 +22,9 @@
                     </div>
                 </div>
 
-                <h1 class="mb-0" align="center">AI 研讨</h1>
+                <div class="section-heading col-12 mb-3 text-center">
+                    <h1 class="mb-0" align="center" style="padding-top: 2rem;">AI 研讨会</h1>
+                </div>
 
                 <div id="ai-seminar-container" class="seminar-container" style="position: relative; left: -7.5%; font-size: 1rem; width: 115%; height: 32rem;">
                     <div class="grid-sizer col-lg-12 isotope-item year-2024" 
