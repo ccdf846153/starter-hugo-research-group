@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Access-Control-Allow-Origin" content="unicxidian.org" />
+    <title>Document</title>
+</head>
+<body>
+    <div class="universal-wrapper">
+        <div class="row">
+            <div class="col-lg-12">
+                
+                <div id="normal-seminar-container" class="seminar-container" style="position: relative; left: -7.5%; font-size: 1rem; width: 115%; height: 32rem;">
+                    <div class="grid-sizer col-lg-12 isotope-item year-2024" 
+                        style="position: absolute; top: 0px; width: 100%; height: inherit;">
+                        <div class="pub-list-item view-citation" style="margin-bottom: 1rem; width: 100%; height: inherit;">
+                            <table id="normal-item-table-content" class="seminar-table" rules="none" align="center">
+                                <!-- normal_seminar_html_text -->
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <h1 class="mb-0" align="center">AI 研讨</h1>
+
+                <div id="ai-seminar-container" class="seminar-container" style="position: relative; left: -7.5%; font-size: 1rem; width: 115%; height: 32rem;">
+                    <div class="grid-sizer col-lg-12 isotope-item year-2024" 
+                        style="position: absolute; top: 0px; width: 100%; height: inherit;">
+                        <div class="pub-list-item view-citation" style="margin-bottom: 1rem; width: 100%; height: inherit;">
+                            <table id="ai-item-table-content" class="seminar-table" rules="none" align="center">
+                                <!-- ai_seminar_html_text -->
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</body>
+</html>

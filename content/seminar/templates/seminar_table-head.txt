@@ -1,0 +1,22 @@
+<thead>
+    <tr class="{class_name}">
+        <th style="position: relative; width: 15%; text-align: center; padding-bottom: 0.2rem;">
+            <span class="article-metadata li-cite-author" 
+                style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
+                <span class="seminar-date">汇报日期</span>
+            </span>
+        </th>
+        <th style="position: relative; width: 12%; text-align: center; padding-bottom: 0.2rem;">
+            <span class="article-metadata li-cite-author" 
+                style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
+                <span class="seminar-presenter">汇报人</span>
+            </span>
+        </th>
+        <th style="position: relative; width: 73%; text-align: center; padding-bottom: 0.2rem;">
+            <span class="article-metadata li-cite-author" 
+                style="width: 100%; text-align: center; font-weight: bold; font-size: 15pt;">
+                <span class="seminar-title">汇报主题</span>
+            </span>
+        </th>
+    </tr>
+</thead>

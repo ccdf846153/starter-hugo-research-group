@@ -1,0 +1,21 @@
+<tr class="{year_class}">
+    <td style="position: relative; width: 15%; text-align: center;">
+        <span class="article-metadata li-cite-author" 
+            style="width: 100%; text-align: center;">
+            <span class="seminar-date">{date_html_str}</span>
+        </span>
+    </td>
+    <td style="position: relative; width: 12%; text-align: center;">
+        <span class="article-metadata li-cite-author seminar-presenter" 
+            style="width: 100%; text-align: center;">
+            {presenter_html_str}
+        </span>
+    </td>
+    <td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+        <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+        <!-- {material_html_str} -->
+        <p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
+            <span class="seminar-title">{presentation_title}</span>
+        </p>
+    </td>
+</tr>

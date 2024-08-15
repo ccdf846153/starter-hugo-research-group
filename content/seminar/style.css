@@ -59,28 +59,28 @@
     margin-right: 0.3rem;
 }
 
-#item-table-content tbody {
+.seminar-table tbody {
     display: block;
     overflow-y: auto;
     height: 29.5rem;
     -webkit-overflow-scrolling: touch; 
 }
 
-#item-table-content tbody tr,
-#item-table-content thead {
+.seminar-table tbody tr,
+.seminar-table thead {
     display: table;
     width: 100%;
     table-layout: fixed;
 }
 
-#item-table-content:first-child {
+.seminar-table:first-child {
     margin-bottom: 0.3rem;
 }
 
-#container-publications > div {
+.seminar-container > div {
     padding: 0;
 }
 
-#container-publications > div > div {
+.seminar-container > div > div {
     margin-bottom: 0;
 }
