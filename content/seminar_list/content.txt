@@ -81,17 +81,17 @@
 </span>
 </td>
 <td style="position: relative; width: 12%; text-align: center;">
-<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">郭译凡</span>
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">许嘉洁</span>
 </td>
 <td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/郭译凡_基于视觉Transformer的复杂环境植物病害检测算法研究与实现.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/许嘉洁_面向物联网的边缘协同计算优化策略研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/基于视觉Transformer的复杂环境植物病害检测算法研究与实现_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/面向物联网的边缘协同计算优化策略研究_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
 </p><p class="seminar-title-container" style="max-width: 77%">
-<span class="seminar-title">基于视觉Transformer的复杂环境植物病害检测算法研究与实现</span>
+<span class="seminar-title">面向物联网的边缘协同计算优化策略研究</span>
 </p>
 </td>
 </tr><tr class="year-2024">
@@ -121,17 +121,17 @@
 </span>
 </td>
 <td style="position: relative; width: 12%; text-align: center;">
-<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">许嘉洁</span>
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">郭译凡</span>
 </td>
 <td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/许嘉洁_面向物联网的边缘协同计算优化策略研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/郭译凡_基于视觉Transformer的复杂环境植物病害检测算法研究与实现.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/面向物联网的边缘协同计算优化策略研究_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240708/基于视觉Transformer的复杂环境植物病害检测算法研究与实现_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
 </p><p class="seminar-title-container" style="max-width: 77%">
-<span class="seminar-title">面向物联网的边缘协同计算优化策略研究</span>
+<span class="seminar-title">基于视觉Transformer的复杂环境植物病害检测算法研究与实现</span>
 </p>
 </td>
 </tr><tr class="year-2024">
@@ -2135,15 +2135,15 @@
 </span>
 </td>
 <td style="position: relative; width: 12%; text-align: center;">
-<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">邓川</span>
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">傅连浩</span>
 </td>
 <td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240729/【AI研讨】邓川_文本分词与嵌入.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240729/【AI研讨】傅连浩_Attention机制与Transformer模块讲解.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
-<span class="seminar-title">文本分词与嵌入</span>
+<span class="seminar-title">Attention机制与Transformer模块讲解</span>
 </p>
 </td>
 </tr><tr class="year-2024">
@@ -2171,15 +2171,15 @@
 </span>
 </td>
 <td style="position: relative; width: 12%; text-align: center;">
-<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">傅连浩</span>
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">邓川</span>
 </td>
 <td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240729/【AI研讨】傅连浩_Attention机制与Transformer模块讲解.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240729/【AI研讨】邓川_文本分词与嵌入.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
-<span class="seminar-title">Attention机制与Transformer模块讲解</span>
+<span class="seminar-title">文本分词与嵌入</span>
 </p>
 </td>
 </tr><tr class="year-2024">
@@ -2189,15 +2189,15 @@
 </span>
 </td>
 <td style="position: relative; width: 12%; text-align: center;">
-<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">齐阁</span>
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">侯毓真</span>
 </td>
 <td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240718/【AI研讨】齐阁_前向传播与反向传播.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240718/【AI研讨】侯毓真_卷积神经网络原理与结构.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
-<span class="seminar-title">前向传播与反向传播</span>
+<span class="seminar-title">卷积神经网络原理与结构</span>
 </p>
 </td>
 </tr><tr class="year-2024">
@@ -2225,15 +2225,15 @@
 </span>
 </td>
 <td style="position: relative; width: 12%; text-align: center;">
-<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">侯毓真</span>
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">齐阁</span>
 </td>
 <td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240718/【AI研讨】侯毓真_卷积神经网络原理与结构.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240718/【AI研讨】齐阁_前向传播与反向传播.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
-<span class="seminar-title">卷积神经网络原理与结构</span>
+<span class="seminar-title">前向传播与反向传播</span>
 </p>
 </td>
 </tr><tr class="year-2024">
@@ -2243,15 +2243,15 @@
 </span>
 </td>
 <td style="position: relative; width: 12%; text-align: center;">
-<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">王天宇</span>
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">刘苏</span>
 </td>
 <td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240708/【AI研讨】王天宇_机器学习介绍与常见机器学习算法类型.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240708/【AI研讨】刘苏_梯度下降法的原理与应用.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
-<span class="seminar-title">机器学习介绍与常见机器学习算法类型</span>
+<span class="seminar-title">梯度下降法的原理与应用</span>
 </p>
 </td>
 </tr><tr class="year-2024">
@@ -2279,15 +2279,15 @@
 </span>
 </td>
 <td style="position: relative; width: 12%; text-align: center;">
-<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">刘苏</span>
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">王天宇</span>
 </td>
 <td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240708/【AI研讨】刘苏_梯度下降法的原理与应用.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240708/【AI研讨】王天宇_机器学习介绍与常见机器学习算法类型.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
-<span class="seminar-title">梯度下降法的原理与应用</span>
+<span class="seminar-title">机器学习介绍与常见机器学习算法类型</span>
 </p>
 </td>
 </tr></tbody></table>

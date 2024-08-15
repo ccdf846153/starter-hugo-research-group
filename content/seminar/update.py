@@ -200,7 +200,7 @@ def set_seminar_table_html(info_list: list) -> BeautifulSoup:
 
         # sort the material list by the sort list if exists
         if sort_list is not None:
-            material_list = [material_list[idx] for idx in material_sort_arg(material_list, sort_list)]
+            material_list = [material_list[idx] for idx in material_sort_arg(material_list, sort_list)][::-1]
         for material in material_list:
 
             table_row = table_row_temp.__copy__()
