@@ -185,9 +185,9 @@
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240603/周新阳_WiFi网络中基于滑动窗口的联邦学习异步更新方法研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240603/周新阳_Wi-Fi网络中基于滑动窗口的联邦学习异步更新方法研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
-<span class="seminar-title">WiFi网络中基于滑动窗口的联邦学习异步更新方法研究</span>
+<span class="seminar-title">Wi-Fi网络中基于滑动窗口的联邦学习异步更新方法研究</span>
 </p>
 </td>
 </tr><tr class="year-2024">
@@ -204,6 +204,8 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240527/傅连浩_分布式训练分布式执行共享算力网络任务卸载方案.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240527/分布式训练分布式执行共享算力网络任务卸载方案_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
 </p><p style="text-align: left; display: inline-block; max-width: {width}%; vertical-align: middle;">
 <span class="seminar-title">分布式训练分布式执行共享算力网络任务卸载方案</span>
 </p>
