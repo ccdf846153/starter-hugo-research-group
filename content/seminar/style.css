@@ -84,3 +84,9 @@
 .seminar-container > div > div {
     margin-bottom: 0;
 }
+
+.seminar-title-container {
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
