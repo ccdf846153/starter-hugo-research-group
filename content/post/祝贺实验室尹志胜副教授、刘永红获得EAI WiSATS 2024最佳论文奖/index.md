@@ -1,6 +1,6 @@
 ---
 title: 祝贺实验室尹志胜副教授、刘永红获得EAI WiSATS 2024最佳论文奖
-date: 2023-08-26
+date: 2024-08-27
 tags:
   - paper
   - forum
