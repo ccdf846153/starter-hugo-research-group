@@ -2179,7 +2179,7 @@
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240729/【AI研讨】傅连浩_Attention机制与Transformer模块讲解.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/AI_materials/20240729/【AI研讨】傅连浩_Attention机制与Transformer模块讲解.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">Attention机制与Transformer模块讲解</span>
 </p>
@@ -2197,7 +2197,7 @@
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240729/【AI研讨】李青壮_RNN与LSTM的结构与原理.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/AI_materials/20240729/【AI研讨】李青壮_RNN与LSTM的结构与原理.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">RNN与LSTM的结构与原理</span>
 </p>
@@ -2215,7 +2215,7 @@
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240729/【AI研讨】邓川_文本分词与嵌入.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/AI_materials/20240729/【AI研讨】邓川_文本分词与嵌入.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">文本分词与嵌入</span>
 </p>
@@ -2233,7 +2233,7 @@
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240718/【AI研讨】侯毓真_卷积神经网络原理与结构.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/AI_materials/20240718/【AI研讨】侯毓真_卷积神经网络原理与结构.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">卷积神经网络原理与结构</span>
 </p>
@@ -2251,7 +2251,7 @@
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240718/【AI研讨】胡陆莹_正则化的原理与应用.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/AI_materials/20240718/【AI研讨】胡陆莹_正则化的原理与应用.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">正则化的原理与应用</span>
 </p>
@@ -2269,7 +2269,7 @@
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240718/【AI研讨】齐阁_前向传播与反向传播.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/AI_materials/20240718/【AI研讨】齐阁_前向传播与反向传播.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">前向传播与反向传播</span>
 </p>
@@ -2287,7 +2287,7 @@
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240708/【AI研讨】刘苏_梯度下降法的原理与应用.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/AI_materials/20240708/【AI研讨】刘苏_梯度下降法的原理与应用.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">梯度下降法的原理与应用</span>
 </p>
@@ -2305,7 +2305,7 @@
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240708/【AI研讨】张智杰_线性回归模型与损失函数.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/AI_materials/20240708/【AI研讨】张智杰_线性回归模型与损失函数.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">线性回归模型与损失函数</span>
 </p>
@@ -2323,7 +2323,7 @@
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="seminar/AI_materials/20240708/【AI研讨】王天宇_机器学习介绍与常见机器学习算法类型.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/AI_materials/20240708/【AI研讨】王天宇_机器学习介绍与常见机器学习算法类型.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">机器学习介绍与常见机器学习算法类型</span>
 </p>
