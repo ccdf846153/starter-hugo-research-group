@@ -116,10 +116,10 @@ sections:
       flip_alt_rows: false
 
   - block: markdown
-    
     content:
-      title: <div style="margin-bottom:-6em;"></div>
-      text: ""
+      title: ‘’
+      subtitle: ''
+      text: ‘’
 
     design:
       columns: '1'
