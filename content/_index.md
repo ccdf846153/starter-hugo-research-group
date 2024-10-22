@@ -114,6 +114,14 @@ sections:
       # Choose single or dual column layout
       columns: '1'
       flip_alt_rows: false
+
+  - block: markdown
     
+    content:
+      title: <div style="margin-bottom:-6em;"></div>
+      text: ""
+
+    design:
+      columns: '1'
 ---
 

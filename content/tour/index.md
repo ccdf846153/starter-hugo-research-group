@@ -66,9 +66,9 @@ sections:
       filters:
         folders:
           - post
-        # All set tags: report, event, paper, internship, forum, contest
+        # All set tags: report, event, paper, internship, forum, contest， news
         exclude_tags: [expired]
-        tags: [paper, internship, forum, contest, people]
+        tags: [paper, internship, forum, contest, people, news]
         kinds:
           - page
       count: 9
@@ -114,6 +114,14 @@ sections:
       # Choose single or dual column layout
       columns: '1'
       flip_alt_rows: false
+
+  - block: markdown
     
+    content:
+      title: <div style="margin-bottom:-6em;"></div>
+      text: ""
+
+    design:
+      columns: '1'
 ---
 
