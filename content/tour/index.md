@@ -118,7 +118,7 @@ sections:
   - block: markdown
     content:
       title: ''
-      subtitle: ''
+      subtitle: 'Test'
       text: ''
 
     design:
