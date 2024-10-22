@@ -118,9 +118,9 @@ sections:
   - block: markdown
 
     content:
-      title: <div></div>
+      title: <div>Test</div>
       subtitle: ''
-      text: <script>console.log("Markdown exist.")</script>
+      text: <div>test</div><script>console.log("Markdown exist.")</script>
 
     design:
       columns: '1'
