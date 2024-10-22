@@ -27,10 +27,11 @@ social:
     icon_pack: fas
     link: 'mailto:yzhou_4@stu.xidian.edu.cn'
 
+# 邮箱（必填，尽可能填写学校邮箱）
 email: 'yzhou_4@stu.xidian.edu.cn'
 highlight_name: false
 
-# 根据自身情况选填
+# 根据自身情况选填（博士填写 PHD Student; 硕士填写 Master Student）
 #       - PHD Student
 #       - Master Student
 #       - Undergraduate Student
