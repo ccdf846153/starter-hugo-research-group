@@ -116,12 +116,11 @@ sections:
       flip_alt_rows: false
 
   - block: markdown
-
     content:
-      title: <div></div>
-      subtitle: ''
-      text: <script>console.log("Markdown exist.")</script>
-
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---
