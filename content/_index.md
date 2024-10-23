@@ -115,13 +115,5 @@ sections:
       columns: '1'
       flip_alt_rows: false
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
 
