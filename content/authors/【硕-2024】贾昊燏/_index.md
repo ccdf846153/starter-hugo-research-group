@@ -4,7 +4,7 @@ title: 贾昊燏
 
 # 姓名
 first_name: 贾
-last_name: 2024
+last_name: 2024中国星网
 
 superuser: false
 
