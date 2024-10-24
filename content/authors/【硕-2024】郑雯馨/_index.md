@@ -4,7 +4,7 @@ title: 郑雯馨
 
 # 姓名
 first_name: 郑
-last_name: 2024
+last_name: 2024中国星网
 
 superuser: false
 
