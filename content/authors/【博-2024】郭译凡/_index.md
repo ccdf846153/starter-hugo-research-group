@@ -3,8 +3,8 @@
 title: 郭译凡
 
 # 姓名
-first_name: zb
-last_name: zb
+first_name: f
+last_name: f
 
 superuser: false
 

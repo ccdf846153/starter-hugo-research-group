@@ -3,8 +3,8 @@
 title: 许嘉洁
 
 # 姓名
-first_name: za
-last_name: za
+first_name: g
+last_name: g
 
 superuser: false
 

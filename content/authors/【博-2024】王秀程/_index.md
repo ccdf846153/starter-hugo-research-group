@@ -3,8 +3,8 @@
 title: 王秀程
 
 # 姓名
-first_name: 王
-last_name: 2024
+first_name: d
+last_name: d
 
 superuser: false
 
