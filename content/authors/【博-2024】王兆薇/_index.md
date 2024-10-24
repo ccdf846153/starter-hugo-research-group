@@ -3,8 +3,8 @@
 title: 王兆薇
 
 # 姓名
-first_name: 王
-last_name: 2024
+first_name: e
+last_name: e
 
 superuser: false
 
