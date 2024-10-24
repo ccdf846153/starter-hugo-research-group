@@ -4,7 +4,7 @@ title: 韩松明
 
 # 姓名
 first_name: 韩
-last_name: 2024
+last_name: 20240
 
 superuser: false
 

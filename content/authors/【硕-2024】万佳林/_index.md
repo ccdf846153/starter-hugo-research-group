@@ -4,7 +4,7 @@ title: 万佳林
 
 # 姓名
 first_name: 万
-last_name: 2024
+last_name: 20240
 
 superuser: false
 

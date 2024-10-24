@@ -3,8 +3,8 @@
 title: 张智杰
 
 # 姓名
-first_name: a中国星网张
-last_name: 2024a
+first_name: 张
+last_name: 20241
 
 superuser: false
 
