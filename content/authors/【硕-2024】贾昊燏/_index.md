@@ -3,7 +3,7 @@
 title: 贾昊燏
 
 # 姓名
-first_name: 中国星网贾
+first_name: a中国星网贾
 last_name: 2024
 
 superuser: false
