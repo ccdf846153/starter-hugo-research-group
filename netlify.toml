@@ -1,4 +1,5 @@
 [build]
+#  command = "hugo --gc --minify -b $URL"
   command = "hugo --gc --minify -b unicxidian.org"
   publish = "public"
 
@@ -10,7 +11,8 @@
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+#  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc --minify --buildFuture -b unicxidian.org"
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
