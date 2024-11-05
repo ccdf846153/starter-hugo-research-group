@@ -37,6 +37,26 @@
 </thead><tbody><tr class="year-2024">
 <td style="position: relative; width: 15%; text-align: center;">
 <span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
+<span class="seminar-date">2024-11-04</span>
+</span>
+</td>
+<td style="position: relative; width: 12%; text-align: center;">
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">赵璇</span>
+</td>
+<td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+<p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+<!-- {material_html_str} -->
+<p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20241104/赵璇_基于CNN的OTFS信号检测算法研究.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20241104/基于CNN的OTFS信号检测算法研究_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+</p><p class="seminar-title-container" style="max-width: 77%">
+<span class="seminar-title">基于CNN的OTFS信号检测算法研究</span>
+</p>
+</td>
+</tr><tr class="year-2024">
+<td style="position: relative; width: 15%; text-align: center;">
+<span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
 <span class="seminar-date">2024-10-28</span>
 </span>
 </td>
