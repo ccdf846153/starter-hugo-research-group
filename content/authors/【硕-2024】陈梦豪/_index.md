@@ -1,15 +1,17 @@
 ---
 # 姓名
-title: 许嘉洁
+title: 陈梦豪
 
 # 姓名
-first_name: g
-last_name: g
+first_name: 陈
+last_name: 20240
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 2024级博士研究生<br>智能网络<br>鹏城实验室<br><br>
+role: 2024级硕士研究生<br>智能网络<br>&nbsp;
+
+
 organizations:
   - name: Xidian University
     url: ''
@@ -23,25 +25,17 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xujiajie@stu.xidian.edu.cn'
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.com/citations?hl=zh-CN&user=2GY52t0AAAAJ
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/ShenJinglong
-#  - icon: cv
-#    icon_pack: ai
-#    link: files/cv.pdf
+    link: 'mailto:mh03089@163.com'
 
-email: 'xujiajie@stu.xidian.edu.cn'
+# 邮箱（必填，尽可能填写学校邮箱）
+email: 'mh03089@163.com'
 highlight_name: false
 
-# 根据自身情况选填
+# 根据自身情况选填（博士填写 PHD Student; 硕士填写 Master Student）
 #       - PHD Student
 #       - Master Student
 #       - Undergraduate Student
 #       - Alumni
 user_groups:
-  - PHD Student
+  - Master Student
 ---
