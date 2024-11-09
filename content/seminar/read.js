@@ -1,7 +1,12 @@
 async function read() {
     try {
-        let response = await fetch('https://unicxidian.netlify.app/seminar_list/content.txt');
-        let fileContent = await response.text();
+        var response = await fetch('https://unicxidian.netlify.app/seminar_list/content.txt');
+        var fileContent = await response.text();
+
+        if (fileContent == undefined) {
+            response = await fetch('https://unicxidian.org/seminar_list/content.txt');
+            fileContent = await response.text();
+        }
 
         const parser = new DOMParser();
         const doc = parser.parseFromString(fileContent, 'text/html');
