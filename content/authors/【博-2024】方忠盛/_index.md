@@ -1,15 +1,17 @@
 ---
 # 姓名
-title: 许嘉洁
+title: 方忠盛
 
 # 姓名
-first_name: g
-last_name: g
+first_name: 方
+last_name: 2024
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 2024级博士研究生<br>智能网络<br>鹏城实验室<br><br>
+role: 2024级博士研究生<br>空天地一体化网络<br>中国星网
+
+
 organizations:
   - name: Xidian University
     url: ''
@@ -23,7 +25,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xujiajie@stu.xidian.edu.cn'
+    link: 'mailto:zsfang@stu.xidian.edu.cn'
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.com/citations?hl=zh-CN&user=2GY52t0AAAAJ
@@ -34,7 +36,7 @@ social:
 #    icon_pack: ai
 #    link: files/cv.pdf
 
-email: 'xujiajie@stu.xidian.edu.cn'
+email: 'zsfang@stu.xidian.edu.cn'
 highlight_name: false
 
 # 根据自身情况选填
