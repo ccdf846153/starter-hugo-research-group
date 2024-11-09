@@ -1,7 +1,7 @@
 async function read() {
     try {
-        var response = await fetch('https://www.unicxidian.org/seminar_list/content.txt');
-        var fileContent = await response.text();
+        let response = await fetch('https://www.unicxidian.org/seminar_list/content.txt');
+        let fileContent = await response.text();
 
         // if (fileContent == undefined) {
         //     response = await fetch('https://unicxidian.org/seminar_list/content.txt');
