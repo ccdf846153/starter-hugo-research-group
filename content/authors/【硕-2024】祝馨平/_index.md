@@ -25,10 +25,10 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:24011210881@stu.xidian'
+    link: 'mailto:24011210881@stu.xidian.edu.cn'
 
 # 邮箱（必填，尽可能填写学校邮箱）
-email: '24011210881@stu.xidian'
+email: '24011210881@stu.xidian.edu.cn'
 highlight_name: false
 
 # 根据自身情况选填（博士填写 PHD Student; 硕士填写 Master Student）
