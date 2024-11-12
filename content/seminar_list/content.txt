@@ -48,7 +48,9 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20241111/孙兴栋-方忠盛_Hypatia卫星网络仿真平台调研.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p class="seminar-title-container" style="max-width: 85%">
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20241111/Hypatia卫星网络仿真平台调研_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">Hypatia卫星网络仿真平台调研</span>
 </p>
 </td>
