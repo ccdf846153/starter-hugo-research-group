@@ -48,7 +48,9 @@
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20241230/傅连浩_Joint Flying Relay Location and Routing Optimization for 6G UAV–IoT Networks：A Graph Neural Network-Based Approach.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p class="seminar-title-container" style="max-width: 85%">
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20241230/Joint Flying Relay Location and Routing Optimization for 6G UAV–IoT Networks：A Graph Neural Network-Based Approach_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+</p><p class="seminar-title-container" style="max-width: 77%">
 <span class="seminar-title">Joint Flying Relay Location and Routing Optimization for 6G UAV–IoT Networks：A Graph Neural Network-Based Approach</span>
 </p>
 </td>
@@ -620,6 +622,24 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240115/万佳林_无线通信中的对抗性机器学习调研报告.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
 </p><p class="seminar-title-container" style="max-width: 85%">
 <span class="seminar-title">无线通信中的对抗性机器学习调研报告</span>
+</p>
+</td>
+</tr><tr class="year-2024">
+<td style="position: relative; width: 15%; text-align: center;">
+<span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
+<span class="seminar-date">2024-01-06</span>
+</span>
+</td>
+<td style="position: relative; width: 12%; text-align: center;">
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">李青壮</span>
+</td>
+<td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+<p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+<!-- {material_html_str} -->
+<p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20240106/李青壮_面向发射机-接收机对的开放集射频指纹识别.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+</p><p class="seminar-title-container" style="max-width: 85%">
+<span class="seminar-title">面向发射机-接收机对的开放集射频指纹识别</span>
 </p>
 </td>
 </tr><tr class="year-2023">
