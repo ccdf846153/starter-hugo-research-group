@@ -37,6 +37,44 @@
 </thead><tbody><tr class="year-2025">
 <td style="position: relative; width: 15%; text-align: center;">
 <span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
+<span class="seminar-date">2025-01-14</span>
+</span>
+</td>
+<td style="position: relative; width: 12%; text-align: center;">
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">2023级硕士研究生</span>
+</td>
+<td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+<p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+<!-- {material_html_str} -->
+<p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250114/2023级硕士研究生_2023级硕士研究生开题答辩展示.zip.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">ZIP</a>
+</p><p class="seminar-title-container" style="max-width: 85%">
+<span class="seminar-title">2023级硕士研究生开题答辩展示</span>
+</p>
+</td>
+</tr><tr class="year-2025">
+<td style="position: relative; width: 15%; text-align: center;">
+<span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
+<span class="seminar-date">2025-01-13</span>
+</span>
+</td>
+<td style="position: relative; width: 12%; text-align: center;">
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">陈梦豪</span>
+</td>
+<td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+<p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+<!-- {material_html_str} -->
+<p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250113/陈梦豪_通感一体化的研究进展及挑战.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250113/通感一体化的研究进展及挑战_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+</p><p class="seminar-title-container" style="max-width: 77%">
+<span class="seminar-title">通感一体化的研究进展及挑战</span>
+</p>
+</td>
+</tr><tr class="year-2025">
+<td style="position: relative; width: 15%; text-align: center;">
+<span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
 <span class="seminar-date">2025-01-06</span>
 </span>
 </td>
