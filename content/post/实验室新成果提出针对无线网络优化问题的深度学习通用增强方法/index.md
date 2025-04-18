@@ -6,7 +6,7 @@ tags:
   - forum
 ---
 
-祝贺UNIC实验室马龙飞同学论文被IoT期刊收录
+祝贺UNIC实验室马龙飞同学论文被IEEE Internet of Things期刊收录
 
 <!--more-->
 
