@@ -37,6 +37,26 @@
 </thead><tbody><tr class="year-2025">
 <td style="position: relative; width: 15%; text-align: center;">
 <span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
+<span class="seminar-date">2025-04-28</span>
+</span>
+</td>
+<td style="position: relative; width: 12%; text-align: center;">
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">朱煜朋</span>
+</td>
+<td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+<p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+<!-- {material_html_str} -->
+<p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250428/朱煜朋_ORB-SLAM 原理与 EdgeSLAM 下的资源优化.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250428/ORB-SLAM 原理与 EdgeSLAM 下的资源优化_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+</p><p class="seminar-title-container" style="max-width: 77%">
+<span class="seminar-title">ORB-SLAM 原理与 EdgeSLAM 下的资源优化</span>
+</p>
+</td>
+</tr><tr class="year-2025">
+<td style="position: relative; width: 15%; text-align: center;">
+<span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
 <span class="seminar-date">2025-04-14</span>
 </span>
 </td>
