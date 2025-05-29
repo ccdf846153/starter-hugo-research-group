@@ -1,12 +1,12 @@
 ---
-title: 实验室硕士同学郑佩林在英国伦敦召开的学术会议IEEE INFOCOM上做学术报告
+title: 实验室硕士同学郑佩林在英国伦敦召开的学术会议IEEE INFOCOM上做报告
 date: 2025-05-28
 tags:
   - paper
   - forum
 ---
 
-实验室硕士同学郑佩林在英国伦敦召开的学术会议IEEE INFOCOM上做学术报告。
+实验室硕士同学郑佩林在英国伦敦召开的学术会议IEEE INFOCOM上做学术报告
 
 <!--more-->
 
