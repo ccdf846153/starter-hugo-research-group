@@ -47,7 +47,7 @@
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250526/杨双宇-方忠盛-陈哲-邓川-尚佳瑶_2025第四届电磁频谱学术大会参会汇报及核心内容分享.zip.ppt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">ZIP</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250526/杨双宇-方忠盛-陈哲-邓川-尚佳瑶_2025第四届电磁频谱学术大会参会汇报及核心内容分享.txt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Link</a>
 </p><p style="display: inline-block; margin: 0;">
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250526/2025第四届电磁频谱学术大会参会汇报及核心内容分享_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
 </p><p class="seminar-title-container" style="max-width: 77%">
