@@ -37,6 +37,66 @@
 </thead><tbody><tr class="year-2025">
 <td style="position: relative; width: 15%; text-align: center;">
 <span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
+<span class="seminar-date">2025-06-23</span>
+</span>
+</td>
+<td style="position: relative; width: 12%; text-align: center;">
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">许嘉洁</span>
+</td>
+<td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+<p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+<!-- {material_html_str} -->
+<p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250623/许嘉洁_从卫星定位到电磁孪生定位——几何测量与特征匹配定位方法.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250623/从卫星定位到电磁孪生定位——几何测量与特征匹配定位方法_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+</p><p class="seminar-title-container" style="max-width: 77%">
+<span class="seminar-title">从卫星定位到电磁孪生定位——几何测量与特征匹配定位方法</span>
+</p>
+</td>
+</tr><tr class="year-2025">
+<td style="position: relative; width: 15%; text-align: center;">
+<span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
+<span class="seminar-date">2025-06-18</span>
+</span>
+</td>
+<td style="position: relative; width: 12%; text-align: center;">
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">杨双宇</span>
+</td>
+<td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+<p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+<!-- {material_html_str} -->
+<p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250618/杨双宇_信道知识图实现6D可移动天线连续跟踪覆盖：一种流形优化方法.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250618/信道知识图实现6D可移动天线连续跟踪覆盖：一种流形优化方法_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+</p><p class="seminar-title-container" style="max-width: 77%">
+<span class="seminar-title">信道知识图实现6D可移动天线连续跟踪覆盖：一种流形优化方法</span>
+</p>
+</td>
+</tr><tr class="year-2025">
+<td style="position: relative; width: 15%; text-align: center;">
+<span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
+<span class="seminar-date">2025-06-09</span>
+</span>
+</td>
+<td style="position: relative; width: 12%; text-align: center;">
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">王葳</span>
+</td>
+<td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+<p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+<!-- {material_html_str} -->
+<p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250609/王葳_基于信息价值视角的车联网资源分配增强型双货币VCG拍卖机制.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250609/基于信息价值视角的车联网资源分配增强型双货币VCG拍卖机制_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+</p><p class="seminar-title-container" style="max-width: 77%">
+<span class="seminar-title">基于信息价值视角的车联网资源分配增强型双货币VCG拍卖机制</span>
+</p>
+</td>
+</tr><tr class="year-2025">
+<td style="position: relative; width: 15%; text-align: center;">
+<span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
 <span class="seminar-date">2025-05-26</span>
 </span>
 </td>
