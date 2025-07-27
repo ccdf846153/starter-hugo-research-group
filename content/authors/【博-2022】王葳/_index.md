@@ -3,8 +3,8 @@
 title: 王葳
 
 # 姓名
-first_name: b
-last_name: b
+first_name: a
+last_name: a
 
 superuser: false
 
