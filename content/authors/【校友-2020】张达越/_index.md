@@ -10,7 +10,7 @@ last_name: 2020
 superuser: false
 
 # Role/position
-role: 2020级硕士研究生<br>中兴通信股份有限公司
+role: 2020级硕士研究生<br>中兴通讯股份有限公司
 
 # Organizations/Affiliations
 organizations:

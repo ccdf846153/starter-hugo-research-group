@@ -1,15 +1,15 @@
 ---
 # 姓名
-title: 黄蕾
+title: 周新阳
 
 # 姓名
-first_name: 黄
+first_name: 周
 last_name: 2022
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 2022级硕士研究生<br>知识驱动无线网络<br>&nbsp;
+role: 2022级硕士研究生<br>海光信息技术股份有限公司
 
 organizations:
   - name: Xidian University
@@ -24,9 +24,10 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:18010100111@stu.xidian.edu.cn'
+    link: 'mailto:China_zhouxy@163.com'
 
-email: '18010100111@stu.xidian.edu.cn'
+
+email: ''
 highlight_name: false
 
 # 根据自身情况选填
@@ -35,5 +36,5 @@ highlight_name: false
 #       - Undergraduate Student
 #       - Alumni
 user_groups:
-  - Master Student
+  - Alumni
 ---
