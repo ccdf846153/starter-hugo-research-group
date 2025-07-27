@@ -1,15 +1,16 @@
 ---
 # 姓名
-title: 杨杰
+title: 张玉洁
 
 # 姓名
-first_name: 杨
+first_name: 张
 last_name: 2022
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 2022级硕士研究生<br>空天地一体化网络<br>&nbsp;
+role: 2022级硕士研究生<br>****
+
 
 organizations:
   - name: Xidian University
@@ -24,7 +25,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:baichunyj@163.com'
+    link: 'mailto:22011211000@stu.xidian.edu.cn'
 
 email: ''
 highlight_name: false
@@ -35,5 +36,5 @@ highlight_name: false
 #       - Undergraduate Student
 #       - Alumni
 user_groups:
-  - Master Student
+  - Alumni
 ---
