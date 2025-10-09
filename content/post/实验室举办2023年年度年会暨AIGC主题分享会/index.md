@@ -3,6 +3,7 @@ title: 实验室举办2023年年度年会暨AIGC主题分享会
 date: 2024-01-22
 tags:
   - forum
+  - expired
 ---
 
 UNIC实验室成功举办2023年年度年会暨AIGC主题分享会
