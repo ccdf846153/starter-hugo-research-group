@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 尹志胜
+title: 周淙浩
 
 # Full Name (for SEO)
-first_name: yin
-last_name:  b
-weight: 3
+first_name: cheng 
+last_name: nan
+weight: 1
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 副教授
+role: 教授
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Conghao Zhou received his PhD degree from the Department of Electrical and Computer Engineering, University of Waterloo, Canada, under the supervision of Professor Xuemin (Sherman) Shen. He obtained his Master’s degree from the University of Illinois at Chicago, USA, and his Bachelor’s degree from Northeastern University, China. His main research interests include: Immersive Communications, Intelligent Integration of Communication and Computing Technologies, and Space-Air-Ground Integrated Networks.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Immersive Communications
+  - Intelligent Integration of Communication and Computing Technologies
+  - Space-Air-Ground Integrated Networks
 
 education:
   courses:
@@ -44,13 +44,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zsyin@xidian.edu.cn'
+    link: 'mailto:zhouconghao@xidian.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=NLzRw10AAAAJ&hl=zh-CN&oi=ao
+    link: https://scholar.google.com/citations?user=E_kOc8IAAAAJ
   - icon: house
     icon_pack: fas
-    link: https://faculty.xidian.edu.cn/zsyin
+    link: https://faculty.xidian.edu.cn/ZHOUCONGHAO/zh_CN/index.htm
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,10 +61,11 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Teacher
+
 ---

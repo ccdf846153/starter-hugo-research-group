@@ -5,7 +5,7 @@ title: 孙瑞锦
 # Full Name (for SEO)
 first_name: sun 
 last_name: ruijin
-weight: 3
+weight: 4
 # Is this the primary user of the site?
 superuser: false
 
