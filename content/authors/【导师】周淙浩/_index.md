@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Conghao Zhou received his PhD degree from the Department of Electrical and Computer Engineering, University of Waterloo, Canada, under the supervision of Professor Xuemin (Sherman) Shen. He obtained his Master’s degree from the University of Illinois at Chicago, USA, and his Bachelor’s degree from Northeastern University, China. His main research interests include: Immersive Communications, Intelligent Integration of Communication and Computing Technologies, and Space-Air-Ground Integrated Networks.
+bio: His main research interests include: Immersive Communications, Intelligent Integration of Communication and Computing Technologies, and Space-Air-Ground Integrated Networks.
 
 interests:
   - Immersive Communications
