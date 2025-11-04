@@ -4,7 +4,7 @@ title: 尹志胜
 
 # Full Name (for SEO)
 first_name: yin
-last_name:  b
+last_name:  zhisheng
 weight: 3
 # Is this the primary user of the site?
 superuser: false
@@ -68,3 +68,4 @@ highlight_name: false
 user_groups:
   - Teacher
 ---
+
