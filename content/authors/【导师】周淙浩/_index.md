@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: His main research interests include: Immersive Communications, Intelligent Integration of Communication and Computing Technologies, and Space-Air-Ground Integrated Networks.
+# bio: His main research interests include: Immersive Communications, Intelligent Integration of Communication and Computing Technologies, and Space-Air-Ground Integrated Networks.
 
 interests:
   - Immersive Communications
