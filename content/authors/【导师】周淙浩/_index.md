@@ -3,9 +3,9 @@
 title: 周淙浩
 
 # Full Name (for SEO)
-first_name: cheng 
-last_name: nan
-weight: 1
+first_name: zhou
+last_name: conghao
+weight: 2
 # Is this the primary user of the site?
 superuser: false
 
@@ -67,5 +67,4 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Teacher
-
 ---
