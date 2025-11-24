@@ -37,6 +37,86 @@
 </thead><tbody><tr class="year-2025">
 <td style="position: relative; width: 15%; text-align: center;">
 <span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
+<span class="seminar-date">2025-11-17</span>
+</span>
+</td>
+<td style="position: relative; width: 12%; text-align: center;">
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">侯毓真</span>
+</td>
+<td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+<p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+<!-- {material_html_str} -->
+<p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20251117/侯毓真_针对射频指纹识别白盒对抗样本攻击的模型鲁棒性提升方法.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20251117/针对射频指纹识别白盒对抗样本攻击的模型鲁棒性提升方法_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+</p><p class="seminar-title-container" style="max-width: 77%">
+<span class="seminar-title">针对射频指纹识别白盒对抗样本攻击的模型鲁棒性提升方法</span>
+</p>
+</td>
+</tr><tr class="year-2025">
+<td style="position: relative; width: 15%; text-align: center;">
+<span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
+<span class="seminar-date">2025-11-03</span>
+</span>
+</td>
+<td style="position: relative; width: 12%; text-align: center;">
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">邱子仪</span>
+</td>
+<td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+<p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+<!-- {material_html_str} -->
+<p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20251103/邱子仪_面向下一代Wi-Fi网络的多AP协作知识驱动智能优化策略.pptx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20251103/面向下一代Wi-Fi网络的多AP协作知识驱动智能优化策略_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+</p><p class="seminar-title-container" style="max-width: 77%">
+<span class="seminar-title">面向下一代Wi-Fi网络的多AP协作知识驱动智能优化策略</span>
+</p>
+</td>
+</tr><tr class="year-2025">
+<td style="position: relative; width: 15%; text-align: center;">
+<span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
+<span class="seminar-date">2025-10-13</span>
+</span>
+</td>
+<td style="position: relative; width: 12%; text-align: center;">
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">魏子超</span>
+</td>
+<td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+<p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+<!-- {material_html_str} -->
+<p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20251013/魏子超_多模态无线信道基础模型关键技术研究与验证.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20251013/多模态无线信道基础模型关键技术研究与验证_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+</p><p class="seminar-title-container" style="max-width: 77%">
+<span class="seminar-title">多模态无线信道基础模型关键技术研究与验证</span>
+</p>
+</td>
+</tr><tr class="year-2025">
+<td style="position: relative; width: 15%; text-align: center;">
+<span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
+<span class="seminar-date">2025-09-15</span>
+</span>
+</td>
+<td style="position: relative; width: 12%; text-align: center;">
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">吴小芳</span>
+</td>
+<td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+<p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+<!-- {material_html_str} -->
+<p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250915/吴小芳_基于深度学习的物料需求预测及库存优化方法研究.ppt" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20250915/基于深度学习的物料需求预测及库存优化方法研究_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+</p><p class="seminar-title-container" style="max-width: 77%">
+<span class="seminar-title">基于深度学习的物料需求预测及库存优化方法研究</span>
+</p>
+</td>
+</tr><tr class="year-2025">
+<td style="position: relative; width: 15%; text-align: center;">
+<span class="article-metadata li-cite-author" style="width: 100%; text-align: center;">
 <span class="seminar-date">2025-09-08</span>
 </span>
 </td>
