@@ -4,6 +4,7 @@ date: 2025-04-09
 tags:
   - paper
   - forum
+  - expired
 ---
 
 祝贺UNIC实验室马龙飞同学论文被IEEE Internet of Things期刊收录
