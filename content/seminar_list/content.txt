@@ -61,15 +61,17 @@
 </span>
 </td>
 <td style="position: relative; width: 12%; text-align: center;">
-<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">陈哲</span>
+<span class="article-metadata li-cite-author seminar-presenter" style="width: 100%; text-align: center;">陈哲、李茗、赫祎征、冉艺泉、吴娅兰</span>
 </td>
 <td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
 <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
 <!-- {material_html_str} -->
 <p style="display: inline-block; margin: 0;">
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20251110/陈哲_2025第19届电磁年会参会汇报及核心内容分享_会议纪要.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
-</p><p class="seminar-title-container" style="max-width: 85%">
-<span class="seminar-title">2025第19届电磁年会参会汇报及核心内容分享会议纪要</span>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20251110/陈哲-李茗-赫祎征-冉艺泉-吴娅兰_2025第19届电磁年会参会汇报及核心内容分享.pdf" rel="noopener" style="vertical-align: middle; 0;" target="_blank">PPT</a>
+</p><p style="display: inline-block; margin: 0;">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/seminar/materials/20251110/2025第19届电磁年会参会汇报及核心内容分享_会议纪要.docx" rel="noopener" style="vertical-align: middle; 0;" target="_blank">Note</a>
+</p><p class="seminar-title-container" style="max-width: 77%">
+<span class="seminar-title">2025第19届电磁年会参会汇报及核心内容分享</span>
 </p>
 </td>
 </tr><tr class="year-2025">
