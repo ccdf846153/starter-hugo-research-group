@@ -1,15 +1,17 @@
 ---
 # 姓名
-title: 方忠盛
+title: 冉艺泉
 
 # 姓名
-first_name: 方
-last_name: 2024
+first_name: 冉
+last_name: 20250
 
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 2024级博士研究生<br>空天地一体化网络<br>中国星网<br><br>
+role: 2025级硕士研究生<br>智能网络<br>&nbsp;
+
+
 organizations:
   - name: Xidian University
     url: ''
@@ -23,25 +25,17 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zsfang@stu.xidian.edu.cn'
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.com/citations?hl=zh-CN&user=2GY52t0AAAAJ
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/ShenJinglong
-#  - icon: cv
-#    icon_pack: ai
-#    link: files/cv.pdf
+    link: 'mailto:25011210922@stu.xidian.edu.cn'
 
-email: 'zsfang@stu.xidian.edu.cn'
+# 邮箱（必填，尽可能填写学校邮箱）
+email: '25011210922@stu.xidian.edu.cn'
 highlight_name: false
 
-# 根据自身情况选填
+# 根据自身情况选填（博士填写 PHD Student; 硕士填写 Master Student）
 #       - PHD Student
 #       - Master Student
 #       - Undergraduate Student
 #       - Alumni
 user_groups:
-  - PHD Student
+  - Master Student
 ---
