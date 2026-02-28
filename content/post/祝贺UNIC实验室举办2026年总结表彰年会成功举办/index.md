@@ -5,7 +5,7 @@ tags:
   - forum
 ---
 
-UNIC实验室全体师生齐聚举办2026年总结表彰年会
+UNIC实验室全体师生齐聚举办2026年总结表彰年会活动
 
 <!--more-->
 
@@ -17,10 +17,10 @@ UNIC实验室全体师生齐聚举办2026年总结表彰年会
 
 <div style="justify-content:center; margin: 0 auto; width:50%; display:flex; flex-shrink:0;"><img src="./图片2.png"/><img src="./图片3.png"/></div>
 
-<div align="center"><img src="./图片4.png" style="width:28%;"/><img src="./图片5.png" style="width:27.5%;"/><img src="./图片6.png" style="width:41%;"/></div>
+<div style="justify-content:center; display:flex; width:36%; margin:0 auto;"><img src="./图片4.png" style="flex-basis:auto; width: 80%; margin-top: 0;"><img src="./图片5.png" style="flex-basis:auto; width: 80%;  margin-top: 0;"><img src="./图片6.png" style="flex-basis:auto; max-width: 130%; width: 120%; flex-grow:2;  margin-top: 0;"></div>
 
 幸运大抽奖环节惊喜不断，丰厚奖品承载着实验室对师生的关怀。每一份幸运都让现场欢呼声不断，为年会增添了满满喜悦。互动游戏环节趣味盎然，“逢七必过”“反应堆叠”“数字炸弹”等七大游戏轮番上演。师生们踊跃参与，在紧张刺激的比拼中放下科研压力，展现出风趣活泼的一面。失误时的爆笑、获胜时的欢呼交织在一起，不仅增进了师生间、同窗间的情谊，更凝聚了实验室的向心力。
 
-<div align="center"><img src="./图片7.png" style="width:35%;"/><img src="./图片8.png" style="width:32.5%;"/><img src="./图片9.png" style="width:32.5%;"/></div>
+<div style="justify-content:center; display:flex; width:28%; margin:0 auto;"><img src="./图片7.png" style="flex-basis:auto; max-width: 130%; width: 120%; margin-top: 0;"><img src="./图片8.png" style="flex-basis:auto; max-width: 130%; width: 120%;  margin-top: 0;"><img src="./图片9.png" style="flex-basis:auto; max-width: 130%; width: 120%; flex-grow:2;  margin-top: 0;"></div>
 
 此次年会既是对过去一年科研与团队建设的总结，更是新一年砥砺前行的动员令。未来，UNIC 实验室的师生们将继续携手并肩，在科研道路上策马扬鞭、勇毅探索，共同书写更多科研佳绩。
