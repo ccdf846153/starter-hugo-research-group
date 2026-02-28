@@ -4,6 +4,7 @@ date: 2025-05-24
 tags:
   - paper
   - forum
+  - expired
 ---
 
 实验室6G智能无线网络知识驱动方法综述论文被IEEE Communications Surveys & Tutorials接收
