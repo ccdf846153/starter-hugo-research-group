@@ -4,6 +4,7 @@ date: 2025-08-11
 tags:
   - paper
   - forum
+  - expired
 ---
 
 UNIC 实验室尹志胜副教授担任 ICICN 2025 分会主席并获得“青年科学家奖”。
